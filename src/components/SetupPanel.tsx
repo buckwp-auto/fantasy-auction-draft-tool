@@ -107,8 +107,50 @@ export function SetupPanel() {
         </div>
         <p className="muted">
           Superflex counts toward QB scarcity (≈2 QB starters/team). Revalue
-          after changing starters/flex so Proj $ / VBD match your league.
+          after changing starters/flex or starter/bench $ share so Proj $ / VBD
+          match your league.
         </p>
+        <h3>Auction $ split (VBD)</h3>
+        <p className="muted">
+          Elboberto defaults: 88% starters / 12% bench. Changing one fills the
+          other so they sum to 100%.
+        </p>
+        <div className="form-grid">
+          <label>
+            Starter %
+            <input
+              type="number"
+              min={0}
+              max={100}
+              step={1}
+              value={Math.round(settings.starterPct * 100)}
+              onChange={(e) => {
+                const starterPct = Math.min(
+                  1,
+                  Math.max(0, Number(e.target.value) / 100),
+                )
+                updateSettings({ starterPct, benchPct: 1 - starterPct })
+              }}
+            />
+          </label>
+          <label>
+            Bench %
+            <input
+              type="number"
+              min={0}
+              max={100}
+              step={1}
+              value={Math.round(settings.benchPct * 100)}
+              onChange={(e) => {
+                const benchPct = Math.min(
+                  1,
+                  Math.max(0, Number(e.target.value) / 100),
+                )
+                updateSettings({ benchPct, starterPct: 1 - benchPct })
+              }}
+            />
+          </label>
+        </div>
         {revalueMsg && <p className="status">{revalueMsg}</p>}
         <div className="form-grid starters">
           {(

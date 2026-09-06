@@ -44,6 +44,13 @@ export interface LeagueSettings {
   keepersCountAgainstBudget: boolean
   /** When true, keeper spends are excluded from position spending % (sheet behavior). */
   keepersExcludedFromSpendingPct: boolean
+  /**
+   * Share of available auction $ allocated to starter VBD (elboberto default 0.88).
+   * Bench gets the remainder when using complementary editing; both are stored.
+   */
+  starterPct: number
+  /** Share of available auction $ for bench-extra VBD (default 0.12). */
+  benchPct: number
   scoring: ScoringSettings
 }
 

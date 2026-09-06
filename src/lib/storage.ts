@@ -32,6 +32,8 @@ export function createDefaultSettings(teamCount = 12): LeagueSettings {
     myTeamId: teams[0].id,
     keepersCountAgainstBudget: true,
     keepersExcludedFromSpendingPct: true,
+    starterPct: 0.88,
+    benchPct: 0.12,
     scoring: { ...DEFAULT_SCORING },
   }
 }
@@ -88,7 +90,19 @@ function normalizeSettings(raw: Partial<LeagueSettings>): LeagueSettings {
     keepersExcludedFromSpendingPct:
       raw.keepersExcludedFromSpendingPct ??
       defaults.keepersExcludedFromSpendingPct,
+    starterPct:
+      typeof raw.starterPct === 'number' && Number.isFinite(raw.starterPct)
+        ? clampPct(raw.starterPct)
+        : defaults.starterPct,
+    benchPct:
+      typeof raw.benchPct === 'number' && Number.isFinite(raw.benchPct)
+        ? clampPct(raw.benchPct)
+        : defaults.benchPct,
   }
+}
+
+function clampPct(n: number): number {
+  return Math.min(1, Math.max(0, n))
 }
 
 export function loadState(): AppState {

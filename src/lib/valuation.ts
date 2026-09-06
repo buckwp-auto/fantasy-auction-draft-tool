@@ -1,9 +1,6 @@
 import type { FlexType, LeagueSettings, Player, Position } from '../types'
 import { POSITIONS } from '../types'
 
-const STARTER_PCT = 0.88
-const BENCH_PCT = 0.12
-
 export interface BaselineCounts {
   starters: Record<Position, number>
   benchExtra: Record<Position, number>
@@ -141,9 +138,14 @@ export function revaluePlayersFromSettings(
     sumBenchExtra += Math.max(b - s, 0)
   }
 
-  const starterPF = sumStart > 0 ? (available * STARTER_PCT) / sumStart : 0
-  const benchPF =
-    sumBenchExtra > 0 ? (available * BENCH_PCT) / sumBenchExtra : 0
+  const starterShare = clampShare(settings.starterPct, 0.88)
+  const benchShare = clampShare(settings.benchPct, 0.12)
+  const shareSum = starterShare + benchShare
+  const starterPct = shareSum > 0 ? starterShare / shareSum : 0.88
+  const benchPct = shareSum > 0 ? benchShare / shareSum : 0.12
+
+  const starterPF = sumStart > 0 ? (available * starterPct) / sumStart : 0
+  const benchPF = sumBenchExtra > 0 ? (available * benchPct) / sumBenchExtra : 0
 
   const idpPool =
     settings.teamCount * (settings.starters.K + settings.starters.DEF)
@@ -189,6 +191,11 @@ export function revaluePlayersFromSettings(
     }))
 
   return { players: next, baselines, skippedNoFpts, topQbs }
+}
+
+function clampShare(n: number | undefined, fallback: number): number {
+  if (typeof n !== 'number' || !Number.isFinite(n)) return fallback
+  return Math.min(1, Math.max(0, n))
 }
 
 export function describeBaselines(b: BaselineCounts): string {

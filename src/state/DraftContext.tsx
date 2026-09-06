@@ -197,6 +197,8 @@ export function DraftProvider({ children }: { children: ReactNode }) {
         scoring: s.settings.scoring,
         keepersCountAgainstBudget: s.settings.keepersCountAgainstBudget,
         keepersExcludedFromSpendingPct: s.settings.keepersExcludedFromSpendingPct,
+        starterPct: s.settings.starterPct,
+        benchPct: s.settings.benchPct,
       },
     }))
   }, [])
