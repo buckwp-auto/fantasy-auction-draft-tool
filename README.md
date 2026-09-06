@@ -97,7 +97,9 @@ Site: `https://buckwp-auto.github.io/fantasy-auction-draft-tool/`
 
 Use **Setup → Export JSON** before draft day. Import restores settings, players, and picks.
 
-For the 2026 keeper start file (12-team Superflex, $200, keepers pre-loaded): import [`draft-2026-keepers.json`](draft-2026-keepers.json) via Setup → Import JSON. Your team is **Buck, Will** ($160 remaining after keepers).
+For the 2026 keeper start file (12-team Superflex, $200, keepers pre-loaded, **Superflex-revalued $**): import [`draft-2026-keepers.json`](draft-2026-keepers.json) via Setup → Import JSON. Your team is **Buck, Will** ($160 remaining after keepers).
+
+After changing starters/flex, use **Setup → Revalue $ from league settings** (needs player `fpts`). Superflex counts as a second QB for scarcity — Josh Allen jumps from ~$33 (1QB seed) to ~$70 in this league.
 
 ## Security
 

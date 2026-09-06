@@ -14,9 +14,11 @@ export function SetupPanel() {
     resetDraft,
     resetAll,
     applySuperflexPreset,
+    revalueFromSettings,
   } = useDraft()
   const { settings, teams } = state
   const [showAdvanced, setShowAdvanced] = useState(false)
+  const [revalueMsg, setRevalueMsg] = useState('')
 
   function downloadBackup() {
     const blob = new Blob([exportJson()], { type: 'application/json' })
@@ -83,10 +85,31 @@ export function SetupPanel() {
           <button type="button" onClick={applySuperflexPreset}>
             Apply Superflex preset
           </button>
-          <span className="muted">
-            Sets SUPERFLEX=1 (QB/RB/WR/TE), FLEX=0 — like 2QB.
-          </span>
+          <button
+            type="button"
+            className="primary"
+            onClick={() => {
+              const r = revalueFromSettings()
+              const qbLine = r.topQbs
+                .slice(0, 3)
+                .map((q) => `${q.name} $${q.projectedDollars}`)
+                .join(', ')
+              setRevalueMsg(
+                `Revalued ${state.players.length - r.skippedNoFpts} players` +
+                  (r.skippedNoFpts ? ` (${r.skippedNoFpts} missing FPTS)` : '') +
+                  `. QB baseline ~${Math.round(r.baselines.starters.QB)}.` +
+                  (qbLine ? ` Top QBs: ${qbLine}` : ''),
+              )
+            }}
+          >
+            Revalue $ from league settings
+          </button>
         </div>
+        <p className="muted">
+          Superflex counts toward QB scarcity (≈2 QB starters/team). Revalue
+          after changing starters/flex so Proj $ / VBD match your league.
+        </p>
+        {revalueMsg && <p className="status">{revalueMsg}</p>}
         <div className="form-grid starters">
           {(
             [

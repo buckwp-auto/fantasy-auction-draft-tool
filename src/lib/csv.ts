@@ -174,6 +174,7 @@ export function playersFromSampleJson(
     projectedDollars: number
     vbd: number
     aav: number
+    fpts?: number
     mark?: string
     target?: boolean
   }>,
@@ -203,6 +204,7 @@ export function playersFromSampleJson(
       projectedDollars: row.projectedDollars ?? 0,
       vbd: row.vbd ?? 0,
       aav: row.aav ?? 0,
+      fpts: typeof row.fpts === 'number' ? row.fpts : undefined,
       mark,
     })
   }

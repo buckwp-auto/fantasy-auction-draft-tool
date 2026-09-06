@@ -18,6 +18,7 @@ import {
   saveState,
   syncTeamsToCount,
 } from '../lib/storage'
+import { revaluePlayersFromSettings } from '../lib/valuation'
 
 interface DraftContextValue {
   state: AppState
@@ -29,6 +30,11 @@ interface DraftContextValue {
   setPlayers: (players: Player[], mode: 'replace' | 'merge') => void
   setPlayerMark: (playerId: string, mark: PlayerMark) => void
   cyclePlayerMark: (playerId: string) => void
+  revalueFromSettings: () => {
+    skippedNoFpts: number
+    topQbs: Array<{ name: string; projectedDollars: number; vbd: number }>
+    baselines: import('../lib/valuation').BaselineCounts
+  }
   recordPick: (pick: Pick) => void
   clearPick: (playerId: string) => void
   undoLastPick: () => void
@@ -133,6 +139,17 @@ export function DraftProvider({ children }: { children: ReactNode }) {
     }))
   }, [])
 
+  const revalueFromSettings = useCallback(() => {
+    const s = state
+    const result = revaluePlayersFromSettings(s.players, s.settings)
+    setState({ ...s, players: result.players })
+    return {
+      skippedNoFpts: result.skippedNoFpts,
+      topQbs: result.topQbs,
+      baselines: result.baselines,
+    }
+  }, [state])
+
   const recordPick = useCallback((pick: Pick) => {
     setState((s) => {
       const without = s.picks.filter((p) => p.playerId !== pick.playerId)
@@ -200,6 +217,7 @@ export function DraftProvider({ children }: { children: ReactNode }) {
     setPlayers,
     setPlayerMark,
     cyclePlayerMark,
+    revalueFromSettings,
     recordPick,
     clearPick,
     undoLastPick,

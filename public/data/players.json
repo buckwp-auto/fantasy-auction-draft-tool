@@ -5,209 +5,35 @@
     "nflTeam": "DET",
     "bye": 6,
     "tier": "RB1",
-    "projectedDollars": 83.52,
-    "vbd": 218.59,
-    "aav": 72.7
+    "projectedDollars": 99.01,
+    "vbd": 198.39,
+    "aav": 72.7,
+    "fpts": 342.78,
+    "mark": "none"
   },
   {
     "name": "Bijan Robinson",
     "pos": "RB",
     "nflTeam": "ATL",
     "bye": 11,
-    "tier": "RB2",
-    "projectedDollars": 74,
-    "vbd": 194.13,
-    "aav": 72.3
+    "tier": "RB1",
+    "projectedDollars": 84.8,
+    "vbd": 173.93,
+    "aav": 72.3,
+    "fpts": 318.32,
+    "mark": "none"
   },
   {
     "name": "Christian McCaffrey",
     "pos": "RB",
     "nflTeam": "SF",
     "bye": 8,
-    "tier": "RB5",
-    "projectedDollars": 65.14,
-    "vbd": 171.37,
-    "aav": 61.2
-  },
-  {
-    "name": "Jonathan Taylor",
-    "pos": "RB",
-    "nflTeam": "IND",
-    "bye": 13,
-    "tier": "RB3",
-    "projectedDollars": 63.12,
-    "vbd": 166.19,
-    "aav": 57.8
-  },
-  {
-    "name": "Derrick Henry",
-    "pos": "RB",
-    "nflTeam": "BAL",
-    "bye": 13,
-    "tier": "RB6",
-    "projectedDollars": 53.44,
-    "vbd": 141.32,
-    "aav": 35.7
-  },
-  {
-    "name": "Puka Nacua",
-    "pos": "WR",
-    "nflTeam": "LAR",
-    "bye": 11,
-    "tier": "WR2",
-    "projectedDollars": 52.13,
-    "vbd": 135.76,
-    "aav": 63.2
-  },
-  {
-    "name": "De'Von Achane",
-    "pos": "RB",
-    "nflTeam": "MIA",
-    "bye": 6,
-    "tier": "RB3",
-    "projectedDollars": 51.28,
-    "vbd": 135.79,
-    "aav": 45.4
-  },
-  {
-    "name": "Ja'Marr Chase",
-    "pos": "WR",
-    "nflTeam": "CIN",
-    "bye": 6,
-    "tier": "WR1",
-    "projectedDollars": 49.95,
-    "vbd": 130.15,
-    "aav": 66.2
-  },
-  {
-    "name": "James Cook III",
-    "pos": "RB",
-    "nflTeam": "BUF",
-    "bye": 7,
-    "tier": "RB4",
-    "projectedDollars": 48.94,
-    "vbd": 129.77,
-    "aav": 53.7
-  },
-  {
-    "name": "Jaxon Smith-Njigba",
-    "pos": "WR",
-    "nflTeam": "SEA",
-    "bye": 11,
-    "tier": "WR3",
-    "projectedDollars": 48.15,
-    "vbd": 125.54,
-    "aav": 60.7
-  },
-  {
-    "name": "Chase Brown",
-    "pos": "RB",
-    "nflTeam": "CIN",
-    "bye": 6,
-    "tier": "RB8",
-    "projectedDollars": 46.03,
-    "vbd": 122.29,
-    "aav": 44.6
-  },
-  {
-    "name": "Saquon Barkley",
-    "pos": "RB",
-    "nflTeam": "PHI",
-    "bye": 10,
-    "tier": "RB7",
-    "projectedDollars": 44.95,
-    "vbd": 119.52,
-    "aav": 46.1
-  },
-  {
-    "name": "Amon-Ra St. Brown",
-    "pos": "WR",
-    "nflTeam": "DET",
-    "bye": 6,
-    "tier": "WR4",
-    "projectedDollars": 44.56,
-    "vbd": 116.3,
-    "aav": 54.6
-  },
-  {
-    "name": "Kenneth Walker III",
-    "pos": "RB",
-    "nflTeam": "KC",
-    "bye": 5,
-    "tier": "RB9",
-    "projectedDollars": 42.12,
-    "vbd": 112.25,
-    "aav": 38.6
-  },
-  {
-    "name": "Ashton Jeanty",
-    "pos": "RB",
-    "nflTeam": "LV",
-    "bye": 13,
-    "tier": "RB4",
-    "projectedDollars": 40.23,
-    "vbd": 107.39,
-    "aav": 48.2
-  },
-  {
-    "name": "Omarion Hampton",
-    "pos": "RB",
-    "nflTeam": "LAC",
-    "bye": 7,
-    "tier": "RB10",
-    "projectedDollars": 39.32,
-    "vbd": 105.06,
-    "aav": 42.7
-  },
-  {
-    "name": "Jeremiyah Love",
-    "pos": "RB",
-    "nflTeam": "ARI",
-    "bye": 14,
-    "tier": "RB4",
-    "projectedDollars": 37.52,
-    "vbd": 100.44,
-    "aav": 31.4
-  },
-  {
-    "name": "Javonte Williams",
-    "pos": "RB",
-    "nflTeam": "DAL",
-    "bye": 14,
-    "tier": "RB5",
-    "projectedDollars": 37.26,
-    "vbd": 99.77,
-    "aav": 20.7
-  },
-  {
-    "name": "Breece Hall",
-    "pos": "RB",
-    "nflTeam": "NYJ",
-    "bye": 13,
-    "tier": "RB5",
-    "projectedDollars": 36.48,
-    "vbd": 97.77,
-    "aav": 19.1
-  },
-  {
-    "name": "Kyren Williams",
-    "pos": "RB",
-    "nflTeam": "LAR",
-    "bye": 11,
-    "tier": "RB5",
-    "projectedDollars": 35.1,
-    "vbd": 94.23,
-    "aav": 23.8
-  },
-  {
-    "name": "Travis Etienne Jr.",
-    "pos": "RB",
-    "nflTeam": "NO",
-    "bye": 8,
-    "tier": "RB5",
-    "projectedDollars": 33.35,
-    "vbd": 89.73,
-    "aav": 18.1
+    "tier": "RB2",
+    "projectedDollars": 71.58,
+    "vbd": 151.17,
+    "aav": 61.2,
+    "fpts": 295.56,
+    "mark": "none"
   },
   {
     "name": "Josh Allen",
@@ -215,309 +41,107 @@
     "nflTeam": "BUF",
     "bye": 7,
     "tier": "QB1",
-    "projectedDollars": 33.17,
-    "vbd": 86.98,
-    "aav": 32.8
+    "projectedDollars": 70.15,
+    "vbd": 234.85,
+    "aav": 32.8,
+    "fpts": 370.74,
+    "mark": "none"
   },
   {
-    "name": "Cam Skattebo",
+    "name": "Jonathan Taylor",
     "pos": "RB",
-    "nflTeam": "NYG",
-    "bye": 8,
-    "tier": "RB5",
-    "projectedDollars": 32.81,
-    "vbd": 88.35,
-    "aav": 15.1
-  },
-  {
-    "name": "Drake London",
-    "pos": "WR",
-    "nflTeam": "ATL",
-    "bye": 11,
-    "tier": "WR9",
-    "projectedDollars": 31.34,
-    "vbd": 82.35,
-    "aav": 41.6
-  },
-  {
-    "name": "Trey McBride",
-    "pos": "TE",
-    "nflTeam": "ARI",
-    "bye": 14,
-    "tier": "TE2",
-    "projectedDollars": 30.66,
-    "vbd": 80.31,
-    "aav": 33.1
-  },
-  {
-    "name": "CeeDee Lamb",
-    "pos": "WR",
-    "nflTeam": "DAL",
-    "bye": 14,
-    "tier": "WR5",
-    "projectedDollars": 29.95,
-    "vbd": 78.78,
-    "aav": 54.6
-  },
-  {
-    "name": "D'Andre Swift",
-    "pos": "RB",
-    "nflTeam": "CHI",
-    "bye": 10,
-    "tier": "RB5",
-    "projectedDollars": 29.87,
-    "vbd": 80.8,
-    "aav": 10.7
-  },
-  {
-    "name": "Justin Jefferson",
-    "pos": "WR",
-    "nflTeam": "MIN",
-    "bye": 6,
-    "tier": "WR6",
-    "projectedDollars": 29.8,
-    "vbd": 78.4,
-    "aav": 48.8
-  },
-  {
-    "name": "Rashee Rice",
-    "pos": "WR",
-    "nflTeam": "KC",
-    "bye": 5,
-    "tier": "WR3",
-    "projectedDollars": 28.33,
-    "vbd": 74.62,
-    "aav": 23.8
-  },
-  {
-    "name": "Brock Bowers",
-    "pos": "TE",
-    "nflTeam": "LV",
+    "nflTeam": "IND",
     "bye": 13,
-    "tier": "TE1",
-    "projectedDollars": 28.11,
-    "vbd": 73.77,
-    "aav": 37.2
+    "tier": "RB2",
+    "projectedDollars": 68.57,
+    "vbd": 145.99,
+    "aav": 57.8,
+    "fpts": 290.38,
+    "mark": "none"
   },
   {
-    "name": "Quinshon Judkins",
-    "pos": "RB",
-    "nflTeam": "CLE",
-    "bye": 11,
-    "tier": "RB5",
-    "projectedDollars": 27.86,
-    "vbd": 75.63,
-    "aav": 10.3
-  },
-  {
-    "name": "Bucky Irving",
-    "pos": "RB",
-    "nflTeam": "TB",
-    "bye": 10,
-    "tier": "RB5",
-    "projectedDollars": 27.76,
-    "vbd": 75.38,
-    "aav": 12.7
-  },
-  {
-    "name": "Chris Olave",
-    "pos": "WR",
-    "nflTeam": "NO",
-    "bye": 8,
-    "tier": "WR3",
-    "projectedDollars": 26.95,
-    "vbd": 71.08,
-    "aav": 25.3
-  },
-  {
-    "name": "Bhayshul Tuten",
-    "pos": "RB",
-    "nflTeam": "JAC",
-    "bye": 7,
-    "tier": "RB6",
-    "projectedDollars": 25.89,
-    "vbd": 70.56,
-    "aav": 7.8
-  },
-  {
-    "name": "A.J. Brown",
-    "pos": "WR",
-    "nflTeam": "NE",
-    "bye": 11,
-    "tier": "WR7",
-    "projectedDollars": 25.75,
-    "vbd": 67.99,
-    "aav": 27.7
-  },
-  {
-    "name": "George Pickens",
-    "pos": "WR",
-    "nflTeam": "DAL",
-    "bye": 14,
-    "tier": "WR10",
-    "projectedDollars": 24.9,
-    "vbd": 65.82,
-    "aav": 32.5
-  },
-  {
-    "name": "Nico Collins",
-    "pos": "WR",
-    "nflTeam": "HOU",
-    "bye": 8,
-    "tier": "WR8",
-    "projectedDollars": 24.41,
-    "vbd": 64.56,
-    "aav": 37.8
-  },
-  {
-    "name": "David Montgomery",
-    "pos": "RB",
-    "nflTeam": "HOU",
-    "bye": 8,
-    "tier": "RB6",
-    "projectedDollars": 21.29,
-    "vbd": 58.75,
-    "aav": 11.2
-  },
-  {
-    "name": "Zay Flowers",
-    "pos": "WR",
-    "nflTeam": "BAL",
-    "bye": 13,
-    "tier": "WR4",
-    "projectedDollars": 21.16,
-    "vbd": 56.2,
-    "aav": 14.3
-  },
-  {
-    "name": "Malik Nabers",
-    "pos": "WR",
-    "nflTeam": "NYG",
-    "bye": 8,
-    "tier": "WR4",
-    "projectedDollars": 20.73,
-    "vbd": 55.1,
-    "aav": 27.3
-  },
-  {
-    "name": "Colston Loveland",
-    "pos": "TE",
-    "nflTeam": "CHI",
-    "bye": 10,
-    "tier": "TE3",
-    "projectedDollars": 19.19,
-    "vbd": 50.85,
-    "aav": 18.4
-  },
-  {
-    "name": "Garrett Wilson",
-    "pos": "WR",
-    "nflTeam": "NYJ",
-    "bye": 13,
-    "tier": "WR4",
-    "projectedDollars": 18.52,
-    "vbd": 49.44,
-    "aav": 14.7
-  },
-  {
-    "name": "Jaylen Warren",
-    "pos": "RB",
-    "nflTeam": "PIT",
-    "bye": 9,
-    "tier": "RB6",
-    "projectedDollars": 18.15,
-    "vbd": 50.69,
-    "aav": 4
-  },
-  {
-    "name": "TreVeyon Henderson",
-    "pos": "RB",
-    "nflTeam": "NE",
-    "bye": 11,
-    "tier": "RB6",
-    "projectedDollars": 18.03,
-    "vbd": 50.37,
-    "aav": 9.7
-  },
-  {
-    "name": "DeVonta Smith",
-    "pos": "WR",
-    "nflTeam": "PHI",
-    "bye": 10,
-    "tier": "WR4",
-    "projectedDollars": 17.97,
-    "vbd": 48.01,
-    "aav": 23.4
-  },
-  {
-    "name": "Tetairoa McMillan",
-    "pos": "WR",
-    "nflTeam": "CAR",
-    "bye": 5,
-    "tier": "WR5",
-    "projectedDollars": 17.93,
-    "vbd": 47.92,
-    "aav": 19.4
-  },
-  {
-    "name": "Jadarian Price",
-    "pos": "RB",
-    "nflTeam": "SEA",
-    "bye": 11,
-    "tier": "RB6",
-    "projectedDollars": 17.92,
-    "vbd": 50.11,
-    "aav": 8
-  },
-  {
-    "name": "Emeka Egbuka",
-    "pos": "WR",
-    "nflTeam": "TB",
-    "bye": 10,
-    "tier": "WR5",
-    "projectedDollars": 17.37,
-    "vbd": 46.48,
-    "aav": 12
-  },
-  {
-    "name": "Tony Pollard",
-    "pos": "RB",
-    "nflTeam": "TEN",
-    "bye": 9,
-    "tier": "RB6",
-    "projectedDollars": 16.95,
-    "vbd": 47.61,
-    "aav": 3.3
-  },
-  {
-    "name": "Rhamondre Stevenson",
-    "pos": "RB",
-    "nflTeam": "NE",
-    "bye": 11,
-    "tier": "RB6",
-    "projectedDollars": 16.78,
-    "vbd": 47.18,
-    "aav": 3
-  },
-  {
-    "name": "Davante Adams",
+    "name": "Puka Nacua",
     "pos": "WR",
     "nflTeam": "LAR",
     "bye": 11,
-    "tier": "WR5",
-    "projectedDollars": 15.95,
-    "vbd": 42.83,
-    "aav": 12.6
+    "tier": "WR1",
+    "projectedDollars": 62.83,
+    "vbd": 124.01,
+    "aav": 63.2,
+    "fpts": 280.7,
+    "mark": "none"
   },
   {
-    "name": "Tee Higgins",
+    "name": "Ja'Marr Chase",
     "pos": "WR",
     "nflTeam": "CIN",
     "bye": 6,
-    "tier": "WR5",
-    "projectedDollars": 15.31,
-    "vbd": 41.19,
-    "aav": 19.5
+    "tier": "WR1",
+    "projectedDollars": 59.57,
+    "vbd": 118.4,
+    "aav": 66.2,
+    "fpts": 275.09,
+    "mark": "none"
+  },
+  {
+    "name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "nflTeam": "SEA",
+    "bye": 11,
+    "tier": "WR1",
+    "projectedDollars": 56.9,
+    "vbd": 113.79,
+    "aav": 60.7,
+    "fpts": 270.48,
+    "mark": "none"
+  },
+  {
+    "name": "Derrick Henry",
+    "pos": "RB",
+    "nflTeam": "BAL",
+    "bye": 13,
+    "tier": "RB3",
+    "projectedDollars": 54.13,
+    "vbd": 121.12,
+    "aav": 35.7,
+    "fpts": 265.51,
+    "mark": "none"
+  },
+  {
+    "name": "Amon-Ra St. Brown",
+    "pos": "WR",
+    "nflTeam": "DET",
+    "bye": 6,
+    "tier": "WR1",
+    "projectedDollars": 51.53,
+    "vbd": 104.55,
+    "aav": 54.6,
+    "fpts": 261.24,
+    "mark": "none"
+  },
+  {
+    "name": "De'Von Achane",
+    "pos": "RB",
+    "nflTeam": "MIA",
+    "bye": 6,
+    "tier": "RB3",
+    "projectedDollars": 50.92,
+    "vbd": 115.59,
+    "aav": 45.4,
+    "fpts": 259.98,
+    "mark": "none"
+  },
+  {
+    "name": "James Cook III",
+    "pos": "RB",
+    "nflTeam": "BUF",
+    "bye": 7,
+    "tier": "RB3",
+    "projectedDollars": 47.42,
+    "vbd": 109.57,
+    "aav": 53.7,
+    "fpts": 253.96,
+    "mark": "none"
   },
   {
     "name": "Lamar Jackson",
@@ -525,289 +149,107 @@
     "nflTeam": "BAL",
     "bye": 13,
     "tier": "QB2",
-    "projectedDollars": 15.16,
-    "vbd": 40.73,
-    "aav": 20
+    "projectedDollars": 43.29,
+    "vbd": 188.59,
+    "aav": 20,
+    "fpts": 324.48,
+    "mark": "none"
   },
   {
-    "name": "Jameson Williams",
-    "pos": "WR",
-    "nflTeam": "DET",
-    "bye": 6,
-    "tier": "WR5",
-    "projectedDollars": 14.98,
-    "vbd": 40.33,
-    "aav": 7.4
-  },
-  {
-    "name": "J.K. Dobbins",
+    "name": "Chase Brown",
     "pos": "RB",
-    "nflTeam": "DEN",
-    "bye": 10,
-    "tier": "RB6",
-    "projectedDollars": 14.9,
-    "vbd": 42.35,
-    "aav": 2.4
+    "nflTeam": "CIN",
+    "bye": 6,
+    "tier": "RB4",
+    "projectedDollars": 43.08,
+    "vbd": 102.09,
+    "aav": 44.6,
+    "fpts": 246.48,
+    "mark": "none"
   },
   {
     "name": "Jayden Daniels",
     "pos": "QB",
     "nflTeam": "WAS",
     "bye": 7,
-    "tier": "QB6",
-    "projectedDollars": 14.38,
-    "vbd": 38.71,
-    "aav": 8
+    "tier": "QB2",
+    "projectedDollars": 42.12,
+    "vbd": 186.58,
+    "aav": 8,
+    "fpts": 322.47,
+    "mark": "none"
   },
   {
-    "name": "Rico Dowdle",
+    "name": "Saquon Barkley",
     "pos": "RB",
-    "nflTeam": "PIT",
-    "bye": 9,
-    "tier": "RB7",
-    "projectedDollars": 14.32,
-    "vbd": 40.85,
-    "aav": 3.7
-  },
-  {
-    "name": "Tyler Warren",
-    "pos": "TE",
-    "nflTeam": "IND",
-    "bye": 13,
-    "tier": "TE4",
-    "projectedDollars": 14.26,
-    "vbd": 38.2,
-    "aav": 12.3
+    "nflTeam": "PHI",
+    "bye": 10,
+    "tier": "RB4",
+    "projectedDollars": 41.47,
+    "vbd": 99.32,
+    "aav": 46.1,
+    "fpts": 243.71,
+    "mark": "none"
   },
   {
     "name": "Drake Maye",
     "pos": "QB",
     "nflTeam": "NE",
     "bye": 11,
-    "tier": "QB3",
-    "projectedDollars": 13.79,
-    "vbd": 37.21,
-    "aav": 13.2
+    "tier": "QB2",
+    "projectedDollars": 41.24,
+    "vbd": 185.06,
+    "aav": 13.2,
+    "fpts": 320.96,
+    "mark": "none"
   },
   {
     "name": "Jalen Hurts",
     "pos": "QB",
     "nflTeam": "PHI",
     "bye": 10,
-    "tier": "QB5",
-    "projectedDollars": 13.64,
-    "vbd": 36.82,
-    "aav": 6.7
+    "tier": "QB2",
+    "projectedDollars": 41.02,
+    "vbd": 184.68,
+    "aav": 6.7,
+    "fpts": 320.57,
+    "mark": "none"
   },
   {
-    "name": "Harold Fannin Jr.",
+    "name": "Trey McBride",
     "pos": "TE",
-    "nflTeam": "CLE",
-    "bye": 11,
-    "tier": "TE9",
-    "projectedDollars": 13.36,
-    "vbd": 35.9,
-    "aav": 4
+    "nflTeam": "ARI",
+    "bye": 14,
+    "tier": "TE1",
+    "projectedDollars": 38.23,
+    "vbd": 79.97,
+    "aav": 33.1,
+    "fpts": 201.74,
+    "mark": "none"
   },
   {
-    "name": "Chuba Hubbard",
+    "name": "Kenneth Walker III",
     "pos": "RB",
-    "nflTeam": "CAR",
+    "nflTeam": "KC",
     "bye": 5,
-    "tier": "RB7",
-    "projectedDollars": 13.08,
-    "vbd": 37.33,
-    "aav": 5.9
-  },
-  {
-    "name": "Ladd McConkey",
-    "pos": "WR",
-    "nflTeam": "LAC",
-    "bye": 7,
-    "tier": "WR5",
-    "projectedDollars": 12.27,
-    "vbd": 33.37,
-    "aav": 13.3
-  },
-  {
-    "name": "MarShawn Lloyd",
-    "pos": "RB",
-    "nflTeam": "GB",
-    "bye": 11,
-    "tier": "RB7",
-    "projectedDollars": 11.91,
-    "vbd": 33.99,
-    "aav": 1
-  },
-  {
-    "name": "Jonathon Brooks",
-    "pos": "RB",
-    "nflTeam": "CAR",
-    "bye": 5,
-    "tier": "RB7",
-    "projectedDollars": 11.6,
-    "vbd": 33.09,
-    "aav": 2.6
-  },
-  {
-    "name": "George Kittle",
-    "pos": "TE",
-    "nflTeam": "SF",
-    "bye": 8,
-    "tier": "TE8",
-    "projectedDollars": 11.1,
-    "vbd": 30.09,
-    "aav": 2.8
-  },
-  {
-    "name": "Kenny Gainwell",
-    "pos": "RB",
-    "nflTeam": "TB",
-    "bye": 10,
-    "tier": "RB7",
-    "projectedDollars": 11.09,
-    "vbd": 31.64,
-    "aav": 1.8
-  },
-  {
-    "name": "Terry McLaurin",
-    "pos": "WR",
-    "nflTeam": "WAS",
-    "bye": 7,
-    "tier": "WR5",
-    "projectedDollars": 11.07,
-    "vbd": 30.3,
-    "aav": 9.6
-  },
-  {
-    "name": "Kyle Monangai",
-    "pos": "RB",
-    "nflTeam": "CHI",
-    "bye": 10,
-    "tier": "RB7",
-    "projectedDollars": 10.64,
-    "vbd": 30.36,
-    "aav": 2.7
-  },
-  {
-    "name": "Rome Odunze",
-    "pos": "WR",
-    "nflTeam": "CHI",
-    "bye": 10,
-    "tier": "WR5",
-    "projectedDollars": 10.58,
-    "vbd": 29.03,
-    "aav": 4.9
-  },
-  {
-    "name": "Rachaad White",
-    "pos": "RB",
-    "nflTeam": "WAS",
-    "bye": 7,
-    "tier": "RB7",
-    "projectedDollars": 10.55,
-    "vbd": 30.1,
-    "aav": 1.7
-  },
-  {
-    "name": "DJ Moore",
-    "pos": "WR",
-    "nflTeam": "BUF",
-    "bye": 7,
-    "tier": "WR5",
-    "projectedDollars": 10.51,
-    "vbd": 28.87,
-    "aav": 6.8
-  },
-  {
-    "name": "Jaylen Waddle",
-    "pos": "WR",
-    "nflTeam": "DEN",
-    "bye": 10,
-    "tier": "WR5",
-    "projectedDollars": 10.23,
-    "vbd": 28.15,
-    "aav": 12.1
-  },
-  {
-    "name": "Sam LaPorta",
-    "pos": "TE",
-    "nflTeam": "DET",
-    "bye": 6,
-    "tier": "TE6",
-    "projectedDollars": 10.22,
-    "vbd": 27.82,
-    "aav": 4.1
-  },
-  {
-    "name": "Aaron Jones Sr.",
-    "pos": "RB",
-    "nflTeam": "MIN",
-    "bye": 6,
-    "tier": "RB7",
-    "projectedDollars": 10.18,
-    "vbd": 29.05,
-    "aav": 1.9
-  },
-  {
-    "name": "Kyle Pitts Sr.",
-    "pos": "TE",
-    "nflTeam": "ATL",
-    "bye": 11,
-    "tier": "TE7",
-    "projectedDollars": 10.16,
-    "vbd": 27.66,
-    "aav": 3.3
-  },
-  {
-    "name": "Jacory Croskey-Merritt",
-    "pos": "RB",
-    "nflTeam": "WAS",
-    "bye": 7,
-    "tier": "RB7",
-    "projectedDollars": 10.1,
-    "vbd": 28.82,
-    "aav": 1.4
+    "tier": "RB4",
+    "projectedDollars": 37.25,
+    "vbd": 92.05,
+    "aav": 38.6,
+    "fpts": 236.44,
+    "mark": "none"
   },
   {
     "name": "Joe Burrow",
     "pos": "QB",
     "nflTeam": "CIN",
     "bye": 6,
-    "tier": "QB4",
-    "projectedDollars": 9.95,
-    "vbd": 27.35,
-    "aav": 11.8
-  },
-  {
-    "name": "RJ Harvey",
-    "pos": "RB",
-    "nflTeam": "DEN",
-    "bye": 10,
-    "tier": "RB7",
-    "projectedDollars": 9.85,
-    "vbd": 28.09,
-    "aav": 2.8
-  },
-  {
-    "name": "Luther Burden III",
-    "pos": "WR",
-    "nflTeam": "CHI",
-    "bye": 10,
-    "tier": "WR5",
-    "projectedDollars": 9.71,
-    "vbd": 26.8,
-    "aav": 11.3
-  },
-  {
-    "name": "Jordan Mason",
-    "pos": "RB",
-    "nflTeam": "MIN",
-    "bye": 6,
-    "tier": "RB7",
-    "projectedDollars": 9.68,
-    "vbd": 27.61,
-    "aav": 1.5
+    "tier": "QB3",
+    "projectedDollars": 35.52,
+    "vbd": 175.22,
+    "aav": 11.8,
+    "fpts": 311.11,
+    "mark": "none"
   },
   {
     "name": "Jaxson Dart",
@@ -815,69 +257,59 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "QB3",
-    "projectedDollars": 9.43,
-    "vbd": 26.01,
-    "aav": 3.7
+    "projectedDollars": 34.74,
+    "vbd": 173.87,
+    "aav": 3.7,
+    "fpts": 309.77,
+    "mark": "none"
   },
   {
-    "name": "Dallas Goedert",
-    "pos": "TE",
-    "nflTeam": "PHI",
-    "bye": 10,
-    "tier": "TE4",
-    "projectedDollars": 9.33,
-    "vbd": 25.53,
-    "aav": 1.3
-  },
-  {
-    "name": "Blake Corum",
+    "name": "Ashton Jeanty",
     "pos": "RB",
-    "nflTeam": "LAR",
-    "bye": 11,
-    "tier": "RB7",
-    "projectedDollars": 8.97,
-    "vbd": 25.58,
-    "aav": 2.6
+    "nflTeam": "LV",
+    "bye": 13,
+    "tier": "RB4",
+    "projectedDollars": 34.43,
+    "vbd": 87.19,
+    "aav": 48.2,
+    "fpts": 231.58,
+    "mark": "none"
   },
   {
-    "name": "Travis Kelce",
+    "name": "Brock Bowers",
     "pos": "TE",
-    "nflTeam": "KC",
-    "bye": 5,
-    "tier": "TE4",
-    "projectedDollars": 8.23,
-    "vbd": 22.7,
-    "aav": 2.3
+    "nflTeam": "LV",
+    "bye": 13,
+    "tier": "TE1",
+    "projectedDollars": 34.43,
+    "vbd": 73.42,
+    "aav": 37.2,
+    "fpts": 195.2,
+    "mark": "none"
   },
   {
-    "name": "Tucker Kraft",
-    "pos": "TE",
-    "nflTeam": "GB",
-    "bye": 11,
-    "tier": "TE5",
-    "projectedDollars": 8.21,
-    "vbd": 22.65,
-    "aav": 6.3
-  },
-  {
-    "name": "Christian Watson",
-    "pos": "WR",
-    "nflTeam": "GB",
-    "bye": 11,
-    "tier": "WR6",
-    "projectedDollars": 8.16,
-    "vbd": 22.81,
-    "aav": 5
+    "name": "Omarion Hampton",
+    "pos": "RB",
+    "nflTeam": "LAC",
+    "bye": 7,
+    "tier": "RB4",
+    "projectedDollars": 33.07,
+    "vbd": 84.86,
+    "aav": 42.7,
+    "fpts": 229.25,
+    "mark": "none"
   },
   {
     "name": "Trevor Lawrence",
     "pos": "QB",
     "nflTeam": "JAC",
     "bye": 7,
-    "tier": "QB9",
-    "projectedDollars": 8.08,
-    "vbd": 22.55,
-    "aav": 2.4
+    "tier": "QB3",
+    "projectedDollars": 32.73,
+    "vbd": 170.41,
+    "aav": 2.4,
+    "fpts": 306.3,
+    "mark": "none"
   },
   {
     "name": "Brock Purdy",
@@ -885,49 +317,35 @@
     "nflTeam": "SF",
     "bye": 8,
     "tier": "QB3",
-    "projectedDollars": 7.83,
-    "vbd": 21.91,
-    "aav": 1.4
+    "projectedDollars": 32.36,
+    "vbd": 169.77,
+    "aav": 1.4,
+    "fpts": 305.66,
+    "mark": "none"
   },
   {
     "name": "Dak Prescott",
     "pos": "QB",
     "nflTeam": "DAL",
     "bye": 14,
-    "tier": "QB10",
-    "projectedDollars": 7.67,
-    "vbd": 21.48,
-    "aav": 3.5
+    "tier": "QB3",
+    "projectedDollars": 32.11,
+    "vbd": 169.34,
+    "aav": 3.5,
+    "fpts": 305.23,
+    "mark": "none"
   },
   {
-    "name": "Josh Jacobs",
-    "pos": "RB",
-    "nflTeam": "GB",
+    "name": "Drake London",
+    "pos": "WR",
+    "nflTeam": "ATL",
     "bye": 11,
-    "tier": "RB7",
-    "projectedDollars": 7.61,
-    "vbd": 21.7,
-    "aav": 26.9
-  },
-  {
-    "name": "Courtland Sutton",
-    "pos": "WR",
-    "nflTeam": "DEN",
-    "bye": 10,
-    "tier": "WR6",
-    "projectedDollars": 7.06,
-    "vbd": 20,
-    "aav": 1.8
-  },
-  {
-    "name": "Alec Pierce",
-    "pos": "WR",
-    "nflTeam": "IND",
-    "bye": 13,
-    "tier": "WR6",
-    "projectedDollars": 6.56,
-    "vbd": 18.7,
-    "aav": 3.5
+    "tier": "WR3",
+    "projectedDollars": 31.81,
+    "vbd": 70.6,
+    "aav": 41.6,
+    "fpts": 227.29,
+    "mark": "none"
   },
   {
     "name": "Patrick Mahomes II",
@@ -935,59 +353,95 @@
     "nflTeam": "KC",
     "bye": 5,
     "tier": "QB3",
-    "projectedDollars": 6.53,
-    "vbd": 18.56,
-    "aav": 2.5
+    "projectedDollars": 30.42,
+    "vbd": 166.43,
+    "aav": 2.5,
+    "fpts": 302.32,
+    "mark": "none"
   },
   {
-    "name": "Marvin Harrison Jr.",
-    "pos": "WR",
+    "name": "Jeremiyah Love",
+    "pos": "RB",
     "nflTeam": "ARI",
     "bye": 14,
-    "tier": "WR6",
-    "projectedDollars": 6.46,
-    "vbd": 18.44,
-    "aav": 3.4
-  },
-  {
-    "name": "Mike Evans",
-    "pos": "WR",
-    "nflTeam": "SF",
-    "bye": 8,
-    "tier": "WR6",
-    "projectedDollars": 6.46,
-    "vbd": 18.43,
-    "aav": 6.5
-  },
-  {
-    "name": "DK Metcalf",
-    "pos": "WR",
-    "nflTeam": "PIT",
-    "bye": 9,
-    "tier": "WR6",
-    "projectedDollars": 6.46,
-    "vbd": 18.42,
-    "aav": 2.4
+    "tier": "RB4",
+    "projectedDollars": 30.39,
+    "vbd": 80.24,
+    "aav": 31.4,
+    "fpts": 224.63,
+    "mark": "none"
   },
   {
     "name": "Caleb Williams",
     "pos": "QB",
     "nflTeam": "CHI",
     "bye": 10,
-    "tier": "QB7",
-    "projectedDollars": 6.28,
-    "vbd": 17.9,
-    "aav": 3.4
+    "tier": "QB3",
+    "projectedDollars": 30.03,
+    "vbd": 165.77,
+    "aav": 3.4,
+    "fpts": 301.66,
+    "mark": "none"
+  },
+  {
+    "name": "Javonte Williams",
+    "pos": "RB",
+    "nflTeam": "DAL",
+    "bye": 14,
+    "tier": "RB5",
+    "projectedDollars": 30,
+    "vbd": 79.57,
+    "aav": 20.7,
+    "fpts": 223.96,
+    "mark": "none"
+  },
+  {
+    "name": "CeeDee Lamb",
+    "pos": "WR",
+    "nflTeam": "DAL",
+    "bye": 14,
+    "tier": "WR3",
+    "projectedDollars": 29.74,
+    "vbd": 67.03,
+    "aav": 54.6,
+    "fpts": 223.72,
+    "mark": "none"
+  },
+  {
+    "name": "Justin Jefferson",
+    "pos": "WR",
+    "nflTeam": "MIN",
+    "bye": 6,
+    "tier": "WR3",
+    "projectedDollars": 29.52,
+    "vbd": 66.65,
+    "aav": 48.8,
+    "fpts": 223.34,
+    "mark": "none"
+  },
+  {
+    "name": "Breece Hall",
+    "pos": "RB",
+    "nflTeam": "NYJ",
+    "bye": 13,
+    "tier": "RB5",
+    "projectedDollars": 28.84,
+    "vbd": 77.57,
+    "aav": 19.1,
+    "fpts": 221.96,
+    "mark": "none"
   },
   {
     "name": "Justin Herbert",
     "pos": "QB",
     "nflTeam": "LAC",
     "bye": 7,
-    "tier": "QB8",
-    "projectedDollars": 5.88,
-    "vbd": 16.77,
-    "aav": 3.9
+    "tier": "QB3",
+    "projectedDollars": 28.71,
+    "vbd": 163.48,
+    "aav": 3.9,
+    "fpts": 299.38,
+    "mark": "none"
   },
   {
     "name": "Bo Nix",
@@ -995,39 +449,35 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "QB3",
-    "projectedDollars": 5.69,
-    "vbd": 16.23,
-    "aav": 1.4
+    "projectedDollars": 28.09,
+    "vbd": 162.42,
+    "aav": 1.4,
+    "fpts": 298.31,
+    "mark": "none"
   },
   {
-    "name": "Tyjae Spears",
+    "name": "Rashee Rice",
+    "pos": "WR",
+    "nflTeam": "KC",
+    "bye": 5,
+    "tier": "WR3",
+    "projectedDollars": 27.33,
+    "vbd": 62.87,
+    "aav": 23.8,
+    "fpts": 219.56,
+    "mark": "none"
+  },
+  {
+    "name": "Kyren Williams",
     "pos": "RB",
-    "nflTeam": "TEN",
-    "bye": 9,
-    "tier": "RB7",
-    "projectedDollars": 5.59,
-    "vbd": 15.94,
-    "aav": 1.1
-  },
-  {
-    "name": "Mark Andrews",
-    "pos": "TE",
-    "nflTeam": "BAL",
-    "bye": 13,
-    "tier": "TE5",
-    "projectedDollars": 5.53,
-    "vbd": 15.79,
-    "aav": 1.2
-  },
-  {
-    "name": "Woody Marks",
-    "pos": "RB",
-    "nflTeam": "HOU",
-    "bye": 8,
-    "tier": "RB7",
-    "projectedDollars": 5.36,
-    "vbd": 15.28,
-    "aav": 1
+    "nflTeam": "LAR",
+    "bye": 11,
+    "tier": "RB5",
+    "projectedDollars": 26.78,
+    "vbd": 74.03,
+    "aav": 23.8,
+    "fpts": 218.42,
+    "mark": "none"
   },
   {
     "name": "Matthew Stafford",
@@ -1035,49 +485,23 @@
     "nflTeam": "LAR",
     "bye": 11,
     "tier": "QB3",
-    "projectedDollars": 4.92,
-    "vbd": 14.04,
-    "aav": 1.7
+    "projectedDollars": 25.54,
+    "vbd": 158.04,
+    "aav": 1.7,
+    "fpts": 293.93,
+    "mark": "none"
   },
   {
-    "name": "Isaiah Likely",
-    "pos": "TE",
-    "nflTeam": "NYG",
+    "name": "Chris Olave",
+    "pos": "WR",
+    "nflTeam": "NO",
     "bye": 8,
-    "tier": "TE5",
-    "projectedDollars": 4.92,
-    "vbd": 14.02,
-    "aav": 1.7
-  },
-  {
-    "name": "Parker Washington",
-    "pos": "WR",
-    "nflTeam": "JAC",
-    "bye": 7,
-    "tier": "WR6",
-    "projectedDollars": 4.68,
-    "vbd": 13.34,
-    "aav": 1.6
-  },
-  {
-    "name": "Brian Thomas Jr.",
-    "pos": "WR",
-    "nflTeam": "JAC",
-    "bye": 7,
-    "tier": "WR6",
-    "projectedDollars": 4.57,
-    "vbd": 13.02,
-    "aav": 2.4
-  },
-  {
-    "name": "Dalton Kincaid",
-    "pos": "TE",
-    "nflTeam": "BUF",
-    "bye": 7,
-    "tier": "TE10",
-    "projectedDollars": 4.56,
-    "vbd": 12.99,
-    "aav": 1.3
+    "tier": "WR3",
+    "projectedDollars": 25.27,
+    "vbd": 59.33,
+    "aav": 25.3,
+    "fpts": 216.02,
+    "mark": "none"
   },
   {
     "name": "Kyler Murray",
@@ -1085,39 +509,59 @@
     "nflTeam": "MIN",
     "bye": 6,
     "tier": "QB3",
-    "projectedDollars": 4.54,
-    "vbd": 12.96,
-    "aav": 1.3
+    "projectedDollars": 24.29,
+    "vbd": 155.87,
+    "aav": 1.3,
+    "fpts": 291.77,
+    "mark": "none"
   },
   {
-    "name": "Jake Ferguson",
-    "pos": "TE",
+    "name": "Travis Etienne Jr.",
+    "pos": "RB",
+    "nflTeam": "NO",
+    "bye": 8,
+    "tier": "RB5",
+    "projectedDollars": 24.17,
+    "vbd": 69.53,
+    "aav": 18.1,
+    "fpts": 213.92,
+    "mark": "none"
+  },
+  {
+    "name": "A.J. Brown",
+    "pos": "WR",
+    "nflTeam": "NE",
+    "bye": 11,
+    "tier": "WR4",
+    "projectedDollars": 23.48,
+    "vbd": 56.24,
+    "aav": 27.7,
+    "fpts": 212.93,
+    "mark": "none"
+  },
+  {
+    "name": "Cam Skattebo",
+    "pos": "RB",
+    "nflTeam": "NYG",
+    "bye": 8,
+    "tier": "RB5",
+    "projectedDollars": 23.37,
+    "vbd": 68.15,
+    "aav": 15.1,
+    "fpts": 212.54,
+    "mark": "none"
+  },
+  {
+    "name": "George Pickens",
+    "pos": "WR",
     "nflTeam": "DAL",
     "bye": 14,
-    "tier": "TE5",
-    "projectedDollars": 4.3,
-    "vbd": 12.26,
-    "aav": 1.3
-  },
-  {
-    "name": "Zach Charbonnet",
-    "pos": "RB",
-    "nflTeam": "SEA",
-    "bye": 11,
-    "tier": "RB8",
-    "projectedDollars": 4.25,
-    "vbd": 12.13,
-    "aav": 1.8
-  },
-  {
-    "name": "Michael Pittman Jr.",
-    "pos": "WR",
-    "nflTeam": "PIT",
-    "bye": 9,
-    "tier": "WR6",
-    "projectedDollars": 4.2,
-    "vbd": 11.98,
-    "aav": 1.2
+    "tier": "WR4",
+    "projectedDollars": 22.21,
+    "vbd": 54.07,
+    "aav": 32.5,
+    "fpts": 210.76,
+    "mark": "none"
   },
   {
     "name": "Jared Goff",
@@ -1125,29 +569,35 @@
     "nflTeam": "DET",
     "bye": 6,
     "tier": "QB3",
-    "projectedDollars": 3.85,
-    "vbd": 10.99,
-    "aav": 1.4
+    "projectedDollars": 22.01,
+    "vbd": 151.94,
+    "aav": 1.4,
+    "fpts": 287.84,
+    "mark": "none"
   },
   {
-    "name": "Hunter Henry",
-    "pos": "TE",
-    "nflTeam": "NE",
-    "bye": 11,
-    "tier": "TE5",
-    "projectedDollars": 3.45,
-    "vbd": 9.84,
-    "aav": 1.1
-  },
-  {
-    "name": "Carnell Tate",
+    "name": "Nico Collins",
     "pos": "WR",
-    "nflTeam": "TEN",
-    "bye": 9,
-    "tier": "WR6",
-    "projectedDollars": 3.42,
-    "vbd": 9.77,
-    "aav": 3.7
+    "nflTeam": "HOU",
+    "bye": 8,
+    "tier": "WR4",
+    "projectedDollars": 21.48,
+    "vbd": 52.81,
+    "aav": 37.8,
+    "fpts": 209.5,
+    "mark": "none"
+  },
+  {
+    "name": "Colston Loveland",
+    "pos": "TE",
+    "nflTeam": "CHI",
+    "bye": 10,
+    "tier": "TE2",
+    "projectedDollars": 21.12,
+    "vbd": 50.51,
+    "aav": 18.4,
+    "fpts": 172.28,
+    "mark": "none"
   },
   {
     "name": "Tyler Shough",
@@ -1155,49 +605,23 @@
     "nflTeam": "NO",
     "bye": 8,
     "tier": "QB3",
-    "projectedDollars": 3.41,
-    "vbd": 9.74,
-    "aav": 1.2
+    "projectedDollars": 20.55,
+    "vbd": 149.43,
+    "aav": 1.2,
+    "fpts": 285.33,
+    "mark": "none"
   },
   {
-    "name": "Jayden Reed",
-    "pos": "WR",
-    "nflTeam": "GB",
-    "bye": 11,
-    "tier": "WR6",
-    "projectedDollars": 3.37,
-    "vbd": 9.61,
-    "aav": 1.1
-  },
-  {
-    "name": "Michael Wilson",
-    "pos": "WR",
-    "nflTeam": "ARI",
-    "bye": 14,
-    "tier": "WR6",
-    "projectedDollars": 3.18,
-    "vbd": 9.08,
-    "aav": 1.8
-  },
-  {
-    "name": "Juwan Johnson",
-    "pos": "TE",
-    "nflTeam": "NO",
-    "bye": 8,
-    "tier": "TE5",
-    "projectedDollars": 3.12,
-    "vbd": 8.89,
-    "aav": 1
-  },
-  {
-    "name": "Quentin Johnston",
-    "pos": "WR",
-    "nflTeam": "LAC",
-    "bye": 7,
-    "tier": "WR6",
-    "projectedDollars": 3.08,
-    "vbd": 8.8,
-    "aav": 1.3
+    "name": "D'Andre Swift",
+    "pos": "RB",
+    "nflTeam": "CHI",
+    "bye": 10,
+    "tier": "RB5",
+    "projectedDollars": 18.98,
+    "vbd": 60.6,
+    "aav": 10.7,
+    "fpts": 204.99,
+    "mark": "none"
   },
   {
     "name": "Baker Mayfield",
@@ -1205,129 +629,59 @@
     "nflTeam": "TB",
     "bye": 10,
     "tier": "QB3",
-    "projectedDollars": 2.86,
-    "vbd": 8.15,
-    "aav": 1.1
+    "projectedDollars": 18.71,
+    "vbd": 146.27,
+    "aav": 1.1,
+    "fpts": 282.16,
+    "mark": "none"
   },
   {
-    "name": "Jakobi Meyers",
+    "name": "Zay Flowers",
     "pos": "WR",
-    "nflTeam": "JAC",
-    "bye": 7,
-    "tier": "WR6",
-    "projectedDollars": 2.83,
-    "vbd": 8.07,
-    "aav": 1.2
-  },
-  {
-    "name": "Brenton Strange",
-    "pos": "TE",
-    "nflTeam": "JAC",
-    "bye": 7,
-    "tier": "TE5",
-    "projectedDollars": 2.79,
-    "vbd": 7.94,
-    "aav": 1
-  },
-  {
-    "name": "Chris Godwin Jr.",
-    "pos": "WR",
-    "nflTeam": "TB",
-    "bye": 10,
-    "tier": "WR6",
-    "projectedDollars": 2.74,
-    "vbd": 7.82,
-    "aav": 1.7
-  },
-  {
-    "name": "Jordan Addison",
-    "pos": "WR",
-    "nflTeam": "MIN",
-    "bye": 6,
-    "tier": "WR6",
-    "projectedDollars": 2.7,
-    "vbd": 7.7,
-    "aav": 1.1
-  },
-  {
-    "name": "Justice Hill",
-    "pos": "RB",
     "nflTeam": "BAL",
     "bye": 13,
-    "tier": "RB8",
-    "projectedDollars": 2.66,
-    "vbd": 7.58,
-    "aav": 1
+    "tier": "WR4",
+    "projectedDollars": 16.63,
+    "vbd": 44.45,
+    "aav": 14.3,
+    "fpts": 201.14,
+    "mark": "none"
   },
   {
-    "name": "Wan'Dale Robinson",
+    "name": "Malik Nabers",
     "pos": "WR",
-    "nflTeam": "TEN",
-    "bye": 9,
-    "tier": "WR6",
-    "projectedDollars": 2.31,
-    "vbd": 6.58,
-    "aav": 1.1
-  },
-  {
-    "name": "Xavier Worthy",
-    "pos": "WR",
-    "nflTeam": "KC",
-    "bye": 5,
-    "tier": "WR6",
-    "projectedDollars": 2.29,
-    "vbd": 6.53,
-    "aav": 1
-  },
-  {
-    "name": "De'Zhaun Stribling",
-    "pos": "WR",
-    "nflTeam": "SF",
+    "nflTeam": "NYG",
     "bye": 8,
-    "tier": "WR6",
-    "projectedDollars": 2.13,
-    "vbd": 6.09,
-    "aav": 1
+    "tier": "WR4",
+    "projectedDollars": 15.99,
+    "vbd": 43.35,
+    "aav": 27.3,
+    "fpts": 200.04,
+    "mark": "none"
   },
   {
-    "name": "Matthew Golden",
-    "pos": "WR",
-    "nflTeam": "GB",
+    "name": "Quinshon Judkins",
+    "pos": "RB",
+    "nflTeam": "CLE",
     "bye": 11,
-    "tier": "WR6",
-    "projectedDollars": 1.96,
-    "vbd": 5.59,
-    "aav": 1.4
+    "tier": "RB5",
+    "projectedDollars": 15.98,
+    "vbd": 55.43,
+    "aav": 10.3,
+    "fpts": 199.82,
+    "mark": "none"
   },
   {
-    "name": "Alvin Kamara",
+    "name": "Bucky Irving",
     "pos": "RB",
-    "nflTeam": "NO",
-    "bye": 8,
-    "tier": "RB8",
-    "projectedDollars": 1.9,
-    "vbd": 5.42,
-    "aav": 1.3
-  },
-  {
-    "name": "Dalton Schultz",
-    "pos": "TE",
-    "nflTeam": "HOU",
-    "bye": 8,
-    "tier": "TE5",
-    "projectedDollars": 1.78,
-    "vbd": 5.09,
-    "aav": 1.2
-  },
-  {
-    "name": "Chris Rodriguez Jr.",
-    "pos": "RB",
-    "nflTeam": "JAC",
-    "bye": 7,
-    "tier": "RB8",
-    "projectedDollars": 1.73,
-    "vbd": 4.94,
-    "aav": 1.2
+    "nflTeam": "TB",
+    "bye": 10,
+    "tier": "RB5",
+    "projectedDollars": 15.84,
+    "vbd": 55.18,
+    "aav": 12.7,
+    "fpts": 199.57,
+    "mark": "none"
   },
   {
     "name": "Jordan Love",
@@ -1335,69 +689,23 @@
     "nflTeam": "GB",
     "bye": 11,
     "tier": "QB3",
-    "projectedDollars": 1.69,
-    "vbd": 4.83,
-    "aav": 1.2
+    "projectedDollars": 14.85,
+    "vbd": 139.61,
+    "aav": 1.2,
+    "fpts": 275.51,
+    "mark": "none"
   },
   {
-    "name": "Romeo Doubs",
-    "pos": "WR",
-    "nflTeam": "NE",
-    "bye": 11,
-    "tier": "WR7",
-    "projectedDollars": 1.63,
-    "vbd": 4.66,
-    "aav": 1.2
-  },
-  {
-    "name": "Dylan Sampson",
-    "pos": "RB",
-    "nflTeam": "CLE",
-    "bye": 11,
-    "tier": "RB8",
-    "projectedDollars": 1.59,
-    "vbd": 4.52,
-    "aav": 1
-  },
-  {
-    "name": "Mike Washington Jr.",
-    "pos": "RB",
-    "nflTeam": "LV",
+    "name": "Tyler Warren",
+    "pos": "TE",
+    "nflTeam": "IND",
     "bye": 13,
-    "tier": "RB8",
-    "projectedDollars": 1.57,
-    "vbd": 4.46,
-    "aav": 0
-  },
-  {
-    "name": "Stefon Diggs",
-    "pos": "WR",
-    "nflTeam": "WAS",
-    "bye": 7,
-    "tier": "WR7",
-    "projectedDollars": 1.52,
-    "vbd": 4.34,
-    "aav": 1.1
-  },
-  {
-    "name": "Deebo Samuel Sr.",
-    "pos": "WR",
-    "nflTeam": "SF",
-    "bye": 8,
-    "tier": "WR7",
-    "projectedDollars": 1.49,
-    "vbd": 4.25,
-    "aav": 1
-  },
-  {
-    "name": "AJ Dillon",
-    "pos": "RB",
-    "nflTeam": "CAR",
-    "bye": 5,
-    "tier": "RB8",
-    "projectedDollars": 1.31,
-    "vbd": 3.73,
-    "aav": 0
+    "tier": "TE3",
+    "projectedDollars": 13.77,
+    "vbd": 37.85,
+    "aav": 12.3,
+    "fpts": 159.63,
+    "mark": "none"
   },
   {
     "name": "Daniel Jones",
@@ -1405,39 +713,479 @@
     "nflTeam": "IND",
     "bye": 13,
     "tier": "QB3",
-    "projectedDollars": 1.24,
-    "vbd": 3.54,
-    "aav": 1
+    "projectedDollars": 13.35,
+    "vbd": 137.04,
+    "aav": 1,
+    "fpts": 272.93,
+    "mark": "none"
   },
   {
-    "name": "KC Concepcion",
-    "pos": "WR",
-    "nflTeam": "CLE",
-    "bye": 11,
-    "tier": "WR7",
-    "projectedDollars": 1.18,
-    "vbd": 3.38,
-    "aav": 1.3
-  },
-  {
-    "name": "Braelon Allen",
+    "name": "Bhayshul Tuten",
     "pos": "RB",
+    "nflTeam": "JAC",
+    "bye": 7,
+    "tier": "RB6",
+    "projectedDollars": 13.04,
+    "vbd": 50.36,
+    "aav": 7.8,
+    "fpts": 194.75,
+    "mark": "none"
+  },
+  {
+    "name": "Garrett Wilson",
+    "pos": "WR",
     "nflTeam": "NYJ",
     "bye": 13,
-    "tier": "RB8",
-    "projectedDollars": 1.12,
-    "vbd": 3.19,
-    "aav": 1
+    "tier": "WR4",
+    "projectedDollars": 12.7,
+    "vbd": 37.69,
+    "aav": 14.7,
+    "fpts": 194.38,
+    "mark": "none"
   },
   {
-    "name": "Rashid Shaheed",
+    "name": "Malik Willis",
+    "pos": "QB",
+    "nflTeam": "MIA",
+    "bye": 6,
+    "tier": "QB3",
+    "projectedDollars": 12.54,
+    "vbd": 135.63,
+    "aav": 1.1,
+    "fpts": 271.53,
+    "mark": "none"
+  },
+  {
+    "name": "Harold Fannin Jr.",
+    "pos": "TE",
+    "nflTeam": "CLE",
+    "bye": 11,
+    "tier": "TE3",
+    "projectedDollars": 12.44,
+    "vbd": 35.56,
+    "aav": 4,
+    "fpts": 157.33,
+    "mark": "none"
+  },
+  {
+    "name": "DeVonta Smith",
     "pos": "WR",
+    "nflTeam": "PHI",
+    "bye": 10,
+    "tier": "WR4",
+    "projectedDollars": 11.87,
+    "vbd": 36.26,
+    "aav": 23.4,
+    "fpts": 192.95,
+    "mark": "none"
+  },
+  {
+    "name": "Tetairoa McMillan",
+    "pos": "WR",
+    "nflTeam": "CAR",
+    "bye": 5,
+    "tier": "WR5",
+    "projectedDollars": 11.82,
+    "vbd": 36.17,
+    "aav": 19.4,
+    "fpts": 192.86,
+    "mark": "none"
+  },
+  {
+    "name": "Emeka Egbuka",
+    "pos": "WR",
+    "nflTeam": "TB",
+    "bye": 10,
+    "tier": "WR5",
+    "projectedDollars": 10.98,
+    "vbd": 34.73,
+    "aav": 12,
+    "fpts": 191.42,
+    "mark": "none"
+  },
+  {
+    "name": "Sam Darnold",
+    "pos": "QB",
     "nflTeam": "SEA",
     "bye": 11,
-    "tier": "WR7",
-    "projectedDollars": 1.04,
-    "vbd": 2.96,
-    "aav": 1.1
+    "tier": "QB3",
+    "projectedDollars": 9.24,
+    "vbd": 129.96,
+    "aav": 1.3,
+    "fpts": 265.85,
+    "mark": "none"
+  },
+  {
+    "name": "George Kittle",
+    "pos": "TE",
+    "nflTeam": "SF",
+    "bye": 8,
+    "tier": "TE4",
+    "projectedDollars": 9.06,
+    "vbd": 29.75,
+    "aav": 2.8,
+    "fpts": 151.52,
+    "mark": "none"
+  },
+  {
+    "name": "Davante Adams",
+    "pos": "WR",
+    "nflTeam": "LAR",
+    "bye": 11,
+    "tier": "WR5",
+    "projectedDollars": 8.86,
+    "vbd": 31.08,
+    "aav": 12.6,
+    "fpts": 187.77,
+    "mark": "none"
+  },
+  {
+    "name": "Tee Higgins",
+    "pos": "WR",
+    "nflTeam": "CIN",
+    "bye": 6,
+    "tier": "WR5",
+    "projectedDollars": 7.91,
+    "vbd": 29.44,
+    "aav": 19.5,
+    "fpts": 186.13,
+    "mark": "none"
+  },
+  {
+    "name": "Sam LaPorta",
+    "pos": "TE",
+    "nflTeam": "DET",
+    "bye": 6,
+    "tier": "TE4",
+    "projectedDollars": 7.75,
+    "vbd": 27.48,
+    "aav": 4.1,
+    "fpts": 149.25,
+    "mark": "none"
+  },
+  {
+    "name": "Kyle Pitts Sr.",
+    "pos": "TE",
+    "nflTeam": "ATL",
+    "bye": 11,
+    "tier": "TE4",
+    "projectedDollars": 7.65,
+    "vbd": 27.32,
+    "aav": 3.3,
+    "fpts": 149.09,
+    "mark": "none"
+  },
+  {
+    "name": "Jameson Williams",
+    "pos": "WR",
+    "nflTeam": "DET",
+    "bye": 6,
+    "tier": "WR5",
+    "projectedDollars": 7.41,
+    "vbd": 28.58,
+    "aav": 7.4,
+    "fpts": 185.27,
+    "mark": "none"
+  },
+  {
+    "name": "Dallas Goedert",
+    "pos": "TE",
+    "nflTeam": "PHI",
+    "bye": 10,
+    "tier": "TE4",
+    "projectedDollars": 6.42,
+    "vbd": 25.19,
+    "aav": 1.3,
+    "fpts": 146.96,
+    "mark": "none"
+  },
+  {
+    "name": "David Montgomery",
+    "pos": "RB",
+    "nflTeam": "HOU",
+    "bye": 8,
+    "tier": "RB6",
+    "projectedDollars": 6.18,
+    "vbd": 38.55,
+    "aav": 11.2,
+    "fpts": 182.94,
+    "mark": "none"
+  },
+  {
+    "name": "C.J. Stroud",
+    "pos": "QB",
+    "nflTeam": "HOU",
+    "bye": 8,
+    "tier": "QB4",
+    "projectedDollars": 6.12,
+    "vbd": 124.6,
+    "aav": 1.1,
+    "fpts": 260.49,
+    "mark": "none"
+  },
+  {
+    "name": "Bryce Young",
+    "pos": "QB",
+    "nflTeam": "CAR",
+    "bye": 5,
+    "tier": "QB4",
+    "projectedDollars": 6.01,
+    "vbd": 122.17,
+    "aav": 1.4,
+    "fpts": 255.63,
+    "mark": "none"
+  },
+  {
+    "name": "Geno Smith",
+    "pos": "QB",
+    "nflTeam": "NYJ",
+    "bye": 13,
+    "tier": "QB4",
+    "projectedDollars": 5.46,
+    "vbd": 111.12,
+    "aav": 1,
+    "fpts": 233.54,
+    "mark": "none"
+  },
+  {
+    "name": "Cam Ward",
+    "pos": "QB",
+    "nflTeam": "TEN",
+    "bye": 9,
+    "tier": "QB4",
+    "projectedDollars": 5.42,
+    "vbd": 110.32,
+    "aav": 1.3,
+    "fpts": 231.94,
+    "mark": "none"
+  },
+  {
+    "name": "Jacoby Brissett",
+    "pos": "QB",
+    "nflTeam": "ARI",
+    "bye": 14,
+    "tier": "QB4",
+    "projectedDollars": 5.38,
+    "vbd": 109.41,
+    "aav": 1,
+    "fpts": 230.12,
+    "mark": "none"
+  },
+  {
+    "name": "Aaron Rodgers",
+    "pos": "QB",
+    "nflTeam": "PIT",
+    "bye": 9,
+    "tier": "QB4",
+    "projectedDollars": 5.24,
+    "vbd": 106.54,
+    "aav": 1.2,
+    "fpts": 224.39,
+    "mark": "none"
+  },
+  {
+    "name": "Travis Kelce",
+    "pos": "TE",
+    "nflTeam": "KC",
+    "bye": 5,
+    "tier": "TE4",
+    "projectedDollars": 4.77,
+    "vbd": 22.35,
+    "aav": 2.3,
+    "fpts": 144.13,
+    "mark": "none"
+  },
+  {
+    "name": "Tucker Kraft",
+    "pos": "TE",
+    "nflTeam": "GB",
+    "bye": 11,
+    "tier": "TE4",
+    "projectedDollars": 4.74,
+    "vbd": 22.31,
+    "aav": 6.3,
+    "fpts": 144.08,
+    "mark": "none"
+  },
+  {
+    "name": "Fernando Mendoza",
+    "pos": "QB",
+    "nflTeam": "LV",
+    "bye": 13,
+    "tier": "QB5",
+    "projectedDollars": 4.43,
+    "vbd": 90.14,
+    "aav": 1.1,
+    "fpts": 191.58,
+    "mark": "none"
+  },
+  {
+    "name": "Ladd McConkey",
+    "pos": "WR",
+    "nflTeam": "LAC",
+    "bye": 7,
+    "tier": "WR5",
+    "projectedDollars": 3.37,
+    "vbd": 21.62,
+    "aav": 13.3,
+    "fpts": 178.31,
+    "mark": "none"
+  },
+  {
+    "name": "Tua Tagovailoa",
+    "pos": "QB",
+    "nflTeam": "ATL",
+    "bye": 11,
+    "tier": "QB5",
+    "projectedDollars": 3.18,
+    "vbd": 64.69,
+    "aav": 1,
+    "fpts": 140.68,
+    "mark": "none"
+  },
+  {
+    "name": "Deshaun Watson",
+    "pos": "QB",
+    "nflTeam": "CLE",
+    "bye": 11,
+    "tier": "QB5",
+    "projectedDollars": 3.05,
+    "vbd": 61.97,
+    "aav": 1,
+    "fpts": 135.24,
+    "mark": "none"
+  },
+  {
+    "name": "Shedeur Sanders",
+    "pos": "QB",
+    "nflTeam": "CLE",
+    "bye": 11,
+    "tier": "QB6",
+    "projectedDollars": 2.33,
+    "vbd": 47.4,
+    "aav": 1,
+    "fpts": 106.09,
+    "mark": "none"
+  },
+  {
+    "name": "Michael Penix Jr.",
+    "pos": "QB",
+    "nflTeam": "ATL",
+    "bye": 11,
+    "tier": "QB6",
+    "projectedDollars": 2.14,
+    "vbd": 43.62,
+    "aav": 0,
+    "fpts": 98.54,
+    "mark": "none"
+  },
+  {
+    "name": "Terry McLaurin",
+    "pos": "WR",
+    "nflTeam": "WAS",
+    "bye": 7,
+    "tier": "WR5",
+    "projectedDollars": 1.59,
+    "vbd": 18.55,
+    "aav": 9.6,
+    "fpts": 175.24,
+    "mark": "none"
+  },
+  {
+    "name": "Jaylen Warren",
+    "pos": "RB",
+    "nflTeam": "PIT",
+    "bye": 9,
+    "tier": "RB6",
+    "projectedDollars": 1.5,
+    "vbd": 30.49,
+    "aav": 4,
+    "fpts": 174.88,
+    "mark": "none"
+  },
+  {
+    "name": "TreVeyon Henderson",
+    "pos": "RB",
+    "nflTeam": "NE",
+    "bye": 11,
+    "tier": "RB6",
+    "projectedDollars": 1.49,
+    "vbd": 30.33,
+    "aav": 9.7,
+    "fpts": 174.56,
+    "mark": "none"
+  },
+  {
+    "name": "Jadarian Price",
+    "pos": "RB",
+    "nflTeam": "SEA",
+    "bye": 11,
+    "tier": "RB6",
+    "projectedDollars": 1.48,
+    "vbd": 30.2,
+    "aav": 8,
+    "fpts": 174.3,
+    "mark": "none"
+  },
+  {
+    "name": "Tony Pollard",
+    "pos": "RB",
+    "nflTeam": "TEN",
+    "bye": 9,
+    "tier": "RB6",
+    "projectedDollars": 1.42,
+    "vbd": 28.95,
+    "aav": 3.3,
+    "fpts": 171.8,
+    "mark": "none"
+  },
+  {
+    "name": "Rhamondre Stevenson",
+    "pos": "RB",
+    "nflTeam": "NE",
+    "bye": 11,
+    "tier": "RB6",
+    "projectedDollars": 1.41,
+    "vbd": 28.74,
+    "aav": 3,
+    "fpts": 171.37,
+    "mark": "none"
+  },
+  {
+    "name": "J.K. Dobbins",
+    "pos": "RB",
+    "nflTeam": "DEN",
+    "bye": 10,
+    "tier": "RB6",
+    "projectedDollars": 1.29,
+    "vbd": 26.32,
+    "aav": 2.4,
+    "fpts": 166.54,
+    "mark": "none"
+  },
+  {
+    "name": "Rico Dowdle",
+    "pos": "RB",
+    "nflTeam": "PIT",
+    "bye": 9,
+    "tier": "RB7",
+    "projectedDollars": 1.26,
+    "vbd": 25.57,
+    "aav": 3.7,
+    "fpts": 165.04,
+    "mark": "none"
+  },
+  {
+    "name": "Chuba Hubbard",
+    "pos": "RB",
+    "nflTeam": "CAR",
+    "bye": 5,
+    "tier": "RB7",
+    "projectedDollars": 1.08,
+    "vbd": 22.05,
+    "aav": 5.9,
+    "fpts": 157.99,
+    "mark": "none"
   },
   {
     "name": "Brandon Aubrey",
@@ -1447,37 +1195,44 @@
     "tier": "K1",
     "projectedDollars": 1,
     "vbd": 19.4,
-    "aav": 4.9
+    "aav": 4.9,
+    "mark": "none"
   },
   {
     "name": "Jason Myers",
     "pos": "K",
     "nflTeam": "SEA",
     "bye": 11,
-    "tier": "K5",
+    "tier": "K1",
     "projectedDollars": 1,
-    "vbd": 18.4,
-    "aav": 1.3
+    "vbd": 0,
+    "aav": 1.3,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Ka'imi Fairbairn",
     "pos": "K",
     "nflTeam": "HOU",
     "bye": 8,
-    "tier": "K2",
+    "tier": "K1",
     "projectedDollars": 1,
-    "vbd": 12.5,
-    "aav": 1.7
+    "vbd": 0,
+    "aav": 1.7,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Cameron Dicker",
     "pos": "K",
     "nflTeam": "LAC",
     "bye": 7,
-    "tier": "K3",
+    "tier": "K1",
     "projectedDollars": 1,
-    "vbd": 10.7,
-    "aav": 1.5
+    "vbd": 0,
+    "aav": 1.5,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Harrison Mevis",
@@ -1486,18 +1241,22 @@
     "bye": 11,
     "tier": "K1",
     "projectedDollars": 1,
-    "vbd": 4.8,
-    "aav": 1.5
+    "vbd": 0,
+    "aav": 1.5,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Jake Bates",
     "pos": "K",
     "nflTeam": "DET",
     "bye": 6,
-    "tier": "K8",
+    "tier": "K1",
     "projectedDollars": 1,
-    "vbd": 4,
-    "aav": 1.3
+    "vbd": 0,
+    "aav": 1.3,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Spencer Shrader",
@@ -1506,8 +1265,10 @@
     "bye": 13,
     "tier": "K1",
     "projectedDollars": 1,
-    "vbd": 3.2,
-    "aav": 0
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Cairo Santos",
@@ -1516,118 +1277,141 @@
     "bye": 10,
     "tier": "K1",
     "projectedDollars": 1,
-    "vbd": 1.3,
-    "aav": 1
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Chase McLaughlin",
     "pos": "K",
     "nflTeam": "TB",
     "bye": 10,
-    "tier": "K10",
+    "tier": "K1",
     "projectedDollars": 1,
-    "vbd": 0.9,
-    "aav": 1.4
+    "vbd": 0,
+    "aav": 1.4,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Eddy Pineiro",
     "pos": "K",
     "nflTeam": "SF",
     "bye": 8,
-    "tier": "K6",
+    "tier": "K1",
     "projectedDollars": 1,
-    "vbd": 0.1,
-    "aav": 1.1
+    "vbd": 0,
+    "aav": 1.1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Cam Little",
     "pos": "K",
     "nflTeam": "JAC",
     "bye": 7,
-    "tier": "K4",
+    "tier": "K1",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1.6
+    "aav": 1.6,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Tyler Loop",
     "pos": "K",
     "nflTeam": "BAL",
     "bye": 13,
-    "tier": "K7",
+    "tier": "K1",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1.1
+    "aav": 1.1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Houston Texans",
     "pos": "DEF",
     "nflTeam": "HOU",
     "bye": 8,
-    "tier": "DST1",
+    "tier": "DEF1",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "mark": "none"
   },
   {
     "name": "Denver Broncos",
     "pos": "DEF",
     "nflTeam": "DEN",
     "bye": 10,
-    "tier": "DST3",
+    "tier": "DEF1",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Minnesota Vikings",
     "pos": "DEF",
     "nflTeam": "MIN",
     "bye": 6,
-    "tier": "DST7",
+    "tier": "DEF1",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Pittsburgh Steelers",
     "pos": "DEF",
     "nflTeam": "PIT",
     "bye": 9,
-    "tier": "DST8",
+    "tier": "DEF1",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Seattle Seahawks",
     "pos": "DEF",
     "nflTeam": "SEA",
     "bye": 11,
-    "tier": "DST4",
+    "tier": "DEF2",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Los Angeles Rams",
     "pos": "DEF",
     "nflTeam": "LAR",
     "bye": 11,
-    "tier": "DST2",
+    "tier": "DEF2",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 0
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Los Angeles Chargers",
     "pos": "DEF",
     "nflTeam": "LAC",
     "bye": 7,
-    "tier": "DST10",
+    "tier": "DEF2",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Buffalo Bills",
@@ -1637,7 +1421,9 @@
     "tier": "DEF2",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Detroit Lions",
@@ -1647,7 +1433,9 @@
     "tier": "DEF2",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Atlanta Falcons",
@@ -1657,17 +1445,21 @@
     "tier": "DEF2",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Philadelphia Eagles",
     "pos": "DEF",
     "nflTeam": "PHI",
     "bye": 10,
-    "tier": "DST5",
+    "tier": "DEF2",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Baltimore Ravens",
@@ -1677,37 +1469,525 @@
     "tier": "DEF2",
     "projectedDollars": 1,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
-    "name": "Malik Willis",
-    "pos": "QB",
-    "nflTeam": "MIA",
-    "bye": 6,
-    "tier": "QB3",
-    "projectedDollars": 0.99,
-    "vbd": 2.84,
-    "aav": 1.1
+    "name": "Cleveland Browns",
+    "pos": "DEF",
+    "nflTeam": "CLE",
+    "bye": 11,
+    "tier": "DEF2",
+    "projectedDollars": 1,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
-    "name": "Samaje Perine",
+    "name": "Harrison Butker",
+    "pos": "K",
+    "nflTeam": "KC",
+    "bye": 5,
+    "tier": "K1",
+    "projectedDollars": 1,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
+  },
+  {
+    "name": "MarShawn Lloyd",
     "pos": "RB",
-    "nflTeam": "CIN",
-    "bye": 6,
-    "tier": "RB8",
-    "projectedDollars": 0.72,
-    "vbd": 2.05,
-    "aav": 1
+    "nflTeam": "GB",
+    "bye": 11,
+    "tier": "RB7",
+    "projectedDollars": 0.92,
+    "vbd": 18.7,
+    "aav": 1,
+    "fpts": 151.31,
+    "mark": "none"
   },
   {
-    "name": "Khalil Shakir",
+    "name": "Kirk Cousins",
+    "pos": "QB",
+    "nflTeam": "LV",
+    "bye": 13,
+    "tier": "QB7",
+    "projectedDollars": 0.88,
+    "vbd": 17.88,
+    "aav": 1,
+    "fpts": 47.07,
+    "mark": "none"
+  },
+  {
+    "name": "Jonathon Brooks",
+    "pos": "RB",
+    "nflTeam": "CAR",
+    "bye": 5,
+    "tier": "RB7",
+    "projectedDollars": 0.88,
+    "vbd": 17.8,
+    "aav": 2.6,
+    "fpts": 149.51,
+    "mark": "none"
+  },
+  {
+    "name": "Rome Odunze",
+    "pos": "WR",
+    "nflTeam": "CHI",
+    "bye": 10,
+    "tier": "WR5",
+    "projectedDollars": 0.85,
+    "vbd": 17.28,
+    "aav": 4.9,
+    "fpts": 173.97,
+    "mark": "none"
+  },
+  {
+    "name": "DJ Moore",
     "pos": "WR",
     "nflTeam": "BUF",
     "bye": 7,
-    "tier": "WR7",
+    "tier": "WR5",
+    "projectedDollars": 0.85,
+    "vbd": 17.2,
+    "aav": 6.8,
+    "fpts": 173.81,
+    "mark": "none"
+  },
+  {
+    "name": "Jaylen Waddle",
+    "pos": "WR",
+    "nflTeam": "DEN",
+    "bye": 10,
+    "tier": "WR5",
+    "projectedDollars": 0.83,
+    "vbd": 16.84,
+    "aav": 12.1,
+    "fpts": 173.09,
+    "mark": "none"
+  },
+  {
+    "name": "Kenny Gainwell",
+    "pos": "RB",
+    "nflTeam": "TB",
+    "bye": 10,
+    "tier": "RB7",
+    "projectedDollars": 0.8,
+    "vbd": 16.36,
+    "aav": 1.8,
+    "fpts": 146.62,
+    "mark": "none"
+  },
+  {
+    "name": "Luther Burden III",
+    "pos": "WR",
+    "nflTeam": "CHI",
+    "bye": 10,
+    "tier": "WR5",
+    "projectedDollars": 0.79,
+    "vbd": 16.17,
+    "aav": 11.3,
+    "fpts": 171.74,
+    "mark": "none"
+  },
+  {
+    "name": "Mark Andrews",
+    "pos": "TE",
+    "nflTeam": "BAL",
+    "bye": 13,
+    "tier": "TE5",
+    "projectedDollars": 0.76,
+    "vbd": 15.45,
+    "aav": 1.2,
+    "fpts": 137.22,
+    "mark": "none"
+  },
+  {
+    "name": "Kyle Monangai",
+    "pos": "RB",
+    "nflTeam": "CHI",
+    "bye": 10,
+    "tier": "RB7",
+    "projectedDollars": 0.74,
+    "vbd": 15.08,
+    "aav": 2.7,
+    "fpts": 144.06,
+    "mark": "none"
+  },
+  {
+    "name": "Rachaad White",
+    "pos": "RB",
+    "nflTeam": "WAS",
+    "bye": 7,
+    "tier": "RB7",
+    "projectedDollars": 0.73,
+    "vbd": 14.82,
+    "aav": 1.7,
+    "fpts": 143.54,
+    "mark": "none"
+  },
+  {
+    "name": "Christian Watson",
+    "pos": "WR",
+    "nflTeam": "GB",
+    "bye": 11,
+    "tier": "WR6",
+    "projectedDollars": 0.7,
+    "vbd": 14.17,
+    "aav": 5,
+    "fpts": 167.75,
+    "mark": "none"
+  },
+  {
+    "name": "Aaron Jones Sr.",
+    "pos": "RB",
+    "nflTeam": "MIN",
+    "bye": 6,
+    "tier": "RB7",
+    "projectedDollars": 0.68,
+    "vbd": 13.77,
+    "aav": 1.9,
+    "fpts": 141.44,
+    "mark": "none"
+  },
+  {
+    "name": "Isaiah Likely",
+    "pos": "TE",
+    "nflTeam": "NYG",
+    "bye": 8,
+    "tier": "TE5",
+    "projectedDollars": 0.67,
+    "vbd": 13.68,
+    "aav": 1.7,
+    "fpts": 133.69,
+    "mark": "none"
+  },
+  {
+    "name": "Jacory Croskey-Merritt",
+    "pos": "RB",
+    "nflTeam": "WAS",
+    "bye": 7,
+    "tier": "RB7",
+    "projectedDollars": 0.67,
+    "vbd": 13.53,
+    "aav": 1.4,
+    "fpts": 140.97,
+    "mark": "none"
+  },
+  {
+    "name": "RJ Harvey",
+    "pos": "RB",
+    "nflTeam": "DEN",
+    "bye": 10,
+    "tier": "RB7",
+    "projectedDollars": 0.63,
+    "vbd": 12.81,
+    "aav": 2.8,
+    "fpts": 139.52,
+    "mark": "none"
+  },
+  {
+    "name": "Courtland Sutton",
+    "pos": "WR",
+    "nflTeam": "DEN",
+    "bye": 10,
+    "tier": "WR6",
+    "projectedDollars": 0.63,
+    "vbd": 12.77,
+    "aav": 1.8,
+    "fpts": 164.94,
+    "mark": "none"
+  },
+  {
+    "name": "Dalton Kincaid",
+    "pos": "TE",
+    "nflTeam": "BUF",
+    "bye": 7,
+    "tier": "TE5",
     "projectedDollars": 0.62,
-    "vbd": 1.77,
-    "aav": 1.1
+    "vbd": 12.65,
+    "aav": 1.3,
+    "fpts": 131.63,
+    "mark": "none"
+  },
+  {
+    "name": "Jordan Mason",
+    "pos": "RB",
+    "nflTeam": "MIN",
+    "bye": 6,
+    "tier": "RB7",
+    "projectedDollars": 0.61,
+    "vbd": 12.33,
+    "aav": 1.5,
+    "fpts": 138.56,
+    "mark": "none"
+  },
+  {
+    "name": "Alec Pierce",
+    "pos": "WR",
+    "nflTeam": "IND",
+    "bye": 13,
+    "tier": "WR6",
+    "projectedDollars": 0.6,
+    "vbd": 12.11,
+    "aav": 3.5,
+    "fpts": 163.64,
+    "mark": "none"
+  },
+  {
+    "name": "Jake Ferguson",
+    "pos": "TE",
+    "nflTeam": "DAL",
+    "bye": 14,
+    "tier": "TE5",
+    "projectedDollars": 0.59,
+    "vbd": 11.92,
+    "aav": 1.3,
+    "fpts": 130.16,
+    "mark": "none"
+  },
+  {
+    "name": "Marvin Harrison Jr.",
+    "pos": "WR",
+    "nflTeam": "ARI",
+    "bye": 14,
+    "tier": "WR6",
+    "projectedDollars": 0.58,
+    "vbd": 11.86,
+    "aav": 3.4,
+    "fpts": 163.12,
+    "mark": "none"
+  },
+  {
+    "name": "Mike Evans",
+    "pos": "WR",
+    "nflTeam": "SF",
+    "bye": 8,
+    "tier": "WR6",
+    "projectedDollars": 0.58,
+    "vbd": 11.85,
+    "aav": 6.5,
+    "fpts": 163.1,
+    "mark": "none"
+  },
+  {
+    "name": "DK Metcalf",
+    "pos": "WR",
+    "nflTeam": "PIT",
+    "bye": 9,
+    "tier": "WR6",
+    "projectedDollars": 0.58,
+    "vbd": 11.84,
+    "aav": 2.4,
+    "fpts": 163.08,
+    "mark": "none"
+  },
+  {
+    "name": "Blake Corum",
+    "pos": "RB",
+    "nflTeam": "LAR",
+    "bye": 11,
+    "tier": "RB7",
+    "projectedDollars": 0.51,
+    "vbd": 10.3,
+    "aav": 2.6,
+    "fpts": 134.5,
+    "mark": "none"
+  },
+  {
+    "name": "Hunter Henry",
+    "pos": "TE",
+    "nflTeam": "NE",
+    "bye": 11,
+    "tier": "TE5",
+    "projectedDollars": 0.47,
+    "vbd": 9.49,
+    "aav": 1.1,
+    "fpts": 125.32,
+    "mark": "none"
+  },
+  {
+    "name": "Carson Beck",
+    "pos": "QB",
+    "nflTeam": "ARI",
+    "bye": 14,
+    "tier": "QB7",
+    "projectedDollars": 0.45,
+    "vbd": 9.18,
+    "aav": 0,
+    "fpts": 29.66,
+    "mark": "none"
+  },
+  {
+    "name": "Juwan Johnson",
+    "pos": "TE",
+    "nflTeam": "NO",
+    "bye": 8,
+    "tier": "TE5",
+    "projectedDollars": 0.42,
+    "vbd": 8.55,
+    "aav": 1,
+    "fpts": 123.43,
+    "mark": "none"
+  },
+  {
+    "name": "Brenton Strange",
+    "pos": "TE",
+    "nflTeam": "JAC",
+    "bye": 7,
+    "tier": "TE5",
+    "projectedDollars": 0.37,
+    "vbd": 7.6,
+    "aav": 1,
+    "fpts": 121.53,
+    "mark": "none"
+  },
+  {
+    "name": "Parker Washington",
+    "pos": "WR",
+    "nflTeam": "JAC",
+    "bye": 7,
+    "tier": "WR6",
+    "projectedDollars": 0.33,
+    "vbd": 6.75,
+    "aav": 1.6,
+    "fpts": 152.92,
+    "mark": "none"
+  },
+  {
+    "name": "Brian Thomas Jr.",
+    "pos": "WR",
+    "nflTeam": "JAC",
+    "bye": 7,
+    "tier": "WR6",
+    "projectedDollars": 0.32,
+    "vbd": 6.44,
+    "aav": 2.4,
+    "fpts": 152.29,
+    "mark": "none"
+  },
+  {
+    "name": "Josh Jacobs",
+    "pos": "RB",
+    "nflTeam": "GB",
+    "bye": 11,
+    "tier": "RB7",
+    "projectedDollars": 0.32,
+    "vbd": 6.42,
+    "aav": 26.9,
+    "fpts": 126.74,
+    "mark": "none"
+  },
+  {
+    "name": "Michael Pittman Jr.",
+    "pos": "WR",
+    "nflTeam": "PIT",
+    "bye": 9,
+    "tier": "WR6",
+    "projectedDollars": 0.27,
+    "vbd": 5.4,
+    "aav": 1.2,
+    "fpts": 150.21,
+    "mark": "none"
+  },
+  {
+    "name": "Dalton Schultz",
+    "pos": "TE",
+    "nflTeam": "HOU",
+    "bye": 8,
+    "tier": "TE5",
+    "projectedDollars": 0.23,
+    "vbd": 4.74,
+    "aav": 1.2,
+    "fpts": 115.82,
+    "mark": "none"
+  },
+  {
+    "name": "Ty Simpson",
+    "pos": "QB",
+    "nflTeam": "LAR",
+    "bye": 11,
+    "tier": "QB7",
+    "projectedDollars": 0.18,
+    "vbd": 3.75,
+    "aav": 0,
+    "fpts": 18.8,
+    "mark": "none"
+  },
+  {
+    "name": "Marcus Mariota",
+    "pos": "QB",
+    "nflTeam": "WAS",
+    "bye": 7,
+    "tier": "QB7",
+    "projectedDollars": 0.16,
+    "vbd": 3.32,
+    "aav": 0,
+    "fpts": 17.95,
+    "mark": "none"
+  },
+  {
+    "name": "Carnell Tate",
+    "pos": "WR",
+    "nflTeam": "TEN",
+    "bye": 9,
+    "tier": "WR6",
+    "projectedDollars": 0.16,
+    "vbd": 3.18,
+    "aav": 3.7,
+    "fpts": 145.77,
+    "mark": "none"
+  },
+  {
+    "name": "Jayden Reed",
+    "pos": "WR",
+    "nflTeam": "GB",
+    "bye": 11,
+    "tier": "WR6",
+    "projectedDollars": 0.15,
+    "vbd": 3.03,
+    "aav": 1.1,
+    "fpts": 145.46,
+    "mark": "none"
+  },
+  {
+    "name": "Michael Wilson",
+    "pos": "WR",
+    "nflTeam": "ARI",
+    "bye": 14,
+    "tier": "WR6",
+    "projectedDollars": 0.12,
+    "vbd": 2.49,
+    "aav": 1.8,
+    "fpts": 144.39,
+    "mark": "none"
+  },
+  {
+    "name": "Quentin Johnston",
+    "pos": "WR",
+    "nflTeam": "LAC",
+    "bye": 7,
+    "tier": "WR6",
+    "projectedDollars": 0.11,
+    "vbd": 2.21,
+    "aav": 1.3,
+    "fpts": 143.83,
+    "mark": "none"
+  },
+  {
+    "name": "Jakobi Meyers",
+    "pos": "WR",
+    "nflTeam": "JAC",
+    "bye": 7,
+    "tier": "WR6",
+    "projectedDollars": 0.07,
+    "vbd": 1.48,
+    "aav": 1.2,
+    "fpts": 142.38,
+    "mark": "none"
   },
   {
     "name": "T.J. Hockenson",
@@ -1715,19 +1995,47 @@
     "nflTeam": "MIN",
     "bye": 6,
     "tier": "TE6",
-    "projectedDollars": 0.58,
-    "vbd": 1.66,
-    "aav": 1.2
+    "projectedDollars": 0.06,
+    "vbd": 1.32,
+    "aav": 1.2,
+    "fpts": 108.97,
+    "mark": "none"
   },
   {
-    "name": "Josh Downs",
+    "name": "Chris Godwin Jr.",
     "pos": "WR",
+    "nflTeam": "TB",
+    "bye": 10,
+    "tier": "WR6",
+    "projectedDollars": 0.06,
+    "vbd": 1.23,
+    "aav": 1.7,
+    "fpts": 141.87,
+    "mark": "none"
+  },
+  {
+    "name": "Jordan Addison",
+    "pos": "WR",
+    "nflTeam": "MIN",
+    "bye": 6,
+    "tier": "WR6",
+    "projectedDollars": 0.05,
+    "vbd": 1.11,
+    "aav": 1.1,
+    "fpts": 141.64,
+    "mark": "none"
+  },
+  {
+    "name": "Riley Leonard",
+    "pos": "QB",
     "nflTeam": "IND",
     "bye": 13,
-    "tier": "WR7",
-    "projectedDollars": 0.47,
-    "vbd": 1.36,
-    "aav": 1.2
+    "tier": "QB7",
+    "projectedDollars": 0.05,
+    "vbd": 1.08,
+    "aav": 0,
+    "fpts": 13.46,
+    "mark": "none"
   },
   {
     "name": "Pat Freiermuth",
@@ -1735,9 +2043,323 @@
     "nflTeam": "PIT",
     "bye": 9,
     "tier": "TE6",
-    "projectedDollars": 0.39,
-    "vbd": 1.11,
-    "aav": 1.3
+    "projectedDollars": 0.04,
+    "vbd": 0.77,
+    "aav": 1.3,
+    "fpts": 107.86,
+    "mark": "none"
+  },
+  {
+    "name": "Tyjae Spears",
+    "pos": "RB",
+    "nflTeam": "TEN",
+    "bye": 9,
+    "tier": "RB7",
+    "projectedDollars": 0.03,
+    "vbd": 0.65,
+    "aav": 1.1,
+    "fpts": 115.21,
+    "mark": "none"
+  },
+  {
+    "name": "Justin Fields",
+    "pos": "QB",
+    "nflTeam": "KC",
+    "bye": 5,
+    "tier": "QB7",
+    "projectedDollars": 0.03,
+    "vbd": 0.57,
+    "aav": 0,
+    "fpts": 12.45,
+    "mark": "none"
+  },
+  {
+    "name": "Anthony Richardson Sr.",
+    "pos": "QB",
+    "nflTeam": "IND",
+    "bye": 13,
+    "tier": "QB7",
+    "projectedDollars": 0.03,
+    "vbd": 0.57,
+    "aav": 0,
+    "fpts": 12.44,
+    "mark": "none"
+  },
+  {
+    "name": "J.J. McCarthy",
+    "pos": "QB",
+    "nflTeam": "MIN",
+    "bye": 6,
+    "tier": "QB7",
+    "projectedDollars": 0.02,
+    "vbd": 0.44,
+    "aav": 1,
+    "fpts": 12.18,
+    "mark": "none"
+  },
+  {
+    "name": "Jameis Winston",
+    "pos": "QB",
+    "nflTeam": "NYG",
+    "bye": 8,
+    "tier": "QB7",
+    "projectedDollars": 0.01,
+    "vbd": 0.13,
+    "aav": 0,
+    "fpts": 11.56,
+    "mark": "none"
+  },
+  {
+    "name": "Woody Marks",
+    "pos": "RB",
+    "nflTeam": "HOU",
+    "bye": 8,
+    "tier": "RB7",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 113.9,
+    "mark": "none"
+  },
+  {
+    "name": "Zach Charbonnet",
+    "pos": "RB",
+    "nflTeam": "SEA",
+    "bye": 11,
+    "tier": "RB8",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.8,
+    "fpts": 107.61,
+    "mark": "none"
+  },
+  {
+    "name": "Justice Hill",
+    "pos": "RB",
+    "nflTeam": "BAL",
+    "bye": 13,
+    "tier": "RB8",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 98.5,
+    "mark": "none"
+  },
+  {
+    "name": "Wan'Dale Robinson",
+    "pos": "WR",
+    "nflTeam": "TEN",
+    "bye": 9,
+    "tier": "WR6",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.1,
+    "fpts": 139.41,
+    "mark": "none"
+  },
+  {
+    "name": "Xavier Worthy",
+    "pos": "WR",
+    "nflTeam": "KC",
+    "bye": 5,
+    "tier": "WR6",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 139.3,
+    "mark": "none"
+  },
+  {
+    "name": "De'Zhaun Stribling",
+    "pos": "WR",
+    "nflTeam": "SF",
+    "bye": 8,
+    "tier": "WR6",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 138.42,
+    "mark": "none"
+  },
+  {
+    "name": "Matthew Golden",
+    "pos": "WR",
+    "nflTeam": "GB",
+    "bye": 11,
+    "tier": "WR6",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.4,
+    "fpts": 137.42,
+    "mark": "none"
+  },
+  {
+    "name": "Alvin Kamara",
+    "pos": "RB",
+    "nflTeam": "NO",
+    "bye": 8,
+    "tier": "RB8",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.3,
+    "fpts": 94.18,
+    "mark": "none"
+  },
+  {
+    "name": "Chris Rodriguez Jr.",
+    "pos": "RB",
+    "nflTeam": "JAC",
+    "bye": 7,
+    "tier": "RB8",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.2,
+    "fpts": 93.21,
+    "mark": "none"
+  },
+  {
+    "name": "Romeo Doubs",
+    "pos": "WR",
+    "nflTeam": "NE",
+    "bye": 11,
+    "tier": "WR7",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.2,
+    "fpts": 135.56,
+    "mark": "none"
+  },
+  {
+    "name": "Dylan Sampson",
+    "pos": "RB",
+    "nflTeam": "CLE",
+    "bye": 11,
+    "tier": "RB8",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 92.39,
+    "mark": "none"
+  },
+  {
+    "name": "Mike Washington Jr.",
+    "pos": "RB",
+    "nflTeam": "LV",
+    "bye": 13,
+    "tier": "RB8",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 92.27,
+    "mark": "none"
+  },
+  {
+    "name": "Stefon Diggs",
+    "pos": "WR",
+    "nflTeam": "WAS",
+    "bye": 7,
+    "tier": "WR7",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.1,
+    "fpts": 134.93,
+    "mark": "none"
+  },
+  {
+    "name": "Deebo Samuel Sr.",
+    "pos": "WR",
+    "nflTeam": "SF",
+    "bye": 8,
+    "tier": "WR7",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 134.74,
+    "mark": "none"
+  },
+  {
+    "name": "AJ Dillon",
+    "pos": "RB",
+    "nflTeam": "CAR",
+    "bye": 5,
+    "tier": "RB8",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 90.8,
+    "mark": "none"
+  },
+  {
+    "name": "KC Concepcion",
+    "pos": "WR",
+    "nflTeam": "CLE",
+    "bye": 11,
+    "tier": "WR7",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.3,
+    "fpts": 133,
+    "mark": "none"
+  },
+  {
+    "name": "Braelon Allen",
+    "pos": "RB",
+    "nflTeam": "NYJ",
+    "bye": 13,
+    "tier": "RB8",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 89.72,
+    "mark": "none"
+  },
+  {
+    "name": "Rashid Shaheed",
+    "pos": "WR",
+    "nflTeam": "SEA",
+    "bye": 11,
+    "tier": "WR7",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.1,
+    "fpts": 132.16,
+    "mark": "none"
+  },
+  {
+    "name": "Samaje Perine",
+    "pos": "RB",
+    "nflTeam": "CIN",
+    "bye": 6,
+    "tier": "RB8",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 87.44,
+    "mark": "none"
+  },
+  {
+    "name": "Khalil Shakir",
+    "pos": "WR",
+    "nflTeam": "BUF",
+    "bye": 7,
+    "tier": "WR7",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.1,
+    "fpts": 129.78,
+    "mark": "none"
+  },
+  {
+    "name": "Josh Downs",
+    "pos": "WR",
+    "nflTeam": "IND",
+    "bye": 13,
+    "tier": "WR7",
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.2,
+    "fpts": 128.95,
+    "mark": "none"
   },
   {
     "name": "Jalen Coker",
@@ -1745,9 +2367,11 @@
     "nflTeam": "CAR",
     "bye": 5,
     "tier": "WR7",
-    "projectedDollars": 0.16,
-    "vbd": 0.44,
-    "aav": 1.1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.1,
+    "fpts": 127.13,
+    "mark": "none"
   },
   {
     "name": "Greg Dulcich",
@@ -1755,9 +2379,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "TE6",
-    "projectedDollars": 0.12,
-    "vbd": 0.34,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 106.33,
+    "mark": "none"
   },
   {
     "name": "Ty Johnson",
@@ -1765,9 +2391,11 @@
     "nflTeam": "BUF",
     "bye": 7,
     "tier": "RB8",
-    "projectedDollars": 0.02,
-    "vbd": 0.06,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 83.46,
+    "mark": "none"
   },
   {
     "name": "Kaelon Black",
@@ -1775,9 +2403,11 @@
     "nflTeam": "SF",
     "bye": 8,
     "tier": "RB8",
-    "projectedDollars": 0.02,
-    "vbd": 0.05,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 83.43,
+    "mark": "none"
   },
   {
     "name": "Tyler Allgeier",
@@ -1787,7 +2417,9 @@
     "tier": "RB8",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1.1
+    "aav": 1.1,
+    "fpts": 83.34,
+    "mark": "none"
   },
   {
     "name": "Jerry Jeudy",
@@ -1797,7 +2429,9 @@
     "tier": "WR7",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 126.24,
+    "mark": "none"
   },
   {
     "name": "Kenyon Sadiq",
@@ -1807,27 +2441,9 @@
     "tier": "TE6",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
-  },
-  {
-    "name": "Sam Darnold",
-    "pos": "QB",
-    "nflTeam": "SEA",
-    "bye": 11,
-    "tier": "QB3",
-    "projectedDollars": 0,
-    "vbd": 0,
-    "aav": 1.3
-  },
-  {
-    "name": "Cleveland Browns",
-    "pos": "DEF",
-    "nflTeam": "CLE",
-    "bye": 11,
-    "tier": "DEF2",
-    "projectedDollars": 0,
-    "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 105.64,
+    "mark": "none"
   },
   {
     "name": "Chicago Bears",
@@ -1837,17 +2453,21 @@
     "tier": "DEF2",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Jacksonville Jaguars",
     "pos": "DEF",
     "nflTeam": "JAC",
     "bye": 7,
-    "tier": "DST9",
+    "tier": "DEF2",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "New Orleans Saints",
@@ -1857,17 +2477,21 @@
     "tier": "DEF2",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "New England Patriots",
     "pos": "DEF",
     "nflTeam": "NE",
     "bye": 11,
-    "tier": "DST6",
+    "tier": "DEF2",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Cincinnati Bengals",
@@ -1877,7 +2501,9 @@
     "tier": "DEF2",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Tampa Bay Buccaneers",
@@ -1887,7 +2513,9 @@
     "tier": "DEF2",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Tennessee Titans",
@@ -1897,7 +2525,9 @@
     "tier": "DEF2",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Green Bay Packers",
@@ -1907,7 +2537,9 @@
     "tier": "DEF3",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Indianapolis Colts",
@@ -1917,7 +2549,9 @@
     "tier": "DEF3",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Washington Commanders",
@@ -1927,7 +2561,9 @@
     "tier": "DEF3",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Kansas City Chiefs",
@@ -1937,7 +2573,9 @@
     "tier": "DEF3",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Dallas Cowboys",
@@ -1947,7 +2585,9 @@
     "tier": "DEF3",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "New York Giants",
@@ -1957,7 +2597,9 @@
     "tier": "DEF3",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 0
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Miami Dolphins",
@@ -1967,7 +2609,9 @@
     "tier": "DEF3",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 0
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Las Vegas Raiders",
@@ -1977,7 +2621,9 @@
     "tier": "DEF3",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Arizona Cardinals",
@@ -1987,7 +2633,9 @@
     "tier": "DEF3",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 0
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "San Francisco 49ers",
@@ -1997,7 +2645,9 @@
     "tier": "DEF3",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 1
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Carolina Panthers",
@@ -2007,7 +2657,9 @@
     "tier": "DEF3",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 0
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "New York Jets",
@@ -2017,17 +2669,9 @@
     "tier": "DEF3",
     "projectedDollars": 0,
     "vbd": 0,
-    "aav": 0
-  },
-  {
-    "name": "Harrison Butker",
-    "pos": "K",
-    "nflTeam": "KC",
-    "bye": 5,
-    "tier": "K1",
-    "projectedDollars": 0,
-    "vbd": -0.1,
-    "aav": 1
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Will Reichard",
@@ -2036,18 +2680,22 @@
     "bye": 6,
     "tier": "K1",
     "projectedDollars": 0,
-    "vbd": -1.2,
-    "aav": 1.4
+    "vbd": 0,
+    "aav": 1.4,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Evan McPherson",
     "pos": "K",
     "nflTeam": "CIN",
     "bye": 6,
-    "tier": "K9",
+    "tier": "K1",
     "projectedDollars": 0,
-    "vbd": -3.4,
-    "aav": 1.1
+    "vbd": 0,
+    "aav": 1.1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Wil Lutz",
@@ -2056,8 +2704,10 @@
     "bye": 10,
     "tier": "K1",
     "projectedDollars": 0,
-    "vbd": -3.5,
-    "aav": 1
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Trey Smack",
@@ -2066,8 +2716,10 @@
     "bye": 11,
     "tier": "K1",
     "projectedDollars": 0,
-    "vbd": -5,
-    "aav": 1
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Tyler Bass",
@@ -2076,8 +2728,10 @@
     "bye": 7,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -8.3,
-    "aav": 1
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Daniel Carlson",
@@ -2086,8 +2740,10 @@
     "bye": 8,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -10.5,
-    "aav": 0
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Nick Folk",
@@ -2096,8 +2752,10 @@
     "bye": 11,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -10.9,
-    "aav": 1
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Andy Borregales",
@@ -2106,8 +2764,10 @@
     "bye": 11,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -12.5,
-    "aav": 1
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Jake Elliott",
@@ -2116,8 +2776,10 @@
     "bye": 10,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -12.7,
-    "aav": 1
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Chris Boswell",
@@ -2126,8 +2788,10 @@
     "bye": 9,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -13.7,
-    "aav": 1.2
+    "vbd": 0,
+    "aav": 1.2,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Drew Stevens",
@@ -2136,8 +2800,10 @@
     "bye": 7,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -15.3,
-    "aav": 0
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Riley Patterson",
@@ -2146,8 +2812,10 @@
     "bye": 6,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -17.7,
-    "aav": 0
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Joey Slye",
@@ -2156,8 +2824,10 @@
     "bye": 9,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -18.1,
-    "aav": 0
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Blake Grupe",
@@ -2166,8 +2836,10 @@
     "bye": 13,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -20.3,
-    "aav": 1
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Chad Ryland",
@@ -2176,8 +2848,10 @@
     "bye": 14,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -20.9,
-    "aav": 0
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Ryan Fitzgerald",
@@ -2186,8 +2860,10 @@
     "bye": 5,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -24,
-    "aav": 0
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Matt Gay",
@@ -2196,8 +2872,10 @@
     "bye": 13,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -25.9,
-    "aav": 1
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Andre Szmyt",
@@ -2206,8 +2884,10 @@
     "bye": 11,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -29.9,
-    "aav": 0
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Dominic Zvada",
@@ -2216,8 +2896,10 @@
     "bye": 8,
     "tier": "K2",
     "projectedDollars": 0,
-    "vbd": -48.5,
-    "aav": 0
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Brian Robinson Jr.",
@@ -2225,9 +2907,11 @@
     "nflTeam": "ATL",
     "bye": 11,
     "tier": "RB8",
-    "projectedDollars": -0.12,
-    "vbd": -0.35,
-    "aav": 5.2
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 5.2,
+    "fpts": 82.63,
+    "mark": "none"
   },
   {
     "name": "Calvin Ridley",
@@ -2235,9 +2919,11 @@
     "nflTeam": "TEN",
     "bye": 9,
     "tier": "WR7",
-    "projectedDollars": -0.28,
-    "vbd": -0.79,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 124.67,
+    "mark": "none"
   },
   {
     "name": "Makai Lemon",
@@ -2245,9 +2931,11 @@
     "nflTeam": "PHI",
     "bye": 10,
     "tier": "WR7",
-    "projectedDollars": -0.42,
-    "vbd": -1.21,
-    "aav": 1.8
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.8,
+    "fpts": 123.83,
+    "mark": "none"
   },
   {
     "name": "Terrance Ferguson",
@@ -2255,9 +2943,11 @@
     "nflTeam": "LAR",
     "bye": 11,
     "tier": "TE6",
-    "projectedDollars": -0.47,
-    "vbd": -1.33,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 102.98,
+    "mark": "none"
   },
   {
     "name": "Tank Bigsby",
@@ -2265,9 +2955,11 @@
     "nflTeam": "PHI",
     "bye": 10,
     "tier": "RB8",
-    "projectedDollars": -0.49,
-    "vbd": -1.39,
-    "aav": 1.2
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.2,
+    "fpts": 80.55,
+    "mark": "none"
   },
   {
     "name": "Denzel Boston",
@@ -2275,9 +2967,11 @@
     "nflTeam": "CLE",
     "bye": 11,
     "tier": "WR7",
-    "projectedDollars": -0.7,
-    "vbd": -1.99,
-    "aav": 1.1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.1,
+    "fpts": 122.26,
+    "mark": "none"
   },
   {
     "name": "Cade Otton",
@@ -2285,19 +2979,11 @@
     "nflTeam": "TB",
     "bye": 10,
     "tier": "TE6",
-    "projectedDollars": -0.72,
-    "vbd": -2.06,
-    "aav": 1
-  },
-  {
-    "name": "C.J. Stroud",
-    "pos": "QB",
-    "nflTeam": "HOU",
-    "bye": 8,
-    "tier": "QB4",
-    "projectedDollars": -0.94,
-    "vbd": -2.68,
-    "aav": 1.1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 101.51,
+    "mark": "none"
   },
   {
     "name": "AJ Barner",
@@ -2305,9 +2991,11 @@
     "nflTeam": "SEA",
     "bye": 11,
     "tier": "TE6",
-    "projectedDollars": -0.99,
-    "vbd": -2.82,
-    "aav": 1.2
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.2,
+    "fpts": 99.99,
+    "mark": "none"
   },
   {
     "name": "Chig Okonkwo",
@@ -2315,9 +3003,11 @@
     "nflTeam": "WAS",
     "bye": 7,
     "tier": "TE6",
-    "projectedDollars": -1.02,
-    "vbd": -2.91,
-    "aav": 1.1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.1,
+    "fpts": 99.82,
+    "mark": "none"
   },
   {
     "name": "Keaton Mitchell",
@@ -2325,9 +3015,11 @@
     "nflTeam": "LAC",
     "bye": 7,
     "tier": "RB8",
-    "projectedDollars": -1.15,
-    "vbd": -3.28,
-    "aav": 1.2
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.2,
+    "fpts": 76.78,
+    "mark": "none"
   },
   {
     "name": "Isiah Pacheco",
@@ -2335,9 +3027,11 @@
     "nflTeam": "DET",
     "bye": 6,
     "tier": "RB8",
-    "projectedDollars": -1.37,
-    "vbd": -3.9,
-    "aav": 1.1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.1,
+    "fpts": 75.53,
+    "mark": "none"
   },
   {
     "name": "Tre Tucker",
@@ -2345,19 +3039,11 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "WR7",
-    "projectedDollars": -1.52,
-    "vbd": -4.35,
-    "aav": 1
-  },
-  {
-    "name": "Bryce Young",
-    "pos": "QB",
-    "nflTeam": "CAR",
-    "bye": 5,
-    "tier": "QB4",
-    "projectedDollars": -1.79,
-    "vbd": -5.11,
-    "aav": 1.4
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 117.55,
+    "mark": "none"
   },
   {
     "name": "Darren Waller",
@@ -2365,9 +3051,11 @@
     "nflTeam": "CAR",
     "bye": 5,
     "tier": "TE6",
-    "projectedDollars": -1.99,
-    "vbd": -5.68,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 94.27,
+    "mark": "none"
   },
   {
     "name": "Rashod Bateman",
@@ -2375,9 +3063,11 @@
     "nflTeam": "BAL",
     "bye": 13,
     "tier": "WR7",
-    "projectedDollars": -2,
-    "vbd": -5.71,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 114.82,
+    "mark": "none"
   },
   {
     "name": "Malik Davis",
@@ -2385,9 +3075,11 @@
     "nflTeam": "DAL",
     "bye": 14,
     "tier": "RB8",
-    "projectedDollars": -2.02,
-    "vbd": -5.76,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 71.82,
+    "mark": "none"
   },
   {
     "name": "Kayshon Boutte",
@@ -2395,9 +3087,11 @@
     "nflTeam": "HOU",
     "bye": 8,
     "tier": "WR7",
-    "projectedDollars": -2.19,
-    "vbd": -6.24,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 113.77,
+    "mark": "none"
   },
   {
     "name": "Chris Brooks",
@@ -2405,9 +3099,11 @@
     "nflTeam": "GB",
     "bye": 11,
     "tier": "RB8",
-    "projectedDollars": -2.24,
-    "vbd": -6.39,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 70.56,
+    "mark": "none"
   },
   {
     "name": "Keenan Allen",
@@ -2415,9 +3111,11 @@
     "nflTeam": "IND",
     "bye": 13,
     "tier": "WR7",
-    "projectedDollars": -2.37,
-    "vbd": -6.78,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 112.69,
+    "mark": "none"
   },
   {
     "name": "Jordan James",
@@ -2425,9 +3123,11 @@
     "nflTeam": "SF",
     "bye": 8,
     "tier": "RB8",
-    "projectedDollars": -2.52,
-    "vbd": -7.2,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 68.95,
+    "mark": "none"
   },
   {
     "name": "Najee Harris",
@@ -2435,9 +3135,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "RB8",
-    "projectedDollars": -2.56,
-    "vbd": -7.3,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 68.73,
+    "mark": "none"
   },
   {
     "name": "Evan Engram",
@@ -2445,9 +3147,11 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "TE6",
-    "projectedDollars": -2.69,
-    "vbd": -7.68,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 90.28,
+    "mark": "none"
   },
   {
     "name": "Ja'Kobi Lane",
@@ -2455,9 +3159,11 @@
     "nflTeam": "BAL",
     "bye": 13,
     "tier": "WR7",
-    "projectedDollars": -2.74,
-    "vbd": -7.81,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 110.61,
+    "mark": "none"
   },
   {
     "name": "Jalen McMillan",
@@ -2465,9 +3171,11 @@
     "nflTeam": "TB",
     "bye": 10,
     "tier": "WR7",
-    "projectedDollars": -2.81,
-    "vbd": -8.03,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 110.19,
+    "mark": "none"
   },
   {
     "name": "Jauan Jennings",
@@ -2475,9 +3183,11 @@
     "nflTeam": "MIN",
     "bye": 6,
     "tier": "WR7",
-    "projectedDollars": -2.83,
-    "vbd": -8.09,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 110.07,
+    "mark": "none"
   },
   {
     "name": "Mike Gesicki",
@@ -2485,9 +3195,11 @@
     "nflTeam": "CIN",
     "bye": 6,
     "tier": "TE6",
-    "projectedDollars": -3.07,
-    "vbd": -8.75,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 88.14,
+    "mark": "none"
   },
   {
     "name": "Gunnar Helm",
@@ -2495,9 +3207,11 @@
     "nflTeam": "TEN",
     "bye": 9,
     "tier": "TE6",
-    "projectedDollars": -3.27,
-    "vbd": -9.32,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 87.01,
+    "mark": "none"
   },
   {
     "name": "David Njoku",
@@ -2505,9 +3219,11 @@
     "nflTeam": "LAC",
     "bye": 7,
     "tier": "TE6",
-    "projectedDollars": -3.38,
-    "vbd": -9.64,
-    "aav": 1.5
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.5,
+    "fpts": 86.37,
+    "mark": "none"
   },
   {
     "name": "Tyrone Tracy Jr.",
@@ -2515,9 +3231,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "RB8",
-    "projectedDollars": -3.45,
-    "vbd": -9.85,
-    "aav": 1.1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.1,
+    "fpts": 63.63,
+    "mark": "none"
   },
   {
     "name": "Jalen Nailor",
@@ -2525,9 +3243,11 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "WR7",
-    "projectedDollars": -3.71,
-    "vbd": -10.58,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 105.08,
+    "mark": "none"
   },
   {
     "name": "Devaughn Vele",
@@ -2535,9 +3255,11 @@
     "nflTeam": "NO",
     "bye": 8,
     "tier": "WR7",
-    "projectedDollars": -4.18,
-    "vbd": -11.93,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 102.39,
+    "mark": "none"
   },
   {
     "name": "Cooper Kupp",
@@ -2545,9 +3267,11 @@
     "nflTeam": "SEA",
     "bye": 11,
     "tier": "WR7",
-    "projectedDollars": -4.4,
-    "vbd": -12.56,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 101.13,
+    "mark": "none"
   },
   {
     "name": "Jaylin Noel",
@@ -2555,9 +3279,11 @@
     "nflTeam": "HOU",
     "bye": 8,
     "tier": "WR7",
-    "projectedDollars": -5,
-    "vbd": -14.27,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 97.71,
+    "mark": "none"
   },
   {
     "name": "Kimani Vidal",
@@ -2565,9 +3291,11 @@
     "nflTeam": "LAC",
     "bye": 7,
     "tier": "RB8",
-    "projectedDollars": -5.24,
-    "vbd": -14.93,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 53.47,
+    "mark": "none"
   },
   {
     "name": "Mason Taylor",
@@ -2575,9 +3303,11 @@
     "nflTeam": "NYJ",
     "bye": 13,
     "tier": "TE7",
-    "projectedDollars": -5.27,
-    "vbd": -15.03,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 75.59,
+    "mark": "none"
   },
   {
     "name": "Brashard Smith",
@@ -2585,9 +3315,11 @@
     "nflTeam": "KC",
     "bye": 5,
     "tier": "RB8",
-    "projectedDollars": -5.32,
-    "vbd": -15.19,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 52.96,
+    "mark": "none"
   },
   {
     "name": "Adonai Mitchell",
@@ -2595,9 +3327,11 @@
     "nflTeam": "NYJ",
     "bye": 13,
     "tier": "WR7",
-    "projectedDollars": -5.54,
-    "vbd": -15.8,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 94.64,
+    "mark": "none"
   },
   {
     "name": "Colby Parkinson",
@@ -2605,29 +3339,11 @@
     "nflTeam": "LAR",
     "bye": 11,
     "tier": "TE7",
-    "projectedDollars": -5.59,
-    "vbd": -15.96,
-    "aav": 1
-  },
-  {
-    "name": "Geno Smith",
-    "pos": "QB",
-    "nflTeam": "NYJ",
-    "bye": 13,
-    "tier": "QB4",
-    "projectedDollars": -5.66,
-    "vbd": -16.15,
-    "aav": 1
-  },
-  {
-    "name": "Cam Ward",
-    "pos": "QB",
-    "nflTeam": "TEN",
-    "bye": 9,
-    "tier": "QB4",
-    "projectedDollars": -5.94,
-    "vbd": -16.95,
-    "aav": 1.3
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 73.72,
+    "mark": "none"
   },
   {
     "name": "Oronde Gadsden II",
@@ -2635,9 +3351,11 @@
     "nflTeam": "LAC",
     "bye": 7,
     "tier": "TE7",
-    "projectedDollars": -5.95,
-    "vbd": -16.98,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 71.67,
+    "mark": "none"
   },
   {
     "name": "Jaylen Wright",
@@ -2645,9 +3363,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "RB8",
-    "projectedDollars": -6.15,
-    "vbd": -17.53,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 48.27,
+    "mark": "none"
   },
   {
     "name": "Michael Mayer",
@@ -2655,19 +3375,11 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "TE7",
-    "projectedDollars": -6.23,
-    "vbd": -17.78,
-    "aav": 1
-  },
-  {
-    "name": "Jacoby Brissett",
-    "pos": "QB",
-    "nflTeam": "ARI",
-    "bye": 14,
-    "tier": "QB4",
-    "projectedDollars": -6.26,
-    "vbd": -17.87,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 70.07,
+    "mark": "none"
   },
   {
     "name": "Emanuel Wilson",
@@ -2675,9 +3387,11 @@
     "nflTeam": "SEA",
     "bye": 11,
     "tier": "RB8",
-    "projectedDollars": -6.36,
-    "vbd": -18.14,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 47.06,
+    "mark": "none"
   },
   {
     "name": "Jordyn Tyson",
@@ -2685,9 +3399,11 @@
     "nflTeam": "NO",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -6.41,
-    "vbd": -18.29,
-    "aav": 2.2
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 2.2,
+    "fpts": 89.66,
+    "mark": "none"
   },
   {
     "name": "Germie Bernard",
@@ -2695,9 +3411,11 @@
     "nflTeam": "PIT",
     "bye": 9,
     "tier": "WR8",
-    "projectedDollars": -6.63,
-    "vbd": -18.9,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 88.44,
+    "mark": "none"
   },
   {
     "name": "Malik Washington",
@@ -2705,9 +3423,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -6.7,
-    "vbd": -19.12,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 88.01,
+    "mark": "none"
   },
   {
     "name": "Chris Bell",
@@ -2715,9 +3435,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -6.73,
-    "vbd": -19.19,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 87.86,
+    "mark": "none"
   },
   {
     "name": "Jonah Coleman",
@@ -2725,9 +3447,11 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "RB8",
-    "projectedDollars": -6.81,
-    "vbd": -19.42,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 44.49,
+    "mark": "none"
   },
   {
     "name": "Kyle Juszczyk",
@@ -2735,9 +3459,11 @@
     "nflTeam": "SF",
     "bye": 8,
     "tier": "RB8",
-    "projectedDollars": -7.04,
-    "vbd": -20.09,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 43.16,
+    "mark": "none"
   },
   {
     "name": "Antonio Williams",
@@ -2745,9 +3471,11 @@
     "nflTeam": "WAS",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -7.06,
-    "vbd": -20.14,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 85.96,
+    "mark": "none"
   },
   {
     "name": "Dawson Knox",
@@ -2755,19 +3483,11 @@
     "nflTeam": "BUF",
     "bye": 7,
     "tier": "TE7",
-    "projectedDollars": -7.18,
-    "vbd": -20.48,
-    "aav": 1
-  },
-  {
-    "name": "Aaron Rodgers",
-    "pos": "QB",
-    "nflTeam": "PIT",
-    "bye": 9,
-    "tier": "QB4",
-    "projectedDollars": -7.27,
-    "vbd": -20.73,
-    "aav": 1.2
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 64.69,
+    "mark": "none"
   },
   {
     "name": "Caleb Douglas",
@@ -2775,9 +3495,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -7.32,
-    "vbd": -20.88,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 84.49,
+    "mark": "none"
   },
   {
     "name": "Omar Cooper Jr.",
@@ -2785,9 +3507,11 @@
     "nflTeam": "NYJ",
     "bye": 13,
     "tier": "WR8",
-    "projectedDollars": -7.39,
-    "vbd": -21.07,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 84.1,
+    "mark": "none"
   },
   {
     "name": "Travis Hunter",
@@ -2795,9 +3519,11 @@
     "nflTeam": "JAC",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -7.46,
-    "vbd": -21.27,
-    "aav": 1.1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1.1,
+    "fpts": 83.69,
+    "mark": "none"
   },
   {
     "name": "James Conner",
@@ -2805,9 +3531,11 @@
     "nflTeam": "ARI",
     "bye": 14,
     "tier": "RB8",
-    "projectedDollars": -7.51,
-    "vbd": -21.42,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 40.5,
+    "mark": "none"
   },
   {
     "name": "Dontayvion Wicks",
@@ -2815,9 +3543,11 @@
     "nflTeam": "PHI",
     "bye": 10,
     "tier": "WR8",
-    "projectedDollars": -7.52,
-    "vbd": -21.47,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 83.31,
+    "mark": "none"
   },
   {
     "name": "Theo Johnson",
@@ -2825,9 +3555,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "TE7",
-    "projectedDollars": -7.55,
-    "vbd": -21.53,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 62.58,
+    "mark": "none"
   },
   {
     "name": "Xavier Hutchinson",
@@ -2835,9 +3567,11 @@
     "nflTeam": "HOU",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -7.63,
-    "vbd": -21.77,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 82.71,
+    "mark": "none"
   },
   {
     "name": "Isaiah Davis",
@@ -2845,9 +3579,11 @@
     "nflTeam": "NYJ",
     "bye": 13,
     "tier": "RB8",
-    "projectedDollars": -7.85,
-    "vbd": -22.4,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 38.53,
+    "mark": "none"
   },
   {
     "name": "Tyquan Thornton",
@@ -2855,9 +3591,11 @@
     "nflTeam": "KC",
     "bye": 5,
     "tier": "WR8",
-    "projectedDollars": -8.09,
-    "vbd": -23.07,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 80.1,
+    "mark": "none"
   },
   {
     "name": "Darnell Washington",
@@ -2865,9 +3603,11 @@
     "nflTeam": "PIT",
     "bye": 9,
     "tier": "TE7",
-    "projectedDollars": -8.17,
-    "vbd": -23.3,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 59.05,
+    "mark": "none"
   },
   {
     "name": "Tory Horton",
@@ -2875,9 +3615,11 @@
     "nflTeam": "SEA",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -8.24,
-    "vbd": -23.52,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 79.2,
+    "mark": "none"
   },
   {
     "name": "Troy Franklin",
@@ -2885,9 +3627,11 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "WR8",
-    "projectedDollars": -8.31,
-    "vbd": -23.7,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 78.84,
+    "mark": "none"
   },
   {
     "name": "Emmett Johnson",
@@ -2895,9 +3639,11 @@
     "nflTeam": "KC",
     "bye": 5,
     "tier": "RB8",
-    "projectedDollars": -8.31,
-    "vbd": -23.71,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 35.92,
+    "mark": "none"
   },
   {
     "name": "Darius Slayton",
@@ -2905,9 +3651,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -8.31,
-    "vbd": -23.72,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 78.8,
+    "mark": "none"
   },
   {
     "name": "Erick All Jr.",
@@ -2915,9 +3663,11 @@
     "nflTeam": "CIN",
     "bye": 6,
     "tier": "TE7",
-    "projectedDollars": -8.38,
-    "vbd": -23.92,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 57.8,
+    "mark": "none"
   },
   {
     "name": "Adam Randall",
@@ -2925,9 +3675,11 @@
     "nflTeam": "BAL",
     "bye": 13,
     "tier": "RB8",
-    "projectedDollars": -8.43,
-    "vbd": -24.04,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 35.25,
+    "mark": "none"
   },
   {
     "name": "LeQuint Allen Jr.",
@@ -2935,9 +3687,11 @@
     "nflTeam": "JAC",
     "bye": 7,
     "tier": "RB8",
-    "projectedDollars": -8.45,
-    "vbd": -24.09,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 35.15,
+    "mark": "none"
   },
   {
     "name": "Jacob Saylors",
@@ -2945,9 +3699,11 @@
     "nflTeam": "DET",
     "bye": 6,
     "tier": "RB8",
-    "projectedDollars": -8.5,
-    "vbd": -24.23,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 34.87,
+    "mark": "none"
   },
   {
     "name": "Tyler Higbee",
@@ -2955,9 +3711,11 @@
     "nflTeam": "LAR",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -8.59,
-    "vbd": -24.51,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 56.62,
+    "mark": "none"
   },
   {
     "name": "Xavier Legette",
@@ -2965,9 +3723,11 @@
     "nflTeam": "CAR",
     "bye": 5,
     "tier": "WR8",
-    "projectedDollars": -8.8,
-    "vbd": -25.1,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 76.03,
+    "mark": "none"
   },
   {
     "name": "Roschon Johnson",
@@ -2975,9 +3735,11 @@
     "nflTeam": "CHI",
     "bye": 10,
     "tier": "RB8",
-    "projectedDollars": -8.84,
-    "vbd": -25.22,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 32.9,
+    "mark": "none"
   },
   {
     "name": "Ray Davis",
@@ -2985,9 +3747,11 @@
     "nflTeam": "BUF",
     "bye": 7,
     "tier": "RB8",
-    "projectedDollars": -8.94,
-    "vbd": -25.5,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 32.33,
+    "mark": "none"
   },
   {
     "name": "Jahan Dotson",
@@ -2995,9 +3759,11 @@
     "nflTeam": "ATL",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -8.96,
-    "vbd": -25.55,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 75.13,
+    "mark": "none"
   },
   {
     "name": "Cole Kmet",
@@ -3005,9 +3771,11 @@
     "nflTeam": "CHI",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -9.12,
-    "vbd": -26.03,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 53.58,
+    "mark": "none"
   },
   {
     "name": "Sean Tucker",
@@ -3015,9 +3783,11 @@
     "nflTeam": "TB",
     "bye": 10,
     "tier": "RB8",
-    "projectedDollars": -9.15,
-    "vbd": -26.1,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 31.13,
+    "mark": "none"
   },
   {
     "name": "Seth McGowan",
@@ -3025,9 +3795,11 @@
     "nflTeam": "IND",
     "bye": 13,
     "tier": "RB8",
-    "projectedDollars": -9.19,
-    "vbd": -26.23,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 30.88,
+    "mark": "none"
   },
   {
     "name": "Bryce Lance",
@@ -3035,9 +3807,11 @@
     "nflTeam": "NO",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -9.2,
-    "vbd": -26.26,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 73.73,
+    "mark": "none"
   },
   {
     "name": "George Holani",
@@ -3045,9 +3819,11 @@
     "nflTeam": "SEA",
     "bye": 11,
     "tier": "RB8",
-    "projectedDollars": -9.36,
-    "vbd": -26.71,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 29.92,
+    "mark": "none"
   },
   {
     "name": "Tre' Harris",
@@ -3055,9 +3831,11 @@
     "nflTeam": "LAC",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -9.42,
-    "vbd": -26.87,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 72.5,
+    "mark": "none"
   },
   {
     "name": "Ryan Flournoy",
@@ -3065,9 +3843,11 @@
     "nflTeam": "DAL",
     "bye": 14,
     "tier": "WR8",
-    "projectedDollars": -9.43,
-    "vbd": -26.9,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 72.45,
+    "mark": "none"
   },
   {
     "name": "Isaac TeSlaa",
@@ -3075,9 +3855,11 @@
     "nflTeam": "DET",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -9.45,
-    "vbd": -26.95,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 72.34,
+    "mark": "none"
   },
   {
     "name": "Jalen Tolbert",
@@ -3085,9 +3867,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -9.6,
-    "vbd": -27.39,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 71.46,
+    "mark": "none"
   },
   {
     "name": "Noah Fant",
@@ -3095,9 +3879,11 @@
     "nflTeam": "NO",
     "bye": 8,
     "tier": "TE8",
-    "projectedDollars": -9.87,
-    "vbd": -28.16,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 49.32,
+    "mark": "none"
   },
   {
     "name": "Malachi Fields",
@@ -3105,9 +3891,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -9.9,
-    "vbd": -28.24,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 69.75,
+    "mark": "none"
   },
   {
     "name": "Malik Benson",
@@ -3115,9 +3903,11 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "WR8",
-    "projectedDollars": -9.9,
-    "vbd": -28.25,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 69.75,
+    "mark": "none"
   },
   {
     "name": "Will Kacmarek",
@@ -3125,9 +3915,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "TE8",
-    "projectedDollars": -10,
-    "vbd": -28.53,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 48.59,
+    "mark": "none"
   },
   {
     "name": "Andrei Iosivas",
@@ -3135,9 +3927,11 @@
     "nflTeam": "CIN",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -10,
-    "vbd": -28.53,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 69.18,
+    "mark": "none"
   },
   {
     "name": "Ted Hurst III",
@@ -3145,9 +3939,11 @@
     "nflTeam": "TB",
     "bye": 10,
     "tier": "WR8",
-    "projectedDollars": -10.13,
-    "vbd": -28.91,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 68.43,
+    "mark": "none"
   },
   {
     "name": "Emari Demercado",
@@ -3155,9 +3951,11 @@
     "nflTeam": "DAL",
     "bye": 14,
     "tier": "RB8",
-    "projectedDollars": -10.21,
-    "vbd": -29.12,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 25.1,
+    "mark": "none"
   },
   {
     "name": "Charlie Kolar",
@@ -3165,9 +3963,11 @@
     "nflTeam": "LAC",
     "bye": 7,
     "tier": "TE8",
-    "projectedDollars": -10.29,
-    "vbd": -29.36,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 46.93,
+    "mark": "none"
   },
   {
     "name": "Hollywood Brown",
@@ -3175,9 +3975,11 @@
     "nflTeam": "PHI",
     "bye": 10,
     "tier": "WR8",
-    "projectedDollars": -10.35,
-    "vbd": -29.54,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 67.16,
+    "mark": "none"
   },
   {
     "name": "Corey Kiner",
@@ -3185,9 +3987,11 @@
     "nflTeam": "NE",
     "bye": 11,
     "tier": "RB8",
-    "projectedDollars": -10.38,
-    "vbd": -29.62,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 24.1,
+    "mark": "none"
   },
   {
     "name": "Elic Ayomanor",
@@ -3195,9 +3999,11 @@
     "nflTeam": "TEN",
     "bye": 9,
     "tier": "WR8",
-    "projectedDollars": -10.43,
-    "vbd": -29.76,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 66.72,
+    "mark": "none"
   },
   {
     "name": "Ollie Gordon II",
@@ -3205,9 +4011,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "RB8",
-    "projectedDollars": -10.47,
-    "vbd": -29.87,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 23.6,
+    "mark": "none"
   },
   {
     "name": "DeMario Douglas",
@@ -3215,9 +4023,11 @@
     "nflTeam": "NE",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -10.52,
-    "vbd": -30.02,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 66.2,
+    "mark": "none"
   },
   {
     "name": "Kendre Miller",
@@ -3225,9 +4035,11 @@
     "nflTeam": "NO",
     "bye": 8,
     "tier": "RB8",
-    "projectedDollars": -10.62,
-    "vbd": -30.31,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 22.72,
+    "mark": "none"
   },
   {
     "name": "Chimere Dike",
@@ -3235,9 +4047,11 @@
     "nflTeam": "TEN",
     "bye": 9,
     "tier": "WR8",
-    "projectedDollars": -10.67,
-    "vbd": -30.44,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 65.37,
+    "mark": "none"
   },
   {
     "name": "Audric Estime",
@@ -3245,9 +4059,11 @@
     "nflTeam": "NO",
     "bye": 8,
     "tier": "RB8",
-    "projectedDollars": -10.73,
-    "vbd": -30.62,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 22.1,
+    "mark": "none"
   },
   {
     "name": "Will Shipley",
@@ -3255,9 +4071,11 @@
     "nflTeam": "PHI",
     "bye": 10,
     "tier": "RB8",
-    "projectedDollars": -10.76,
-    "vbd": -30.7,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 21.94,
+    "mark": "none"
   },
   {
     "name": "Jonnu Smith",
@@ -3265,9 +4083,11 @@
     "nflTeam": "GB",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -10.78,
-    "vbd": -30.75,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 44.13,
+    "mark": "none"
   },
   {
     "name": "Zachariah Branch",
@@ -3275,9 +4095,11 @@
     "nflTeam": "ATL",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -10.79,
-    "vbd": -30.78,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 64.67,
+    "mark": "none"
   },
   {
     "name": "Eli Heidenreich",
@@ -3285,9 +4107,11 @@
     "nflTeam": "PIT",
     "bye": 9,
     "tier": "RB8",
-    "projectedDollars": -10.96,
-    "vbd": -31.27,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 20.8,
+    "mark": "none"
   },
   {
     "name": "Brock Wright",
@@ -3295,9 +4119,11 @@
     "nflTeam": "DET",
     "bye": 6,
     "tier": "TE8",
-    "projectedDollars": -10.98,
-    "vbd": -31.32,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 43.01,
+    "mark": "none"
   },
   {
     "name": "Hunter Luepke",
@@ -3305,9 +4131,11 @@
     "nflTeam": "DAL",
     "bye": 14,
     "tier": "RB8",
-    "projectedDollars": -10.98,
-    "vbd": -31.32,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 20.7,
+    "mark": "none"
   },
   {
     "name": "Josh Oliver",
@@ -3315,9 +4143,11 @@
     "nflTeam": "MIN",
     "bye": 6,
     "tier": "TE8",
-    "projectedDollars": -10.99,
-    "vbd": -31.36,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 42.93,
+    "mark": "none"
   },
   {
     "name": "Daniel Bellinger",
@@ -3325,9 +4155,11 @@
     "nflTeam": "TEN",
     "bye": 9,
     "tier": "TE8",
-    "projectedDollars": -11.04,
-    "vbd": -31.48,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 42.67,
+    "mark": "none"
   },
   {
     "name": "Kaytron Allen",
@@ -3335,9 +4167,11 @@
     "nflTeam": "WAS",
     "bye": 7,
     "tier": "RB8",
-    "projectedDollars": -11.11,
-    "vbd": -31.7,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 19.94,
+    "mark": "none"
   },
   {
     "name": "Keon Coleman",
@@ -3345,9 +4179,11 @@
     "nflTeam": "BUF",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -11.19,
-    "vbd": -31.93,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 62.39,
+    "mark": "none"
   },
   {
     "name": "Adam Trautman",
@@ -3355,9 +4191,11 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -11.2,
-    "vbd": -31.96,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 41.72,
+    "mark": "none"
   },
   {
     "name": "Raheim Sanders",
@@ -3365,9 +4203,11 @@
     "nflTeam": "CLE",
     "bye": 11,
     "tier": "RB8",
-    "projectedDollars": -11.21,
-    "vbd": -31.97,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 19.4,
+    "mark": "none"
   },
   {
     "name": "Austin Hooper",
@@ -3375,9 +4215,11 @@
     "nflTeam": "ATL",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -11.31,
-    "vbd": -32.27,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 41.09,
+    "mark": "none"
   },
   {
     "name": "Nicholas Singleton",
@@ -3385,9 +4227,11 @@
     "nflTeam": "TEN",
     "bye": 9,
     "tier": "RB8",
-    "projectedDollars": -11.33,
-    "vbd": -32.32,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 18.69,
+    "mark": "none"
   },
   {
     "name": "Demond Claiborne",
@@ -3395,9 +4239,11 @@
     "nflTeam": "MIN",
     "bye": 6,
     "tier": "RB8",
-    "projectedDollars": -11.34,
-    "vbd": -32.35,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 18.64,
+    "mark": "none"
   },
   {
     "name": "Tommy Tremble",
@@ -3405,9 +4251,11 @@
     "nflTeam": "CAR",
     "bye": 5,
     "tier": "TE8",
-    "projectedDollars": -11.34,
-    "vbd": -32.36,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 40.93,
+    "mark": "none"
   },
   {
     "name": "Eli Raridon",
@@ -3415,9 +4263,11 @@
     "nflTeam": "NE",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -11.35,
-    "vbd": -32.39,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 40.86,
+    "mark": "none"
   },
   {
     "name": "Noah Gray",
@@ -3425,9 +4275,11 @@
     "nflTeam": "KC",
     "bye": 5,
     "tier": "TE8",
-    "projectedDollars": -11.43,
-    "vbd": -32.6,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 40.44,
+    "mark": "none"
   },
   {
     "name": "Tahj Brooks",
@@ -3435,9 +4287,11 @@
     "nflTeam": "CIN",
     "bye": 6,
     "tier": "RB8",
-    "projectedDollars": -11.45,
-    "vbd": -32.66,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 18.01,
+    "mark": "none"
   },
   {
     "name": "DJ Giddens",
@@ -3445,9 +4299,11 @@
     "nflTeam": "IND",
     "bye": 13,
     "tier": "RB8",
-    "projectedDollars": -11.56,
-    "vbd": -32.97,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 17.39,
+    "mark": "none"
   },
   {
     "name": "Rasheen Ali",
@@ -3455,9 +4311,11 @@
     "nflTeam": "BAL",
     "bye": 13,
     "tier": "RB8",
-    "projectedDollars": -11.63,
-    "vbd": -33.18,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 16.97,
+    "mark": "none"
   },
   {
     "name": "Eli Stowers",
@@ -3465,9 +4323,11 @@
     "nflTeam": "PHI",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -11.66,
-    "vbd": -33.25,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 39.14,
+    "mark": "none"
   },
   {
     "name": "Elijah Arroyo",
@@ -3475,9 +4335,11 @@
     "nflTeam": "SEA",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -11.73,
-    "vbd": -33.45,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 38.74,
+    "mark": "none"
   },
   {
     "name": "Joshua Palmer",
@@ -3485,9 +4347,11 @@
     "nflTeam": "BUF",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -11.8,
-    "vbd": -33.66,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 58.92,
+    "mark": "none"
   },
   {
     "name": "Pat Bryant",
@@ -3495,9 +4359,11 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "WR8",
-    "projectedDollars": -11.92,
-    "vbd": -34.01,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 58.22,
+    "mark": "none"
   },
   {
     "name": "Michael Burton",
@@ -3505,9 +4371,11 @@
     "nflTeam": "CLE",
     "bye": 11,
     "tier": "RB8",
-    "projectedDollars": -12.07,
-    "vbd": -34.44,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 14.46,
+    "mark": "none"
   },
   {
     "name": "Davis Allen",
@@ -3515,9 +4383,11 @@
     "nflTeam": "LAR",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -12.28,
-    "vbd": -35.04,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 35.57,
+    "mark": "none"
   },
   {
     "name": "Ashton Dulin",
@@ -3525,9 +4395,11 @@
     "nflTeam": "IND",
     "bye": 13,
     "tier": "WR8",
-    "projectedDollars": -12.4,
-    "vbd": -35.37,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 55.51,
+    "mark": "none"
   },
   {
     "name": "Marlin Klein",
@@ -3535,9 +4407,11 @@
     "nflTeam": "HOU",
     "bye": 8,
     "tier": "TE8",
-    "projectedDollars": -12.42,
-    "vbd": -35.42,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 34.79,
+    "mark": "none"
   },
   {
     "name": "Andrew Beck",
@@ -3545,9 +4419,11 @@
     "nflTeam": "NYJ",
     "bye": 13,
     "tier": "RB8",
-    "projectedDollars": -12.42,
-    "vbd": -35.43,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 12.48,
+    "mark": "none"
   },
   {
     "name": "Ja'Tavion Sanders",
@@ -3555,9 +4431,11 @@
     "nflTeam": "CAR",
     "bye": 5,
     "tier": "TE8",
-    "projectedDollars": -12.43,
-    "vbd": -35.47,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 34.71,
+    "mark": "none"
   },
   {
     "name": "Elijah Higgins",
@@ -3565,9 +4443,11 @@
     "nflTeam": "ARI",
     "bye": 14,
     "tier": "TE8",
-    "projectedDollars": -12.43,
-    "vbd": -35.47,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 34.7,
+    "mark": "none"
   },
   {
     "name": "Alec Ingold",
@@ -3575,9 +4455,11 @@
     "nflTeam": "LAC",
     "bye": 7,
     "tier": "RB8",
-    "projectedDollars": -12.45,
-    "vbd": -35.53,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 12.28,
+    "mark": "none"
   },
   {
     "name": "Ameer Abdullah",
@@ -3585,9 +4467,11 @@
     "nflTeam": "JAC",
     "bye": 7,
     "tier": "RB8",
-    "projectedDollars": -12.52,
-    "vbd": -35.72,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 11.9,
+    "mark": "none"
   },
   {
     "name": "Marvin Mims Jr.",
@@ -3595,9 +4479,11 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "WR8",
-    "projectedDollars": -12.58,
-    "vbd": -35.9,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 54.45,
+    "mark": "none"
   },
   {
     "name": "John Bates",
@@ -3605,9 +4491,11 @@
     "nflTeam": "WAS",
     "bye": 7,
     "tier": "TE8",
-    "projectedDollars": -12.59,
-    "vbd": -35.91,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 33.82,
+    "mark": "none"
   },
   {
     "name": "Isaac Guerendo",
@@ -3615,9 +4503,11 @@
     "nflTeam": "SF",
     "bye": 8,
     "tier": "RB8",
-    "projectedDollars": -12.63,
-    "vbd": -36.02,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 11.3,
+    "mark": "none"
   },
   {
     "name": "KaVontae Turpin",
@@ -3625,9 +4515,11 @@
     "nflTeam": "DAL",
     "bye": 14,
     "tier": "WR8",
-    "projectedDollars": -12.71,
-    "vbd": -36.26,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 53.73,
+    "mark": "none"
   },
   {
     "name": "Kevin Coleman Jr.",
@@ -3635,9 +4527,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -12.74,
-    "vbd": -36.35,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 53.55,
+    "mark": "none"
   },
   {
     "name": "Darnell Mooney",
@@ -3645,9 +4539,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -12.81,
-    "vbd": -36.53,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 53.18,
+    "mark": "none"
   },
   {
     "name": "Devin Singletary",
@@ -3655,9 +4551,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "RB8",
-    "projectedDollars": -12.81,
-    "vbd": -36.54,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 10.25,
+    "mark": "none"
   },
   {
     "name": "Jeremy Ruckert",
@@ -3665,9 +4563,11 @@
     "nflTeam": "NYJ",
     "bye": 13,
     "tier": "TE8",
-    "projectedDollars": -12.86,
-    "vbd": -36.68,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 32.28,
+    "mark": "none"
   },
   {
     "name": "Devontez Walker",
@@ -3675,9 +4575,11 @@
     "nflTeam": "BAL",
     "bye": 13,
     "tier": "WR8",
-    "projectedDollars": -12.88,
-    "vbd": -36.76,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 52.73,
+    "mark": "none"
   },
   {
     "name": "Kene Nwangwu",
@@ -3685,19 +4587,11 @@
     "nflTeam": "NYJ",
     "bye": 13,
     "tier": "RB8",
-    "projectedDollars": -12.89,
-    "vbd": -36.77,
-    "aav": 0
-  },
-  {
-    "name": "Fernando Mendoza",
-    "pos": "QB",
-    "nflTeam": "LV",
-    "bye": 13,
-    "tier": "QB5",
-    "projectedDollars": -13.02,
-    "vbd": -37.13,
-    "aav": 1.1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 9.8,
+    "mark": "none"
   },
   {
     "name": "Jack Bech",
@@ -3705,9 +4599,11 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "WR8",
-    "projectedDollars": -13.02,
-    "vbd": -37.14,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 51.97,
+    "mark": "none"
   },
   {
     "name": "Bam Knight",
@@ -3715,9 +4611,11 @@
     "nflTeam": "ARI",
     "bye": 14,
     "tier": "RB8",
-    "projectedDollars": -13.02,
-    "vbd": -37.14,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 9.05,
+    "mark": "none"
   },
   {
     "name": "Adam Prentice",
@@ -3725,9 +4623,11 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "RB8",
-    "projectedDollars": -13.1,
-    "vbd": -37.38,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 8.57,
+    "mark": "none"
   },
   {
     "name": "Connor Heyward",
@@ -3735,9 +4635,11 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "RB8",
-    "projectedDollars": -13.13,
-    "vbd": -37.45,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 8.44,
+    "mark": "none"
   },
   {
     "name": "Max Bredeson",
@@ -3745,9 +4647,11 @@
     "nflTeam": "MIN",
     "bye": 6,
     "tier": "RB8",
-    "projectedDollars": -13.23,
-    "vbd": -37.74,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 7.85,
+    "mark": "none"
   },
   {
     "name": "Nate Boerkircher",
@@ -3755,9 +4659,11 @@
     "nflTeam": "JAC",
     "bye": 7,
     "tier": "TE8",
-    "projectedDollars": -13.27,
-    "vbd": -37.85,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 29.93,
+    "mark": "none"
   },
   {
     "name": "Drew Sample",
@@ -3765,9 +4671,11 @@
     "nflTeam": "CIN",
     "bye": 6,
     "tier": "TE8",
-    "projectedDollars": -13.29,
-    "vbd": -37.91,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 29.82,
+    "mark": "none"
   },
   {
     "name": "Kaleb Johnson",
@@ -3775,9 +4683,11 @@
     "nflTeam": "GB",
     "bye": 11,
     "tier": "RB8",
-    "projectedDollars": -13.3,
-    "vbd": -37.94,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 7.45,
+    "mark": "none"
   },
   {
     "name": "Jake Tonges",
@@ -3785,9 +4695,11 @@
     "nflTeam": "SF",
     "bye": 8,
     "tier": "TE8",
-    "projectedDollars": -13.3,
-    "vbd": -37.95,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 29.74,
+    "mark": "none"
   },
   {
     "name": "Connor Heyward",
@@ -3795,9 +4707,11 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "TE8",
-    "projectedDollars": -13.4,
-    "vbd": -38.22,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 29.2,
+    "mark": "none"
   },
   {
     "name": "Riley Nowakowski",
@@ -3805,9 +4719,11 @@
     "nflTeam": "PIT",
     "bye": 9,
     "tier": "RB8",
-    "projectedDollars": -13.51,
-    "vbd": -38.53,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 6.27,
+    "mark": "none"
   },
   {
     "name": "Reggie Gilliam",
@@ -3815,9 +4731,11 @@
     "nflTeam": "NE",
     "bye": 11,
     "tier": "RB8",
-    "projectedDollars": -13.51,
-    "vbd": -38.55,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 6.24,
+    "mark": "none"
   },
   {
     "name": "Sione Vaki",
@@ -3825,9 +4743,11 @@
     "nflTeam": "DET",
     "bye": 6,
     "tier": "RB8",
-    "projectedDollars": -13.55,
-    "vbd": -38.66,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 6.02,
+    "mark": "none"
   },
   {
     "name": "Jahdae Walker",
@@ -3835,9 +4755,11 @@
     "nflTeam": "CHI",
     "bye": 10,
     "tier": "WR8",
-    "projectedDollars": -13.6,
-    "vbd": -38.81,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 48.63,
+    "mark": "none"
   },
   {
     "name": "Demarcus Robinson",
@@ -3845,9 +4767,11 @@
     "nflTeam": "SF",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -13.66,
-    "vbd": -38.98,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 48.29,
+    "mark": "none"
   },
   {
     "name": "Patrick Ricard",
@@ -3855,9 +4779,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "RB8",
-    "projectedDollars": -13.69,
-    "vbd": -39.05,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 5.23,
+    "mark": "none"
   },
   {
     "name": "Cade Stover",
@@ -3865,9 +4791,11 @@
     "nflTeam": "HOU",
     "bye": 8,
     "tier": "TE8",
-    "projectedDollars": -14.02,
-    "vbd": -40.01,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 25.63,
+    "mark": "none"
   },
   {
     "name": "Nate Adkins",
@@ -3875,9 +4803,11 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -14.03,
-    "vbd": -40.02,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 25.59,
+    "mark": "none"
   },
   {
     "name": "Ben Sinnott",
@@ -3885,9 +4815,11 @@
     "nflTeam": "WAS",
     "bye": 7,
     "tier": "TE8",
-    "projectedDollars": -14.08,
-    "vbd": -40.16,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 25.32,
+    "mark": "none"
   },
   {
     "name": "Jackson Hawes",
@@ -3895,9 +4827,11 @@
     "nflTeam": "BUF",
     "bye": 7,
     "tier": "TE8",
-    "projectedDollars": -14.1,
-    "vbd": -40.22,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 25.21,
+    "mark": "none"
   },
   {
     "name": "Mack Hollins",
@@ -3905,9 +4839,11 @@
     "nflTeam": "NE",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -14.11,
-    "vbd": -40.26,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 45.73,
+    "mark": "none"
   },
   {
     "name": "Jack Endries",
@@ -3915,9 +4851,11 @@
     "nflTeam": "CIN",
     "bye": 6,
     "tier": "TE8",
-    "projectedDollars": -14.17,
-    "vbd": -40.42,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 24.8,
+    "mark": "none"
   },
   {
     "name": "British Brooks",
@@ -3925,9 +4863,11 @@
     "nflTeam": "HOU",
     "bye": 8,
     "tier": "RB8",
-    "projectedDollars": -14.19,
-    "vbd": -40.47,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 2.4,
+    "mark": "none"
   },
   {
     "name": "Luke Musgrave",
@@ -3935,9 +4875,11 @@
     "nflTeam": "GB",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -14.26,
-    "vbd": -40.68,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 24.28,
+    "mark": "none"
   },
   {
     "name": "Luke Schoonmaker",
@@ -3945,9 +4887,11 @@
     "nflTeam": "DAL",
     "bye": 14,
     "tier": "TE8",
-    "projectedDollars": -14.28,
-    "vbd": -40.75,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 24.15,
+    "mark": "none"
   },
   {
     "name": "Tank Dell",
@@ -3955,9 +4899,11 @@
     "nflTeam": "HOU",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -14.3,
-    "vbd": -40.8,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 44.65,
+    "mark": "none"
   },
   {
     "name": "Christian Kirk",
@@ -3965,9 +4911,11 @@
     "nflTeam": "SF",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -14.46,
-    "vbd": -41.25,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 43.75,
+    "mark": "none"
   },
   {
     "name": "Foster Moreau",
@@ -3975,9 +4923,11 @@
     "nflTeam": "HOU",
     "bye": 8,
     "tier": "TE8",
-    "projectedDollars": -14.49,
-    "vbd": -41.34,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 22.97,
+    "mark": "none"
   },
   {
     "name": "Bauer Sharp",
@@ -3985,9 +4935,11 @@
     "nflTeam": "TB",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -14.52,
-    "vbd": -41.42,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 22.8,
+    "mark": "none"
   },
   {
     "name": "Luke McCaffrey",
@@ -3995,9 +4947,11 @@
     "nflTeam": "WAS",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -14.58,
-    "vbd": -41.6,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 43.05,
+    "mark": "none"
   },
   {
     "name": "Dallen Bentley",
@@ -4005,9 +4959,11 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -14.59,
-    "vbd": -41.62,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 22.4,
+    "mark": "none"
   },
   {
     "name": "DeeJay Dallas",
@@ -4015,9 +4971,11 @@
     "nflTeam": "MIN",
     "bye": 6,
     "tier": "RB8",
-    "projectedDollars": -14.61,
-    "vbd": -41.67,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Jerome Ford",
@@ -4025,9 +4983,11 @@
     "nflTeam": "WAS",
     "bye": 7,
     "tier": "RB8",
-    "projectedDollars": -14.61,
-    "vbd": -41.67,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Tyler Badie",
@@ -4035,9 +4995,11 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "RB8",
-    "projectedDollars": -14.61,
-    "vbd": -41.67,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Trey Benson",
@@ -4045,9 +5007,11 @@
     "nflTeam": "ARI",
     "bye": 14,
     "tier": "RB8",
-    "projectedDollars": -14.61,
-    "vbd": -41.67,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Trevor Etienne",
@@ -4055,9 +5019,11 @@
     "nflTeam": "CAR",
     "bye": 5,
     "tier": "RB8",
-    "projectedDollars": -14.61,
-    "vbd": -41.67,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Dylan Laube",
@@ -4065,9 +5031,11 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "RB8",
-    "projectedDollars": -14.61,
-    "vbd": -41.67,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Chris Collier",
@@ -4075,9 +5043,11 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "RB8",
-    "projectedDollars": -14.61,
-    "vbd": -41.67,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Cyrus Allen",
@@ -4085,9 +5055,11 @@
     "nflTeam": "KC",
     "bye": 5,
     "tier": "WR8",
-    "projectedDollars": -14.62,
-    "vbd": -41.72,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 42.8,
+    "mark": "none"
   },
   {
     "name": "Mo Alie-Cox",
@@ -4095,9 +5067,11 @@
     "nflTeam": "IND",
     "bye": 13,
     "tier": "TE8",
-    "projectedDollars": -14.68,
-    "vbd": -41.88,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 21.87,
+    "mark": "none"
   },
   {
     "name": "Charlie Woerner",
@@ -4105,9 +5079,11 @@
     "nflTeam": "ATL",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -14.7,
-    "vbd": -41.92,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 21.79,
+    "mark": "none"
   },
   {
     "name": "Kyle Williams",
@@ -4115,9 +5091,11 @@
     "nflTeam": "NE",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -14.7,
-    "vbd": -41.94,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 42.36,
+    "mark": "none"
   },
   {
     "name": "Thomas Fidone II",
@@ -4125,9 +5103,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "TE8",
-    "projectedDollars": -14.82,
-    "vbd": -42.27,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 21.1,
+    "mark": "none"
   },
   {
     "name": "Jared Wiley",
@@ -4135,9 +5115,11 @@
     "nflTeam": "KC",
     "bye": 5,
     "tier": "TE8",
-    "projectedDollars": -14.82,
-    "vbd": -42.27,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 21.1,
+    "mark": "none"
   },
   {
     "name": "Will Mallory",
@@ -4145,9 +5127,11 @@
     "nflTeam": "IND",
     "bye": 13,
     "tier": "TE8",
-    "projectedDollars": -15.06,
-    "vbd": -42.97,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 19.7,
+    "mark": "none"
   },
   {
     "name": "Kylen Granson",
@@ -4155,9 +5139,11 @@
     "nflTeam": "TEN",
     "bye": 9,
     "tier": "TE8",
-    "projectedDollars": -15.13,
-    "vbd": -43.17,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 19.3,
+    "mark": "none"
   },
   {
     "name": "Kendrick Bourne",
@@ -4165,9 +5151,11 @@
     "nflTeam": "ARI",
     "bye": 14,
     "tier": "WR8",
-    "projectedDollars": -15.27,
-    "vbd": -43.56,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 39.11,
+    "mark": "none"
   },
   {
     "name": "Theo Wease Jr.",
@@ -4175,9 +5163,11 @@
     "nflTeam": "LAC",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -15.27,
-    "vbd": -43.57,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 39.1,
+    "mark": "none"
   },
   {
     "name": "Durham Smythe",
@@ -4185,9 +5175,11 @@
     "nflTeam": "BAL",
     "bye": 13,
     "tier": "TE8",
-    "projectedDollars": -15.27,
-    "vbd": -43.58,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 18.49,
+    "mark": "none"
   },
   {
     "name": "Oscar Delp",
@@ -4195,9 +5187,11 @@
     "nflTeam": "NO",
     "bye": 8,
     "tier": "TE8",
-    "projectedDollars": -15.3,
-    "vbd": -43.64,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 18.35,
+    "mark": "none"
   },
   {
     "name": "Dyami Brown",
@@ -4205,9 +5199,11 @@
     "nflTeam": "WAS",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -15.33,
-    "vbd": -43.75,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 38.75,
+    "mark": "none"
   },
   {
     "name": "Mitchell Evans",
@@ -4215,9 +5211,11 @@
     "nflTeam": "CAR",
     "bye": 5,
     "tier": "TE8",
-    "projectedDollars": -15.51,
-    "vbd": -44.25,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 17.15,
+    "mark": "none"
   },
   {
     "name": "Treylon Burks",
@@ -4225,9 +5223,11 @@
     "nflTeam": "WAS",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -15.57,
-    "vbd": -44.41,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 37.43,
+    "mark": "none"
   },
   {
     "name": "Kalif Raymond",
@@ -4235,9 +5235,11 @@
     "nflTeam": "CHI",
     "bye": 10,
     "tier": "WR8",
-    "projectedDollars": -15.58,
-    "vbd": -44.46,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 37.33,
+    "mark": "none"
   },
   {
     "name": "Payne Durham",
@@ -4245,9 +5247,11 @@
     "nflTeam": "TB",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -15.59,
-    "vbd": -44.48,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 16.68,
+    "mark": "none"
   },
   {
     "name": "Max Klare",
@@ -4255,9 +5259,11 @@
     "nflTeam": "LAR",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -15.68,
-    "vbd": -44.72,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 16.2,
+    "mark": "none"
   },
   {
     "name": "Seydou Traore",
@@ -4265,9 +5271,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "TE8",
-    "projectedDollars": -15.69,
-    "vbd": -44.76,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 16.12,
+    "mark": "none"
   },
   {
     "name": "Grant Calcaterra",
@@ -4275,9 +5283,11 @@
     "nflTeam": "PHI",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -15.71,
-    "vbd": -44.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 16,
+    "mark": "none"
   },
   {
     "name": "Brevyn Spann-Ford",
@@ -4285,9 +5295,11 @@
     "nflTeam": "DAL",
     "bye": 14,
     "tier": "TE8",
-    "projectedDollars": -15.88,
-    "vbd": -45.3,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 15.04,
+    "mark": "none"
   },
   {
     "name": "Tanner Koziol",
@@ -4295,9 +5307,11 @@
     "nflTeam": "JAC",
     "bye": 7,
     "tier": "TE8",
-    "projectedDollars": -15.98,
-    "vbd": -45.58,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 14.48,
+    "mark": "none"
   },
   {
     "name": "Sam Roush",
@@ -4305,9 +5319,11 @@
     "nflTeam": "CHI",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -16.02,
-    "vbd": -45.7,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 14.24,
+    "mark": "none"
   },
   {
     "name": "Savion Williams",
@@ -4315,9 +5331,11 @@
     "nflTeam": "GB",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -16.04,
-    "vbd": -45.76,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 34.72,
+    "mark": "none"
   },
   {
     "name": "Josh Whyle",
@@ -4325,9 +5343,11 @@
     "nflTeam": "GB",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -16.07,
-    "vbd": -45.86,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 13.93,
+    "mark": "none"
   },
   {
     "name": "Hunter Long",
@@ -4335,9 +5355,11 @@
     "nflTeam": "ARI",
     "bye": 14,
     "tier": "TE8",
-    "projectedDollars": -16.13,
-    "vbd": -46.02,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 13.61,
+    "mark": "none"
   },
   {
     "name": "Ian Thomas",
@@ -4345,9 +5367,11 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "TE8",
-    "projectedDollars": -16.2,
-    "vbd": -46.22,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 13.2,
+    "mark": "none"
   },
   {
     "name": "Josh Cuevas",
@@ -4355,9 +5379,11 @@
     "nflTeam": "BAL",
     "bye": 13,
     "tier": "TE8",
-    "projectedDollars": -16.22,
-    "vbd": -46.27,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 13.09,
+    "mark": "none"
   },
   {
     "name": "Ko Kieft",
@@ -4365,9 +5391,11 @@
     "nflTeam": "TB",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -16.25,
-    "vbd": -46.34,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 12.95,
+    "mark": "none"
   },
   {
     "name": "Drew Ogletree",
@@ -4375,9 +5403,11 @@
     "nflTeam": "IND",
     "bye": 13,
     "tier": "TE8",
-    "projectedDollars": -16.4,
-    "vbd": -46.79,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 12.06,
+    "mark": "none"
   },
   {
     "name": "Blake Whiteheart",
@@ -4385,9 +5415,11 @@
     "nflTeam": "CLE",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -16.5,
-    "vbd": -47.08,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 11.49,
+    "mark": "none"
   },
   {
     "name": "Chris Manhertz",
@@ -4395,9 +5427,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "TE8",
-    "projectedDollars": -16.52,
-    "vbd": -47.14,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 11.36,
+    "mark": "none"
   },
   {
     "name": "Justin Joly",
@@ -4405,9 +5439,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "TE8",
-    "projectedDollars": -16.82,
-    "vbd": -47.99,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 9.65,
+    "mark": "none"
   },
   {
     "name": "Isaiah Bond",
@@ -4415,9 +5451,11 @@
     "nflTeam": "CLE",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -17.07,
-    "vbd": -48.71,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 28.83,
+    "mark": "none"
   },
   {
     "name": "Zavion Thomas",
@@ -4425,9 +5463,11 @@
     "nflTeam": "CHI",
     "bye": 10,
     "tier": "WR8",
-    "projectedDollars": -17.09,
-    "vbd": -48.77,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 28.71,
+    "mark": "none"
   },
   {
     "name": "Skyler Bell",
@@ -4435,9 +5475,11 @@
     "nflTeam": "BUF",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -17.18,
-    "vbd": -49.02,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 28.21,
+    "mark": "none"
   },
   {
     "name": "Luke Farrell",
@@ -4445,9 +5487,11 @@
     "nflTeam": "SF",
     "bye": 8,
     "tier": "TE8",
-    "projectedDollars": -17.24,
-    "vbd": -49.17,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 7.3,
+    "mark": "none"
   },
   {
     "name": "Tyler Conklin",
@@ -4455,9 +5499,11 @@
     "nflTeam": "DET",
     "bye": 6,
     "tier": "TE8",
-    "projectedDollars": -17.24,
-    "vbd": -49.2,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 7.25,
+    "mark": "none"
   },
   {
     "name": "Eric Saubert",
@@ -4465,9 +5511,11 @@
     "nflTeam": "SEA",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -17.3,
-    "vbd": -49.35,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 6.94,
+    "mark": "none"
   },
   {
     "name": "Johnny Mundt",
@@ -4475,9 +5523,11 @@
     "nflTeam": "PHI",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -17.38,
-    "vbd": -49.58,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 6.49,
+    "mark": "none"
   },
   {
     "name": "Carsen Ryan",
@@ -4485,9 +5535,11 @@
     "nflTeam": "CLE",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -17.38,
-    "vbd": -49.58,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 6.48,
+    "mark": "none"
   },
   {
     "name": "Tutu Atwell",
@@ -4495,9 +5547,11 @@
     "nflTeam": "LAR",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -17.61,
-    "vbd": -50.24,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 25.77,
+    "mark": "none"
   },
   {
     "name": "Olamide Zaccheaus",
@@ -4505,9 +5559,11 @@
     "nflTeam": "ATL",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -17.82,
-    "vbd": -50.83,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 24.58,
+    "mark": "none"
   },
   {
     "name": "Colbie Young",
@@ -4515,9 +5571,11 @@
     "nflTeam": "CIN",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -17.88,
-    "vbd": -51.01,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 24.22,
+    "mark": "none"
   },
   {
     "name": "Roman Wilson",
@@ -4525,9 +5583,11 @@
     "nflTeam": "PIT",
     "bye": 9,
     "tier": "WR8",
-    "projectedDollars": -18.13,
-    "vbd": -51.72,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 22.8,
+    "mark": "none"
   },
   {
     "name": "Brenen Thompson",
@@ -4535,9 +5595,11 @@
     "nflTeam": "LAC",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -18.16,
-    "vbd": -51.8,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 22.65,
+    "mark": "none"
   },
   {
     "name": "Isaiah Williams",
@@ -4545,9 +5607,11 @@
     "nflTeam": "NYJ",
     "bye": 13,
     "tier": "WR8",
-    "projectedDollars": -18.37,
-    "vbd": -52.41,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 21.42,
+    "mark": "none"
   },
   {
     "name": "Jaylin Lane",
@@ -4555,9 +5619,11 @@
     "nflTeam": "WAS",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -18.42,
-    "vbd": -52.56,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 21.12,
+    "mark": "none"
   },
   {
     "name": "Elijah Sarratt",
@@ -4565,9 +5631,11 @@
     "nflTeam": "BAL",
     "bye": 13,
     "tier": "WR8",
-    "projectedDollars": -18.43,
-    "vbd": -52.57,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 21.11,
+    "mark": "none"
   },
   {
     "name": "Quintin Morris",
@@ -4575,9 +5643,11 @@
     "nflTeam": "JAC",
     "bye": 7,
     "tier": "TE8",
-    "projectedDollars": -18.52,
-    "vbd": -52.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Cole Turner",
@@ -4585,9 +5655,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "TE8",
-    "projectedDollars": -18.52,
-    "vbd": -52.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Tanner Hudson",
@@ -4595,9 +5667,11 @@
     "nflTeam": "CIN",
     "bye": 6,
     "tier": "TE8",
-    "projectedDollars": -18.52,
-    "vbd": -52.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Ben Sims",
@@ -4605,9 +5679,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "TE8",
-    "projectedDollars": -18.52,
-    "vbd": -52.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Jelani Woods",
@@ -4615,9 +5691,11 @@
     "nflTeam": "NYJ",
     "bye": 13,
     "tier": "TE8",
-    "projectedDollars": -18.52,
-    "vbd": -52.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Lucas Krull",
@@ -4625,9 +5703,11 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -18.52,
-    "vbd": -52.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Julian Hill",
@@ -4635,9 +5715,11 @@
     "nflTeam": "NE",
     "bye": 11,
     "tier": "TE8",
-    "projectedDollars": -18.52,
-    "vbd": -52.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Tip Reiman",
@@ -4645,9 +5727,11 @@
     "nflTeam": "ARI",
     "bye": 14,
     "tier": "TE8",
-    "projectedDollars": -18.52,
-    "vbd": -52.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "CJ Dippre",
@@ -4655,9 +5739,11 @@
     "nflTeam": "TB",
     "bye": 10,
     "tier": "TE8",
-    "projectedDollars": -18.52,
-    "vbd": -52.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Odell Beckham Jr.",
@@ -4665,9 +5751,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -18.74,
-    "vbd": -53.47,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 19.31,
+    "mark": "none"
   },
   {
     "name": "Tez Johnson",
@@ -4675,9 +5763,11 @@
     "nflTeam": "TB",
     "bye": 10,
     "tier": "WR8",
-    "projectedDollars": -18.97,
-    "vbd": -54.11,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 1,
+    "fpts": 18.02,
+    "mark": "none"
   },
   {
     "name": "Jimmy Horn Jr.",
@@ -4685,9 +5775,11 @@
     "nflTeam": "CAR",
     "bye": 5,
     "tier": "WR8",
-    "projectedDollars": -18.98,
-    "vbd": -54.15,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 17.95,
+    "mark": "none"
   },
   {
     "name": "Jordan Whittington",
@@ -4695,9 +5787,11 @@
     "nflTeam": "LAR",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -19.07,
-    "vbd": -54.41,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 17.43,
+    "mark": "none"
   },
   {
     "name": "Konata Mumpfield",
@@ -4705,9 +5799,11 @@
     "nflTeam": "LAR",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -19.27,
-    "vbd": -54.98,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 16.27,
+    "mark": "none"
   },
   {
     "name": "Barion Brown",
@@ -4715,9 +5811,11 @@
     "nflTeam": "NO",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -19.51,
-    "vbd": -55.65,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 14.94,
+    "mark": "none"
   },
   {
     "name": "KeAndre Lambert-Smith",
@@ -4725,9 +5823,11 @@
     "nflTeam": "LAC",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -19.56,
-    "vbd": -55.79,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 14.66,
+    "mark": "none"
   },
   {
     "name": "Jalen Royals",
@@ -4735,9 +5835,11 @@
     "nflTeam": "KC",
     "bye": 5,
     "tier": "WR8",
-    "projectedDollars": -19.57,
-    "vbd": -55.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 14.61,
+    "mark": "none"
   },
   {
     "name": "Laquon Treadwell",
@@ -4745,9 +5847,11 @@
     "nflTeam": "IND",
     "bye": 13,
     "tier": "WR8",
-    "projectedDollars": -19.75,
-    "vbd": -56.33,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 13.58,
+    "mark": "none"
   },
   {
     "name": "Bo Melton",
@@ -4755,9 +5859,11 @@
     "nflTeam": "GB",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -19.81,
-    "vbd": -56.52,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 13.2,
+    "mark": "none"
   },
   {
     "name": "Tay Martin",
@@ -4765,9 +5871,11 @@
     "nflTeam": "DET",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -20.07,
-    "vbd": -57.25,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 11.74,
+    "mark": "none"
   },
   {
     "name": "Malachi Corley",
@@ -4775,9 +5883,11 @@
     "nflTeam": "CLE",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -20.19,
-    "vbd": -57.59,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 11.06,
+    "mark": "none"
   },
   {
     "name": "Derius Davis",
@@ -4785,9 +5895,11 @@
     "nflTeam": "LAC",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -20.57,
-    "vbd": -58.69,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 8.86,
+    "mark": "none"
   },
   {
     "name": "Dohnte Meyers",
@@ -4795,9 +5907,11 @@
     "nflTeam": "CIN",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -20.64,
-    "vbd": -58.87,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 8.5,
+    "mark": "none"
   },
   {
     "name": "Xavier Smith",
@@ -4805,9 +5919,11 @@
     "nflTeam": "LAR",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -20.72,
-    "vbd": -59.11,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 8.03,
+    "mark": "none"
   },
   {
     "name": "Jacob Cowing",
@@ -4815,9 +5931,11 @@
     "nflTeam": "SF",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -20.75,
-    "vbd": -59.19,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 7.86,
+    "mark": "none"
   },
   {
     "name": "Efton Chism III",
@@ -4825,9 +5943,11 @@
     "nflTeam": "NE",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -20.76,
-    "vbd": -59.21,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 7.82,
+    "mark": "none"
   },
   {
     "name": "Jonathan Mingo",
@@ -4835,9 +5955,11 @@
     "nflTeam": "DAL",
     "bye": 14,
     "tier": "WR8",
-    "projectedDollars": -20.85,
-    "vbd": -59.47,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 7.3,
+    "mark": "none"
   },
   {
     "name": "Darius Cooper",
@@ -4845,9 +5967,11 @@
     "nflTeam": "PHI",
     "bye": 10,
     "tier": "WR8",
-    "projectedDollars": -20.86,
-    "vbd": -59.51,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 7.22,
+    "mark": "none"
   },
   {
     "name": "Josh Cameron",
@@ -4855,9 +5979,11 @@
     "nflTeam": "JAC",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -20.94,
-    "vbd": -59.73,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 6.79,
+    "mark": "none"
   },
   {
     "name": "Tai Felton",
@@ -4865,9 +5991,11 @@
     "nflTeam": "MIN",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -20.94,
-    "vbd": -59.75,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 6.75,
+    "mark": "none"
   },
   {
     "name": "Brycen Tremayne",
@@ -4875,9 +6003,11 @@
     "nflTeam": "CAR",
     "bye": 5,
     "tier": "WR8",
-    "projectedDollars": -21,
-    "vbd": -59.9,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 6.45,
+    "mark": "none"
   },
   {
     "name": "Reggie Virgil",
@@ -4885,9 +6015,11 @@
     "nflTeam": "ARI",
     "bye": 14,
     "tier": "WR8",
-    "projectedDollars": -21.04,
-    "vbd": -60.01,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 6.22,
+    "mark": "none"
   },
   {
     "name": "Dareke Young",
@@ -4895,9 +6027,11 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "WR8",
-    "projectedDollars": -21.06,
-    "vbd": -60.08,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 6.08,
+    "mark": "none"
   },
   {
     "name": "Arian Smith",
@@ -4905,9 +6039,11 @@
     "nflTeam": "NYJ",
     "bye": 13,
     "tier": "WR8",
-    "projectedDollars": -21.5,
-    "vbd": -61.34,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 3.57,
+    "mark": "none"
   },
   {
     "name": "Ben Skowronek",
@@ -4915,9 +6051,11 @@
     "nflTeam": "PIT",
     "bye": 9,
     "tier": "WR8",
-    "projectedDollars": -21.57,
-    "vbd": -61.53,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 3.19,
+    "mark": "none"
   },
   {
     "name": "Kameron Johnson",
@@ -4925,9 +6063,11 @@
     "nflTeam": "TB",
     "bye": 10,
     "tier": "WR8",
-    "projectedDollars": -21.81,
-    "vbd": -62.22,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 1.81,
+    "mark": "none"
   },
   {
     "name": "Kaden Wetjen",
@@ -4935,19 +6075,11 @@
     "nflTeam": "PIT",
     "bye": 9,
     "tier": "WR8",
-    "projectedDollars": -21.82,
-    "vbd": -62.24,
-    "aav": 0
-  },
-  {
-    "name": "Tua Tagovailoa",
-    "pos": "QB",
-    "nflTeam": "ATL",
-    "bye": 11,
-    "tier": "QB5",
-    "projectedDollars": -21.94,
-    "vbd": -62.58,
-    "aav": 1
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 1.77,
+    "mark": "none"
   },
   {
     "name": "Braxton Berrios",
@@ -4955,9 +6087,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Gunner Olszewski",
@@ -4965,9 +6099,11 @@
     "nflTeam": "NYG",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Devin Duvernay",
@@ -4975,9 +6111,11 @@
     "nflTeam": "ARI",
     "bye": 14,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Tylan Wallace",
@@ -4985,9 +6123,11 @@
     "nflTeam": "CLE",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Skyy Moore",
@@ -4995,9 +6135,11 @@
     "nflTeam": "GB",
     "bye": 11,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Jalen Brooks",
@@ -5005,9 +6147,11 @@
     "nflTeam": "ARI",
     "bye": 14,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Nikko Remigio",
@@ -5015,9 +6159,11 @@
     "nflTeam": "KC",
     "bye": 5,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Tyrell Shavers",
@@ -5025,9 +6171,11 @@
     "nflTeam": "BUF",
     "bye": 7,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Mason Tipton",
@@ -5035,9 +6183,11 @@
     "nflTeam": "NO",
     "bye": 8,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Dont'e Thornton Jr.",
@@ -5045,9 +6195,11 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "LaJohntay Wester",
@@ -5055,9 +6207,11 @@
     "nflTeam": "BAL",
     "bye": 13,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Ke'Shawn Williams",
@@ -5065,9 +6219,11 @@
     "nflTeam": "CIN",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Myles Price",
@@ -5075,129 +6231,11 @@
     "nflTeam": "MIN",
     "bye": 6,
     "tier": "WR8",
-    "projectedDollars": -22.13,
-    "vbd": -63.12,
-    "aav": 0
-  },
-  {
-    "name": "Deshaun Watson",
-    "pos": "QB",
-    "nflTeam": "CLE",
-    "bye": 11,
-    "tier": "QB5",
-    "projectedDollars": -22.89,
-    "vbd": -65.3,
-    "aav": 1
-  },
-  {
-    "name": "Shedeur Sanders",
-    "pos": "QB",
-    "nflTeam": "CLE",
-    "bye": 11,
-    "tier": "QB6",
-    "projectedDollars": -28,
-    "vbd": -79.88,
-    "aav": 1
-  },
-  {
-    "name": "Michael Penix Jr.",
-    "pos": "QB",
-    "nflTeam": "ATL",
-    "bye": 11,
-    "tier": "QB6",
-    "projectedDollars": -29.32,
-    "vbd": -83.65,
-    "aav": 0
-  },
-  {
-    "name": "Kirk Cousins",
-    "pos": "QB",
-    "nflTeam": "LV",
-    "bye": 13,
-    "tier": "QB7",
-    "projectedDollars": -38.34,
-    "vbd": -109.39,
-    "aav": 1
-  },
-  {
-    "name": "Carson Beck",
-    "pos": "QB",
-    "nflTeam": "ARI",
-    "bye": 14,
-    "tier": "QB7",
-    "projectedDollars": -41.4,
-    "vbd": -118.09,
-    "aav": 0
-  },
-  {
-    "name": "Ty Simpson",
-    "pos": "QB",
-    "nflTeam": "LAR",
-    "bye": 11,
-    "tier": "QB7",
-    "projectedDollars": -43.3,
-    "vbd": -123.52,
-    "aav": 0
-  },
-  {
-    "name": "Marcus Mariota",
-    "pos": "QB",
-    "nflTeam": "WAS",
-    "bye": 7,
-    "tier": "QB7",
-    "projectedDollars": -43.45,
-    "vbd": -123.95,
-    "aav": 0
-  },
-  {
-    "name": "Riley Leonard",
-    "pos": "QB",
-    "nflTeam": "IND",
-    "bye": 13,
-    "tier": "QB7",
-    "projectedDollars": -44.24,
-    "vbd": -126.19,
-    "aav": 0
-  },
-  {
-    "name": "Justin Fields",
-    "pos": "QB",
-    "nflTeam": "KC",
-    "bye": 5,
-    "tier": "QB7",
-    "projectedDollars": -44.41,
-    "vbd": -126.7,
-    "aav": 0
-  },
-  {
-    "name": "Anthony Richardson Sr.",
-    "pos": "QB",
-    "nflTeam": "IND",
-    "bye": 13,
-    "tier": "QB7",
-    "projectedDollars": -44.41,
-    "vbd": -126.7,
-    "aav": 0
-  },
-  {
-    "name": "J.J. McCarthy",
-    "pos": "QB",
-    "nflTeam": "MIN",
-    "bye": 6,
-    "tier": "QB7",
-    "projectedDollars": -44.46,
-    "vbd": -126.83,
-    "aav": 1
-  },
-  {
-    "name": "Jameis Winston",
-    "pos": "QB",
-    "nflTeam": "NYG",
-    "bye": 8,
-    "tier": "QB7",
-    "projectedDollars": -44.57,
-    "vbd": -127.14,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Jarrett Stidham",
@@ -5205,9 +6243,11 @@
     "nflTeam": "DEN",
     "bye": 10,
     "tier": "QB7",
-    "projectedDollars": -44.61,
-    "vbd": -127.28,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 11.3,
+    "mark": "none"
   },
   {
     "name": "Tommy DeVito",
@@ -5215,9 +6255,11 @@
     "nflTeam": "NE",
     "bye": 11,
     "tier": "QB7",
-    "projectedDollars": -44.62,
-    "vbd": -127.28,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 11.29,
+    "mark": "none"
   },
   {
     "name": "Tyson Bagent",
@@ -5225,9 +6267,11 @@
     "nflTeam": "CHI",
     "bye": 10,
     "tier": "QB7",
-    "projectedDollars": -44.62,
-    "vbd": -127.29,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 11.27,
+    "mark": "none"
   },
   {
     "name": "Davis Mills",
@@ -5235,9 +6279,11 @@
     "nflTeam": "HOU",
     "bye": 8,
     "tier": "QB7",
-    "projectedDollars": -44.7,
-    "vbd": -127.51,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.83,
+    "mark": "none"
   },
   {
     "name": "Joshua Dobbs",
@@ -5245,9 +6291,11 @@
     "nflTeam": "DET",
     "bye": 6,
     "tier": "QB7",
-    "projectedDollars": -44.75,
-    "vbd": -127.65,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.55,
+    "mark": "none"
   },
   {
     "name": "Mac Jones",
@@ -5255,9 +6303,11 @@
     "nflTeam": "SF",
     "bye": 8,
     "tier": "QB7",
-    "projectedDollars": -44.75,
-    "vbd": -127.65,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.55,
+    "mark": "none"
   },
   {
     "name": "Tyrod Taylor",
@@ -5265,9 +6315,11 @@
     "nflTeam": "GB",
     "bye": 11,
     "tier": "QB7",
-    "projectedDollars": -44.75,
-    "vbd": -127.66,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.53,
+    "mark": "none"
   },
   {
     "name": "Quinn Ewers",
@@ -5275,9 +6327,11 @@
     "nflTeam": "JAC",
     "bye": 7,
     "tier": "QB7",
-    "projectedDollars": -44.76,
-    "vbd": -127.69,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.48,
+    "mark": "none"
   },
   {
     "name": "Joe Flacco",
@@ -5285,9 +6339,11 @@
     "nflTeam": "CIN",
     "bye": 6,
     "tier": "QB7",
-    "projectedDollars": -44.77,
-    "vbd": -127.71,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.44,
+    "mark": "none"
   },
   {
     "name": "Tanner McKee",
@@ -5295,9 +6351,11 @@
     "nflTeam": "PHI",
     "bye": 10,
     "tier": "QB7",
-    "projectedDollars": -44.77,
-    "vbd": -127.71,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.43,
+    "mark": "none"
   },
   {
     "name": "Kenny Pickett",
@@ -5305,9 +6363,11 @@
     "nflTeam": "CAR",
     "bye": 5,
     "tier": "QB7",
-    "projectedDollars": -44.78,
-    "vbd": -127.74,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.37,
+    "mark": "none"
   },
   {
     "name": "Drew Allar",
@@ -5315,9 +6375,11 @@
     "nflTeam": "PIT",
     "bye": 9,
     "tier": "QB7",
-    "projectedDollars": -44.79,
-    "vbd": -127.79,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.28,
+    "mark": "none"
   },
   {
     "name": "Trey Lance",
@@ -5325,9 +6387,11 @@
     "nflTeam": "LAC",
     "bye": 7,
     "tier": "QB7",
-    "projectedDollars": -44.8,
-    "vbd": -127.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.22,
+    "mark": "none"
   },
   {
     "name": "Tyler Huntley",
@@ -5335,9 +6399,11 @@
     "nflTeam": "BAL",
     "bye": 13,
     "tier": "QB7",
-    "projectedDollars": -44.81,
-    "vbd": -127.82,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.2,
+    "mark": "none"
   },
   {
     "name": "Sam Howell",
@@ -5345,9 +6411,11 @@
     "nflTeam": "DAL",
     "bye": 14,
     "tier": "QB7",
-    "projectedDollars": -44.81,
-    "vbd": -127.84,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.16,
+    "mark": "none"
   },
   {
     "name": "Spencer Rattler",
@@ -5355,9 +6423,11 @@
     "nflTeam": "NO",
     "bye": 8,
     "tier": "QB7",
-    "projectedDollars": -44.83,
-    "vbd": -127.89,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 10.08,
+    "mark": "none"
   },
   {
     "name": "Jalon Daniels",
@@ -5365,9 +6435,11 @@
     "nflTeam": "TB",
     "bye": 10,
     "tier": "QB7",
-    "projectedDollars": -44.85,
-    "vbd": -127.93,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 9.98,
+    "mark": "none"
   },
   {
     "name": "Andy Dalton",
@@ -5375,9 +6447,11 @@
     "nflTeam": "PHI",
     "bye": 10,
     "tier": "QB7",
-    "projectedDollars": -44.86,
-    "vbd": -127.97,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 9.9,
+    "mark": "none"
   },
   {
     "name": "Drew Lock",
@@ -5385,9 +6459,11 @@
     "nflTeam": "SEA",
     "bye": 11,
     "tier": "QB7",
-    "projectedDollars": -44.88,
-    "vbd": -128.04,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 9.77,
+    "mark": "none"
   },
   {
     "name": "Gardner Minshew II",
@@ -5395,9 +6471,11 @@
     "nflTeam": "ARI",
     "bye": 14,
     "tier": "QB7",
-    "projectedDollars": -44.93,
-    "vbd": -128.18,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 9.49,
+    "mark": "none"
   },
   {
     "name": "Cole Payton",
@@ -5405,9 +6483,11 @@
     "nflTeam": "PHI",
     "bye": 10,
     "tier": "QB7",
-    "projectedDollars": -44.98,
-    "vbd": -128.32,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 9.2,
+    "mark": "none"
   },
   {
     "name": "Cade Klubnik",
@@ -5415,9 +6495,11 @@
     "nflTeam": "NYJ",
     "bye": 13,
     "tier": "QB7",
-    "projectedDollars": -45,
-    "vbd": -128.38,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 9.1,
+    "mark": "none"
   },
   {
     "name": "Kyle Allen",
@@ -5425,9 +6507,11 @@
     "nflTeam": "BUF",
     "bye": 7,
     "tier": "QB7",
-    "projectedDollars": -45,
-    "vbd": -128.38,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 9.1,
+    "mark": "none"
   },
   {
     "name": "Jalen Milroe",
@@ -5435,9 +6519,11 @@
     "nflTeam": "SEA",
     "bye": 11,
     "tier": "QB7",
-    "projectedDollars": -45.02,
-    "vbd": -128.44,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 8.96,
+    "mark": "none"
   },
   {
     "name": "Mitchell Trubisky",
@@ -5445,9 +6531,11 @@
     "nflTeam": "TEN",
     "bye": 9,
     "tier": "QB7",
-    "projectedDollars": -45.04,
-    "vbd": -128.49,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 8.86,
+    "mark": "none"
   },
   {
     "name": "Kyle McCord",
@@ -5455,9 +6543,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "QB7",
-    "projectedDollars": -45.22,
-    "vbd": -129.01,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 7.84,
+    "mark": "none"
   },
   {
     "name": "Joe Milton III",
@@ -5465,9 +6555,11 @@
     "nflTeam": "DAL",
     "bye": 14,
     "tier": "QB7",
-    "projectedDollars": -45.52,
-    "vbd": -129.85,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 6.14,
+    "mark": "none"
   },
   {
     "name": "Will Howard",
@@ -5475,9 +6567,11 @@
     "nflTeam": "PIT",
     "bye": 9,
     "tier": "QB7",
-    "projectedDollars": -45.62,
-    "vbd": -130.14,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 5.57,
+    "mark": "none"
   },
   {
     "name": "Mason Rudolph",
@@ -5485,9 +6579,11 @@
     "nflTeam": "PIT",
     "bye": 9,
     "tier": "QB7",
-    "projectedDollars": -45.62,
-    "vbd": -130.15,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 5.55,
+    "mark": "none"
   },
   {
     "name": "Stetson Bennett IV",
@@ -5495,9 +6591,11 @@
     "nflTeam": "LAR",
     "bye": 11,
     "tier": "QB7",
-    "projectedDollars": -45.68,
-    "vbd": -130.32,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 5.2,
+    "mark": "none"
   },
   {
     "name": "Brady Cook",
@@ -5505,9 +6603,11 @@
     "nflTeam": "MIA",
     "bye": 6,
     "tier": "QB7",
-    "projectedDollars": -45.73,
-    "vbd": -130.46,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 4.93,
+    "mark": "none"
   },
   {
     "name": "Nick Mullens",
@@ -5515,9 +6615,11 @@
     "nflTeam": "JAC",
     "bye": 7,
     "tier": "QB7",
-    "projectedDollars": -46.6,
-    "vbd": -132.92,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Josh Johnson",
@@ -5525,9 +6627,11 @@
     "nflTeam": "CIN",
     "bye": 6,
     "tier": "QB7",
-    "projectedDollars": -46.6,
-    "vbd": -132.92,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   },
   {
     "name": "Aidan O'Connell",
@@ -5535,8 +6639,10 @@
     "nflTeam": "LV",
     "bye": 13,
     "tier": "QB7",
-    "projectedDollars": -46.6,
-    "vbd": -132.92,
-    "aav": 0
+    "projectedDollars": 0,
+    "vbd": 0,
+    "aav": 0,
+    "fpts": 0,
+    "mark": "none"
   }
 ]

@@ -62,6 +62,8 @@ export interface Player {
   projectedDollars: number
   vbd: number
   aav: number
+  /** Season projected fantasy points (half-PPR seed) — required to revalue. */
+  fpts?: number
   /** @deprecated prefer `mark` — kept for older backups */
   target?: boolean
   mark: PlayerMark
