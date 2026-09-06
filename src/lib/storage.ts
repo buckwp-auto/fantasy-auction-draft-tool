@@ -1,4 +1,16 @@
-import type { AppState, LeagueSettings, Position, Team } from '../types'
+import type {
+  AppState,
+  LeagueSettings,
+  Player,
+  PlayerMark,
+  Position,
+  Team,
+} from '../types'
+import {
+  DEFAULT_SCORING,
+  DEFAULT_STARTERS,
+  SUPERFLEX_STARTERS,
+} from '../types'
 
 const STORAGE_KEY = 'fantasy-auction-draft-v1'
 
@@ -15,8 +27,22 @@ export function createDefaultSettings(teamCount = 12): LeagueSettings {
     teamCount,
     budget: 200,
     rosterSize: 15,
-    starters: { QB: 1, RB: 2, WR: 2, TE: 1, FLEX: 1, K: 1, DEF: 1 },
+    starters: { ...DEFAULT_STARTERS },
+    flexType: 'WR/RB/TE',
     myTeamId: teams[0].id,
+    keepersCountAgainstBudget: true,
+    keepersExcludedFromSpendingPct: true,
+    scoring: { ...DEFAULT_SCORING },
+  }
+}
+
+/** Preset matching this league’s Superflex format. */
+export function createSuperflexSettings(teamCount = 12): LeagueSettings {
+  const base = createDefaultSettings(teamCount)
+  return {
+    ...base,
+    starters: { ...SUPERFLEX_STARTERS },
+    flexType: 'QB/RB/WR/TE',
   }
 }
 
@@ -30,6 +56,41 @@ export function createInitialState(): AppState {
   }
 }
 
+function normalizeMark(p: Partial<Player>): PlayerMark {
+  if (p.mark === 'target' || p.mark === 'avoid' || p.mark === 'none') return p.mark
+  if (p.target) return 'target'
+  return 'none'
+}
+
+function normalizePlayer(p: Player): Player {
+  return {
+    ...p,
+    mark: normalizeMark(p),
+    target: undefined,
+  }
+}
+
+function normalizeSettings(raw: Partial<LeagueSettings>): LeagueSettings {
+  const defaults = createDefaultSettings()
+  const starters = {
+    ...defaults.starters,
+    ...(raw.starters ?? {}),
+    SUPERFLEX: raw.starters?.SUPERFLEX ?? defaults.starters.SUPERFLEX,
+  }
+  return {
+    ...defaults,
+    ...raw,
+    starters,
+    scoring: { ...defaults.scoring, ...(raw.scoring ?? {}) },
+    flexType: raw.flexType ?? defaults.flexType,
+    keepersCountAgainstBudget:
+      raw.keepersCountAgainstBudget ?? defaults.keepersCountAgainstBudget,
+    keepersExcludedFromSpendingPct:
+      raw.keepersExcludedFromSpendingPct ??
+      defaults.keepersExcludedFromSpendingPct,
+  }
+}
+
 export function loadState(): AppState {
   try {
     const raw = localStorage.getItem(STORAGE_KEY)
@@ -37,9 +98,11 @@ export function loadState(): AppState {
     const parsed = JSON.parse(raw) as AppState
     if (!parsed.settings || !Array.isArray(parsed.teams)) return createInitialState()
     return {
-      settings: { ...createDefaultSettings(), ...parsed.settings },
+      settings: normalizeSettings(parsed.settings),
       teams: parsed.teams,
-      players: Array.isArray(parsed.players) ? parsed.players : [],
+      players: Array.isArray(parsed.players)
+        ? parsed.players.map(normalizePlayer)
+        : [],
       picks: Array.isArray(parsed.picks) ? parsed.picks : [],
     }
   } catch {
@@ -61,9 +124,11 @@ export function importStateJson(json: string): AppState {
     throw new Error('Invalid backup JSON')
   }
   return {
-    settings: { ...createDefaultSettings(), ...parsed.settings },
+    settings: normalizeSettings(parsed.settings),
     teams: parsed.teams,
-    players: Array.isArray(parsed.players) ? parsed.players : [],
+    players: Array.isArray(parsed.players)
+      ? parsed.players.map(normalizePlayer)
+      : [],
     picks: Array.isArray(parsed.picks) ? parsed.picks : [],
   }
 }
@@ -72,19 +137,26 @@ export function playerIdFromName(name: string, pos: Position): string {
   return `${pos}:${name.trim().toLowerCase()}`
 }
 
-export function syncTeamsToCount(teams: Team[], count: number, myTeamId: string): {
+export function syncTeamsToCount(
+  teams: Team[],
+  count: number,
+  myTeamId: string,
+): {
   teams: Team[]
   myTeamId: string
 } {
   const next = [...teams]
   while (next.length < count) {
     const n = next.length + 1
-    next.push({ id: `team-${n}-${crypto.randomUUID().slice(0, 8)}`, name: `Team ${n}` })
+    next.push({
+      id: `team-${n}-${crypto.randomUUID().slice(0, 8)}`,
+      name: `Team ${n}`,
+    })
   }
   const trimmed = next.slice(0, count)
   const myStillExists = trimmed.some((t) => t.id === myTeamId)
   return {
     teams: trimmed,
-    myTeamId: myStillExists ? myTeamId : trimmed[0]?.id ?? '',
+    myTeamId: myStillExists ? myTeamId : (trimmed[0]?.id ?? ''),
   }
 }

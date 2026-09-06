@@ -25,6 +25,7 @@ function Shell() {
           <h1>Fantasy Auction Draft</h1>
           <p className="subtitle">
             {state.settings.teamCount} teams · ${state.settings.budget} ·{' '}
+            {state.settings.starters.SUPERFLEX > 0 ? 'Superflex · ' : ''}
             {state.players.length} players · {state.picks.length} picked ·{' '}
             {metrics.inflationLabel} {metrics.inflation.toFixed(3)}
           </p>

@@ -70,7 +70,7 @@ export function calculateTeamMetrics(state: AppState): TeamMetrics[] {
   return teams.map((team) => {
     const teamPicks = picks.filter((p) => p.teamId === team.id)
     const spent = teamPicks
-      .filter((p) => !p.keeper)
+      .filter((p) => settings.keepersCountAgainstBudget || !p.keeper)
       .reduce((sum, p) => sum + p.paid, 0)
     const remainingBudget = settings.budget - spent
     const draftedCount = teamPicks.filter((p) => p.paid > 0 || p.keeper).length
@@ -90,7 +90,9 @@ export function calculateTeamMetrics(state: AppState): TeamMetrics[] {
       const player = playerById.get(pick.playerId)
       if (!player || pick.paid <= 0) continue
       byPos[player.pos] += 1
-      if (!pick.keeper) spendByPos[player.pos] += pick.paid
+      const excludeKeeperSpend =
+        settings.keepersExcludedFromSpendingPct && pick.keeper
+      if (!excludeKeeperSpend) spendByPos[player.pos] += pick.paid
     }
 
     return {
@@ -115,13 +117,15 @@ export function calculatePositionMetrics(
     const atPos = players.filter((p) => p.pos === pos)
     const paidPicks = atPos
       .map((p) => ({ player: p, pick: drafted.get(p.id) }))
-      .filter(
-        (x): x is { player: Player; pick: Pick } =>
-          !!x.pick && x.pick.paid > 0 && !x.pick.keeper,
-      )
+      .filter((x): x is { player: Player; pick: Pick } => {
+        if (!x.pick || x.pick.paid <= 0) return false
+        // spending % excludes keepers (sheet default); inflation still uses all paid
+        return true
+      })
 
-    const paidSum = paidPicks.reduce((s, x) => s + x.pick.paid, 0)
-    const projectedPaidSum = paidPicks.reduce(
+    const paidForPct = paidPicks.filter((x) => !x.pick.keeper)
+    const paidSum = paidForPct.reduce((s, x) => s + x.pick.paid, 0)
+    const projectedPaidSum = paidForPct.reduce(
       (s, x) => s + x.player.projectedDollars,
       0,
     )

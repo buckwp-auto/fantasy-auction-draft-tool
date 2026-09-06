@@ -151,7 +151,7 @@ export function parsePlayersCsv(text: string): CsvParseResult {
       projectedDollars: parseNumber(get('projected')),
       vbd: parseNumber(get('vbd')),
       aav: parseNumber(get('aav')),
-      target: false,
+      mark: 'none',
     })
   }
 
@@ -174,12 +174,20 @@ export function playersFromSampleJson(
     projectedDollars: number
     vbd: number
     aav: number
+    mark?: string
+    target?: boolean
   }>,
 ): Player[] {
   const players: Player[] = []
   for (const row of data) {
     const pos = normalizePos(row.pos)
     if (!pos) continue
+    const mark =
+      row.mark === 'target' || row.mark === 'avoid' || row.mark === 'none'
+        ? row.mark
+        : row.target
+          ? 'target'
+          : 'none'
     players.push({
       id: playerIdFromName(row.name, pos),
       name: row.name,
@@ -195,7 +203,7 @@ export function playersFromSampleJson(
       projectedDollars: row.projectedDollars ?? 0,
       vbd: row.vbd ?? 0,
       aav: row.aav ?? 0,
-      target: false,
+      mark,
     })
   }
   players.sort((a, b) => b.projectedDollars - a.projectedDollars || b.vbd - a.vbd)

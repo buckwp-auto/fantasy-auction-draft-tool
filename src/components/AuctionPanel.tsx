@@ -20,10 +20,11 @@ export function AuctionPanel() {
     recordPick,
     clearPick,
     undoLastPick,
-    toggleTarget,
+    cyclePlayerMark,
   } = useDraft()
   const [query, setQuery] = useState('')
   const [posFilter, setPosFilter] = useState<Position | 'ALL'>('ALL')
+  const [markFilter, setMarkFilter] = useState<'ALL' | 'target' | 'avoid'>('ALL')
   const [availableOnly, setAvailableOnly] = useState(true)
   const [draftPlayerId, setDraftPlayerId] = useState<string | null>(null)
   const [draftTeamId, setDraftTeamId] = useState(state.settings.myTeamId)
@@ -39,6 +40,7 @@ export function AuctionPanel() {
     const q = query.trim().toLowerCase()
     return state.players.filter((p) => {
       if (posFilter !== 'ALL' && p.pos !== posFilter) return false
+      if (markFilter !== 'ALL' && (p.mark ?? 'none') !== markFilter) return false
       const pick = pickByPlayer.get(p.id)
       if (availableOnly && pick) return false
       if (!q) return true
@@ -48,7 +50,7 @@ export function AuctionPanel() {
         p.tier.toLowerCase().includes(q)
       )
     })
-  }, [state.players, query, posFilter, availableOnly, pickByPlayer])
+  }, [state.players, query, posFilter, markFilter, availableOnly, pickByPlayer])
 
   const bestIds = useMemo(() => {
     const ids = new Set<string>()
@@ -159,6 +161,16 @@ export function AuctionPanel() {
             </option>
           ))}
         </select>
+        <select
+          value={markFilter}
+          onChange={(e) =>
+            setMarkFilter(e.target.value as 'ALL' | 'target' | 'avoid')
+          }
+        >
+          <option value="ALL">All marks</option>
+          <option value="target">Targets only</option>
+          <option value="avoid">Avoids only</option>
+        </select>
         <label className="checkbox">
           <input
             type="checkbox"
@@ -167,13 +179,14 @@ export function AuctionPanel() {
           />
           Available only
         </label>
+        <span className="muted small">Click ★ to cycle none → target → avoid</span>
       </div>
 
       <div className="table-wrap">
         <table className="auction-table">
           <thead>
             <tr>
-              <th></th>
+              <th title="Mark">★</th>
               <th>Player</th>
               <th>Pos</th>
               <th>Bye</th>
@@ -198,13 +211,15 @@ export function AuctionPanel() {
                 ? state.teams.find((t) => t.id === pick.teamId)?.name
                 : ''
               const isBest = bestIds.has(p.id)
+              const mark = p.mark ?? 'none'
               return (
                 <tr
                   key={p.id}
                   className={[
                     pick ? 'drafted' : '',
                     isBest ? 'best-available' : '',
-                    p.target ? 'targeted' : '',
+                    mark === 'target' ? 'targeted' : '',
+                    mark === 'avoid' ? 'avoided' : '',
                   ]
                     .filter(Boolean)
                     .join(' ')}
@@ -212,11 +227,11 @@ export function AuctionPanel() {
                   <td>
                     <button
                       type="button"
-                      className={`star ${p.target ? 'on' : ''}`}
-                      title="Target"
-                      onClick={() => toggleTarget(p.id)}
+                      className={`star mark-${mark}`}
+                      title={`Mark: ${mark} (click to cycle)`}
+                      onClick={() => cyclePlayerMark(p.id)}
                     >
-                      ★
+                      {mark === 'avoid' ? '✕' : '★'}
                     </button>
                   </td>
                   <td>{p.name}</td>
@@ -231,7 +246,10 @@ export function AuctionPanel() {
                     {pick ? money(skew) : ''}
                   </td>
                   <td>{money(p.aav)}</td>
-                  <td>{teamName}</td>
+                  <td>
+                    {teamName}
+                    {pick?.keeper ? ' (K)' : ''}
+                  </td>
                   <td className="row-actions">
                     {pick ? (
                       <button type="button" onClick={() => clearPick(p.id)}>

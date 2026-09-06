@@ -6,7 +6,7 @@ Static auction-draft tracker inspired by [elboberto’s Fantasy Football spreads
 
 - League + team setup (budget, roster size, starters, up to 20 teams)
 - CSV player import (`name,pos,team,bye,tier,projected$,vbd,aav`)
-- Bundled **2026 sample** extracted from the elboberto Auction sheet
+- **Offline data refresh** via FantasyPros API → `public/data/players.json` + `lastUpdated`
 - Live auction board: paid cost, inflated $, skew, drafted by, targets
 - Overall inflation/deflation and per-position best/2nd remaining + dropoff
 - Team budgets, max bid, and rosters
@@ -16,15 +16,47 @@ Static auction-draft tracker inspired by [elboberto’s Fantasy Football spreads
 
 ```bash
 npm install
+cp .env.example .env   # add FANTASYPROS_API_KEY
+npm run refresh-data   # writes public/data/*
 npm run dev
 ```
 
-Open the URL Vite prints (usually http://localhost:5173).
-
 1. **Setup** — set teams/budget and rename teams  
-2. **Players** — click **Load 2026 sample** or import your CSV  
-3. **Auction** — draft players as the auction runs  
+2. **Players** — **Load current data** (or CSV)  
+3. **Auction** — draft as the auction runs  
 4. **Teams** — review budgets and rosters  
+
+## Refreshing player data (no live proxy)
+
+GitHub Pages is static — the browser never calls FantasyPros. You refresh locally, commit the JSON, and redeploy.
+
+```bash
+# .env (gitignored)
+FANTASYPROS_API_KEY=your_key_here
+AAV_PROVIDER=yahoo
+SEASON=2026
+
+npm run refresh-data
+git add public/data
+git commit -m "Refresh player data"
+git push
+```
+
+### FantasyPros API key
+
+1. Request a key: [secure.fantasypros.com/api-keys/request](https://secure.fantasypros.com/api-keys/request)  
+2. Docs: [fantasypros.com/api-data](https://www.fantasypros.com/api-data/)  
+3. **Free** keys return ~10 players/position (too small for full VBD). The refresh script then **overlays** FP metadata onto the Excel sample seed.  
+4. **Premium / HOF** (~$8.99/mo) unlocks full projections — the script then runs the starter/bench `$` valuation end-to-end from FP stats.
+
+How this mirrors the Excel sheet:
+
+| Sheet source | Our refresh |
+|--------------|-------------|
+| FantasyPros projections → Raw tabs | FP API `/nfl/{season}/projections` |
+| LeagueInfo VBD → `$` | `scripts/lib/valuation.ts` (starter/bench) when API is full |
+| Yahoo/ESPN AAV → Skew | Best-effort AAV fetch (`AAV_PROVIDER`) |
+| ESPN depth-chart Power Query | Not ported (auction doesn’t need it) |
 
 ## CSV format
 
@@ -33,13 +65,7 @@ name,pos,team,bye,tier,projected$,vbd,aav
 Jahmyr Gibbs,RB,DET,6,RB1,83.52,218.59,72.7
 ```
 
-`pos` must be one of: `QB`, `RB`, `WR`, `TE`, `K`, `DEF` (aliases: `DST`).
-
-Each season, replace the player pool with a fresh CSV (same practical workflow as pasting into the spreadsheet’s Raw tabs).
-
-## Follow-up: scrape proxy
-
-Not in this release. Next step can add a small serverless/proxy that pulls FantasyPros (API key) and/or ESPN depth charts and returns CSV/JSON for the app to import — keeping the static Pages frontend CORS-safe.
+`pos`: `QB`, `RB`, `WR`, `TE`, `K`, `DEF` (alias `DST`).
 
 ## Inflation math (from the sheet)
 
@@ -49,29 +75,20 @@ Not in this release. Next step can add a small serverless/proxy that pulls Fanta
 | Inflated $ | `projected$ × inflation` |
 | Max bid | `remainingBudget − (rosterSpotsLeft − 1)` |
 
-## Why no live web scrape?
-
-The Excel workbook’s Power Query only scrapes an ESPN **depth chart** article. Projections are manual (FantasyPros). A browser-only GitHub Pages app cannot reliably call those sites (CORS / API keys). **CSV import** is the v1 data path. A small **proxy + scraper** is planned as follow-up work.
-
 ## Deploy to GitHub Pages
 
-1. Create a GitHub repo named `fantasy-auction-draft-tool` (or update `base` in `vite.config.ts` to match).
-2. Push this project.
-3. In the repo: **Settings → Pages → Source: GitHub Actions**.
-4. Push to `main` — the workflow builds with `GITHUB_PAGES=true` and publishes `dist/`.
+1. Push to `main` on `fantasy-auction-draft-tool`.
+2. **Settings → Pages → Source: GitHub Actions**.
+3. Workflow builds with `GITHUB_PAGES=true` and publishes `dist/`.
 
-Manual publish:
-
-```bash
-GITHUB_PAGES=true npm run build
-npx gh-pages -d dist
-```
+Site: `https://buckwp-auto.github.io/fantasy-auction-draft-tool/`
 
 ## Scripts
 
 | Command | Description |
 |---------|-------------|
 | `npm run dev` | Local dev server |
+| `npm run refresh-data` | Pull FP (+ AAV) → `public/data/` |
 | `npm run build` | Typecheck + production build |
 | `npm run preview` | Preview production build |
 | `npm run deploy` | Build for Pages + `gh-pages` |
@@ -79,3 +96,10 @@ npx gh-pages -d dist
 ## Backup
 
 Use **Setup → Export JSON** before draft day. Import restores settings, players, and picks.
+
+For the 2026 keeper start file (12-team Superflex, $200, keepers pre-loaded): import [`draft-2026-keepers.json`](draft-2026-keepers.json) via Setup → Import JSON. Your team is **Buck, Will** ($160 remaining after keepers).
+
+## Security
+
+- Put API keys only in `.env` (gitignored). Never commit them.
+- If a key was pasted into chat, rotate it on FantasyPros.

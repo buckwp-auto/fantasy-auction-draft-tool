@@ -1,0 +1,27 @@
+{
+  "season": 2026,
+  "lastUpdated": "2026-09-06T04:08:52.447Z",
+  "sources": {
+    "projections": "fantasypros-free+excel-seed",
+    "aav": "yahoo",
+    "valuation": "seed-overlay"
+  },
+  "api": {
+    "tier": "free",
+    "projectionRows": 60,
+    "limited": true
+  },
+  "leagueDefaults": {
+    "teams": 12,
+    "budget": 200,
+    "rosterSize": 15,
+    "scoring": "half-ppr",
+    "starterPct": 0.88,
+    "benchPct": 0.12
+  },
+  "counts": {
+    "players": 554,
+    "aavMatched": 0
+  },
+  "notes": "Free FantasyPros keys return ~10 players/position. Player pool $ / VBD come from the Excel seed; FP refreshes bye/tier metadata. Upgrade to HOF/Premium for full live projection valuation."
+}

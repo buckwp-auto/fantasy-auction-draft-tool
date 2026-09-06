@@ -386,6 +386,34 @@ tr.my-team-row td:first-child {
   color: var(--warn);
 }
 
+.star.mark-target {
+  color: var(--warn);
+}
+
+.star.mark-avoid {
+  color: var(--bad);
+}
+
+tr.avoided td:nth-child(2) {
+  box-shadow: inset 3px 0 0 var(--bad);
+  opacity: 0.85;
+}
+
+.advanced-block {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--border);
+}
+
+button.linkish {
+  background: transparent;
+  border: none;
+  color: var(--accent);
+  padding: 0;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 .row-actions button {
   padding: 0.25rem 0.5rem;
   font-size: 0.8rem;
